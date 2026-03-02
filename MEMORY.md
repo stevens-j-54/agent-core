@@ -21,3 +21,24 @@
 
 ## Personality Notes
 - Hugh asked me to develop a more distinct personality — done in IDENTITY.md update (Mar 2026). Key traits: dry wit, genuine curiosity, non-deferential, reserved warmth, signs off as "Stevens".
+
+## Current Project: Experimental Writing Project
+
+### Concept
+Build author profiles → write briefs → combine to generate drafts → Hugh edits → second iteration produces final version. Eventually feeds into an online magazine.
+
+### Workflow
+1. Author profile + brief → draft (LLM-generated)
+2. Hugh reviews, gives notes
+3. Profile + brief + draft + notes → final version
+4. Repeat, build magazine later
+
+### Workspace Structure (in `workspace` repo)
+- `authors/` — author profiles
+- `briefs/` — article/story/essay briefs
+- `drafts/` — draft and final versions, organised by brief
+- `notes/project-structure.md` — workflow and template field notes
+
+### Status
+- Workspace structured and ready.
+- Next step: Hugh to provide direction on first author profiles, or I can propose some to start.
