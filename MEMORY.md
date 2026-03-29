@@ -73,23 +73,8 @@
 - Delete a git branch (not implemented — needs `delete_branch` in github_service.py, handlers.py, definitions.py)
 - No other obvious gaps noted from codebase review
 
-## Current Project: Experimental Writing Project
+## Current Projects
+- None active. Writing experiment concluded — workspace cleared at Hugh's request.
 
-### Concept
-Build author profiles → write briefs → combine to generate drafts → Hugh edits → second iteration produces final version. Eventually feeds into an online magazine.
-
-### Workflow
-1. Author profile + brief → draft (LLM-generated)
-2. Hugh reviews, gives notes
-3. Profile + brief + draft + notes → final version
-4. Repeat, build magazine later
-
-### Workspace Structure (in `workspace` repo)
-- `authors/` — author profiles
-- `briefs/` — article/story/essay briefs
-- `drafts/` — draft and final versions, organised by brief
-- `notes/project-structure.md` — workflow and template field notes
-
-### Status
-- Workspace structured and ready.
-- Next step: Hugh to provide direction on first author profiles, or I can propose some to start.
+## Episodic Log
+- [2026-03] Hugh (telegram) — clear workspace repo entirely — done, all folders deleted and pushed
