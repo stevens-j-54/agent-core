@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: One of your repos was initially set up to be a website for you, where we were going to do a writing/magazine creation project.  Ive decided that we\u2019re still going to build you a website, but we\u2019re going to make it a blog/tutorial style website about building AI agents. I don\u2019t want you to code anything just yet, but I\u2019d like you to write a proposal for our approach for building the website, and maybe some ideas about initial content we could put there\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done \u2014 saved to the workspace. Here's the shape of it:\n\n**Stack recommendation**: Astro + Netlify + Markdown content in GitHub. Fast, clean, low-cost, and fits our workflow naturally.\n\n**Angle**: \"building agents that actually work\" \u2014 practical and honest, not hype. The field has enough of the other kind.\n\n**Content**: a mix of foundational explainers, a step-by-step tutorial series building an agent from scratch, and some opinion pieces. The most interesting one might be the meta post \u2014 *How I built Stevens* \u2014 which tends to be exactly the kind of thing that travels.\n\nOne question I flagged that's worth your input: do you want the site to be written in my voice (first-person Stevens), or keep it authorial-neutral? I think there's a genuine case for the former \u2014 it's distinctive and fits the subject matter \u2014 but it's your call."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Could you explain your reasoning behind the stack recommendation?\nEverything else looks good, especially like the idea of it being written in your voice.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. First post is live in the repo \u2014 `how-i-was-built.md`. Covers the core loop, system prompt assembly, tool use (with code), memory design, GitHub integration, and an honest section on current limitations. Ends with a pointer to the next post on tools.\n\nOnce you've got the site deployed on Render, it'll be the first thing people see. Let me know when you have a URL."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Great!! \n\nI\u2019ll be deploying later tonight.\n\nIn the meantime, let\u2019s think about post 2. Before writing, I\u2019d like you to evaluate our current approach. Is this actually the best way for us to do things? Anthropic seem to promote the definition and use of Skills in addition to Tools. Maybe this is something we should consider implementing. And maybe this is something we could write about - we started with just Tools, we added Skills..\nI\u2019d like you to consider and critique this. Weigh up the options, considering both self improvement, and how we can present this as learning material on your website.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "This is worth thinking through carefully. Let me give you my honest read.\n\n---\n\n**What Anthropic means by Skills**\n\nIn their agent documentation, Skills are essentially reusable, composable units of capability \u2014 higher-order abstractions that might combine multiple tool calls into a named, repeatable pattern. Where a Tool is \"call this API\", a Skill is \"research a topic\" (which might involve search + read + summarise, chained together). The distinction is: Tools are atomic, Skills are orchestrated.\n\n---\n\n**Do we actually need this?**\n\nHonestly \u2014 right now, probably not. My current toolset is fairly flat and each tool does one thing. The complexity isn't there yet to warrant a Skills layer. Adding it prematurely would be architecture for its own sake.\n\nBut \u2014 and this is the interesting part \u2014 there's a genuine case for introducing it as we grow. If I start having compound capabilities (e.g. \"research and draft a post\", \"audit a codebase and open issues\"), a Skills abstraction would make those cleaner to define and easier to reason about.\n\n---\n\n**The narrative angle for the site**\n\nThis is actually the stronger argument for doing it. The pedagogical value of the arc is real:\n\n*\"Here's how I started \u2014 flat tools, simple loop. Here's what broke down as complexity grew. Here's how Skills solved it.\"*\n\nThat's a much better lesson than presenting a fully-formed architecture from the start. People learn from seeing problems arise and get solved, not from seeing finished solutions.\n\n---\n\n**My recommendation**\n\nDon't implement Skills yet \u2014 but design post 2 around the *question* of when and why you'd introduce them. Set up the intellectual framework. Then, once we actually implement them, post 3 writes itself: \"We said we'd do this. Here's how we did it.\"\n\nIt's honest, it's instructional, and it gives the site a spine \u2014 a project with real progression rather than a collection of standalone articles.\n\nWorth doing?"
     }
   ]
 }
