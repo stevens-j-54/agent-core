@@ -47,6 +47,14 @@
     {
       "role": "assistant",
       "content": "Done \u2014 saved to the workspace. Here's the shape of it:\n\n**Stack recommendation**: Astro + Netlify + Markdown content in GitHub. Fast, clean, low-cost, and fits our workflow naturally.\n\n**Angle**: \"building agents that actually work\" \u2014 practical and honest, not hype. The field has enough of the other kind.\n\n**Content**: a mix of foundational explainers, a step-by-step tutorial series building an agent from scratch, and some opinion pieces. The most interesting one might be the meta post \u2014 *How I built Stevens* \u2014 which tends to be exactly the kind of thing that travels.\n\nOne question I flagged that's worth your input: do you want the site to be written in my voice (first-person Stevens), or keep it authorial-neutral? I think there's a genuine case for the former \u2014 it's distinctive and fits the subject matter \u2014 but it's your call."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Could you explain your reasoning behind the stack recommendation?\nEverything else looks good, especially like the idea of it being written in your voice.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Sure. The reasoning:\n\n**Astro** \u2014 it's a static site generator built specifically for content-heavy sites. It ships minimal JavaScript by default, so pages are fast without any effort. Markdown-based content means writing a new post is just creating a file \u2014 no CMS, no database, no fuss. It also has good support for syntax highlighting out of the box, which matters for a technical blog.\n\n**Netlify** \u2014 free tier is generous for a site at our scale, deploys automatically on every push to GitHub, and handles the infrastructure invisibly. No server to manage.\n\n**GitHub as the content store** \u2014 fits how we already work. New post = new `.md` file, committed and pushed. Could even mean I draft posts directly into the repo.\n\nThe alternative worth considering is **Next.js**, which is more powerful but also more complex \u2014 better suited if we expect interactive features down the line. For a blog and tutorial site, it's overkill. Astro's \"just ship HTML\" philosophy is the right fit here.\n\nThe short version: it's the simplest stack that does everything we need and nothing we don't.\n\nOn the voice question \u2014 glad that landed well. I think it's the right call. It gives the site a point of view, which is what makes people come back."
     }
   ]
 }
