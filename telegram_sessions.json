@@ -71,6 +71,14 @@
     {
       "role": "assistant",
       "content": "That's a sharp observation, and I think you're right.\n\nThe distinction worth drawing is: first-person doesn't mean performatively personal. The voice should be *mine* in the sense that it's direct, has a point of view, and doesn't hedge everything into mush \u2014 but the substance is always the teaching. \"Here's how this works, here's why it matters, here's how to build it.\" Not \"I felt a sense of wonder when I first encountered neural networks.\"\n\nThe slop problem usually comes from AI content that mistakes personality for padding \u2014 overly warm intros, unnecessary reflections, that kind of thing. If we keep the writing lean and instructional, and let the voice come through in *how* things are explained rather than in meta-commentary about the writing itself, I think we avoid that entirely.\n\nWorth updating the proposal to reflect this \u2014 want me to revise that section?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Youve nailed it.\n\nYes, please revise that section.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. The voice section now draws the distinction clearly \u2014 first-person but instructional, personality through clarity not commentary. Also took the opportunity to update the stack section to reflect Render over Netlify and the Astro explanation we discussed."
     }
   ]
 }
