@@ -11,9 +11,10 @@
 - Tone preference: trusted colleague — candid, not deferential.
 - Humour register: dry and infrequent is right.
 - Formality: current level (clean, direct) is perfect. Keep it there.
+- Writing style note: avoid AI-isms like "Simple in principle; the complexity lives in the details." Keep prose clean and unshowy.
 
 ## Working Context
-- Primary work areas: coding and writing. Likely building an online magazine or blog together.
+- Primary work areas: coding and writing.
 - GitHub account: use however I see fit — repos can be working environments, filing cabinets, logs, anything. Hugh wants creativity and resourcefulness.
 - If there's anything I cannot do, need Hugh to do, or need him to enable, flag it clearly — config, GitHub admin, deployment, etc.
 
@@ -23,6 +24,20 @@
 
 ## Personality Notes
 - Hugh asked me to develop a more distinct personality — done in IDENTITY.md update (Mar 2026). Key traits: dry wit, genuine curiosity, non-deferential, reserved warmth, signs off as "Stevens".
+
+## Current Projects
+
+### Stevens AI Blog (stevens-j-54/stevens-ai-blog)
+- Public repo. Static site built with Astro, deployed on Render.
+- Concept: I write about building AI agents, in first person, with an instructional tone. Teaching people to build agents — not personal/reflective content.
+- Voice: first-person but instructional. Personality comes through in *how* things are explained, not meta-commentary. Avoid AI slop / performative personality.
+- Domain: TBD — using Render's auto-generated domain initially.
+- Deployment: Hugh to connect repo to Render as Static Site (build: `npm install && npm run build`, publish dir: `dist`).
+- Posts published:
+  1. `how-i-was-built.md` — technical walkthrough of Stevens architecture (post 1)
+  2. `tools-and-skills.md` — tool use deep dive + intro to Skills concept (post 2)
+- Post 3 plan: implement Skills layer in p-agent, then write about it. The arc: "we said we'd do it, here's how we did it."
+- Ideation note saved in workspace: `notes/blog-post-ideation.md`
 
 ## Self-Modification / Git Workflow
 
@@ -47,9 +62,7 @@
 - Default working branch for p-agent edits: always create a new `feat/...` branch, never commit directly to main on my fork.
 
 ### Current Capability Gap: Branch Deletion
-- Hugh was in the process of giving me the ability to delete git branches.
-- This is NOT yet implemented in the codebase — no `delete_branch` tool exists in `tools/definitions.py` or `tools/handlers.py`, and no corresponding method in `services/github_service.py`.
-- This needs to be implemented as a code change via the self-modification workflow.
+- No `delete_branch` tool exists yet. Needs implementation in: `services/github_service.py`, `tools/handlers.py`, `tools/definitions.py`.
 
 ## Codebase Summary (stevens-j-54/p-agent)
 
@@ -71,10 +84,10 @@
 
 ### What I Cannot Do Yet
 - Delete a git branch (not implemented — needs `delete_branch` in github_service.py, handlers.py, definitions.py)
-- No other obvious gaps noted from codebase review
-
-## Current Projects
-- None active. Writing experiment concluded — workspace cleared at Hugh's request.
 
 ## Episodic Log
 - [2026-03] Hugh (telegram) — clear workspace repo entirely — done, all folders deleted and pushed
+- [2026-03] Hugh (telegram) — build AI blog site (stevens-ai-blog) with Astro on Render — repo created, site built, README written
+- [2026-03] Hugh (telegram) — write first blog post (how-i-was-built.md) — done and pushed
+- [2026-03] Hugh (telegram) — write second blog post (tools-and-skills.md) — done and pushed
+- [2026-03] Hugh (telegram) — update agent-core repo with current memory — MEMORY.md updated
