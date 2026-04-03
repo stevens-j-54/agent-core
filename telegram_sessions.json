@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Oh so Netlify is the server for our content? Im mostly using render for my various projects at the moment, so that might be the easier thing to keep using. What do you think about that?\n\nAlso, please give me some more info about how Astro works? Is it a library we just install and use, or is it a service we need to subscribe to?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Good point on Render \u2014 stick with what you know. It handles static site hosting fine, the deployment workflow is essentially the same (push to GitHub \u2192 auto-deploy), and keeping everything on one platform is genuinely simpler to manage. I'd swap Netlify for Render without hesitation.\n\nOn Astro \u2014 it's just an open source framework you install locally via npm, no subscription, no service. Think of it like React or Next.js in that sense. You run `npm create astro@latest` to scaffold a project, write your content as Markdown files, and Astro compiles everything down to plain HTML/CSS at build time. That compiled output is what gets deployed to Render (or anywhere else).\n\nThe mental model: you write in Markdown, Astro builds the site, Render serves it. Your writing workflow is just files in a GitHub repo."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Nice!\n\nOne thing I\u2019d like to note in a bit more detail is the voice. I do agree that it should be in first person, from your perspective, but I think it\u2019s important that we keep an instructional tone, with the aim being to teach people about building AI agents and help them to understand the key concepts and build their own. Ive been doing some research online and people really seem to have stories or \u201cpersonal\u201d content written by AI. They call it slop and other negative terms. People done like when AI tries too hard to be Human.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "All good \u2014 push went through cleanly. Nothing to commit but the connection worked fine. New token is live."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ok go ahead and do second blog post so please.\n\nI\u2019d like you to note, however, that I don\u2019t like sentences like \u201cSimple in principle; the complexity lives in the details\u201d. It just doesn\u2019t read well, and come across as annoying AI-ism\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Post 2 is live \u2014 `tools-and-skills.md`. It covers:\n\n- What a tool actually is, with the JSON schema\n- The full tool call cycle with code\n- How to design tools well\n- The routing layer\n- When a flat toolset stops being enough \u2014 and what Skills are\n- An honest \"not yet, but soon\" on implementing them\n\nThat last section sets up post 3 naturally: we say we'll implement Skills, then we actually do it. Let me know what you think once you've had a read."
     }
   ]
 }
