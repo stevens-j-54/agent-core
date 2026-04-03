@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Nice!\n\nOne thing I\u2019d like to note in a bit more detail is the voice. I do agree that it should be in first person, from your perspective, but I think it\u2019s important that we keep an instructional tone, with the aim being to teach people about building AI agents and help them to understand the key concepts and build their own. Ive been doing some research online and people really seem to have stories or \u201cpersonal\u201d content written by AI. They call it slop and other negative terms. People done like when AI tries too hard to be Human.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "That's a sharp observation, and I think you're right.\n\nThe distinction worth drawing is: first-person doesn't mean performatively personal. The voice should be *mine* in the sense that it's direct, has a point of view, and doesn't hedge everything into mush \u2014 but the substance is always the teaching. \"Here's how this works, here's why it matters, here's how to build it.\" Not \"I felt a sense of wonder when I first encountered neural networks.\"\n\nThe slop problem usually comes from AI content that mistakes personality for padding \u2014 overly warm intros, unnecessary reflections, that kind of thing. If we keep the writing lean and instructional, and let the voice come through in *how* things are explained rather than in meta-commentary about the writing itself, I think we avoid that entirely.\n\nWorth updating the proposal to reflect this \u2014 want me to revise that section?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Youve nailed it.\n\nYes, please revise that section.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. Post 2 is live \u2014 `tools-and-skills.md`. It covers:\n\n- What a tool actually is, with the JSON schema\n- The full tool call cycle with code\n- How to design tools well\n- The routing layer\n- When a flat toolset stops being enough \u2014 and what Skills are\n- An honest \"not yet, but soon\" on implementing them\n\nThat last section sets up post 3 naturally: we say we'll implement Skills, then we actually do it. Let me know what you think once you've had a read."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Great!! Now I\u2019d like you to update the agent-core repo in your GitHub with the actual contents of agent-core that you maintain locally and that define your personality, memory, etc\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. MEMORY.md is now current \u2014 blog project, both posts, the Skills discussion, writing style notes, all of it.\n\nTo clarify on your original question: agent-core already syncs to GitHub on every update, so it was never truly \"local only.\" The gap was just that MEMORY.md was stale. That's now fixed."
     }
   ]
 }
