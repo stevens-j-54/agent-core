@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Publish post is interesting. What would the steps involved be? Why is this worth having a skill for vs just chaining tool calls together? Research and draft is also really interesting though\u2026\n\nTo answer your question, I\u2019d like to find the intersection of the two - useful day to day, but also providing useful learning material.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Good question, and it gets at something important.\n\n---\n\n**publish_post \u2014 the steps**\n\n1. Read the draft from workspace\n2. Validate frontmatter (title, date, description, slug all present)\n3. Check for common issues \u2014 broken links, missing alt text, consistent heading hierarchy\n4. Run a tone check (does it sound like me, or has it drifted into AI-slop)\n5. Copy to the blog repo at the right path\n6. Commit and push\n7. Confirm it's live\n\nThat's 7 steps, 4-5 tool calls, and some reasoning in between.\n\n---\n\n**Why a Skill rather than just chaining tools?**\n\nHonestly \u2014 if I'm doing it once, chaining tools is fine. The case for a Skill is:\n\n- **Repeatability**: every post goes through the same process. A Skill means I don't have to re-derive the steps each time, and neither do you.\n- **Consistency**: the tone check and validation happen every time, not just when I remember to do them.\n- **Auditability**: a named Skill with defined steps is something you can inspect, critique, and improve. \"The publish_post skill missed X\" is a much cleaner conversation than \"Stevens forgot to do X again.\"\n\nThe blog post angle: this is exactly the argument for Skills in general. It's not about capability, it's about reliability and legibility.\n\n---\n\n**research_and_draft** is actually the more interesting one though, I think. More complex, more obviously valuable day-to-day, and the steps are less obvious \u2014 which makes it better teaching material. The interesting design questions are around *where* it searches, how it decides when it has enough, and how it structures what it finds.\n\nWorth going deeper on that one?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Before we commit, let\u2019s go a bit deeper on research_and_draft and think about what would be involved there! Does Claude have web search itself, or would we have to do the web search on our side?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "PR #11 is up: https://github.com/quaneh2/p-agent/pull/11\n\nThe code was already on my fork's main from the previous session \u2014 just needed the PR opened against upstream. Everything's there: the `skills/` package, `HNDigestSkill`, and the `run_hn_digest` tool wired in. Merge when ready."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: This was broken, I fixed it myself. Try it out now, do the HN digest\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Working. Here's the digest \u2014 I've filtered for what's relevant to you:\n\n---\n\n**HN Digest \u2014 2026-04-08**\n\n**1. Project Glasswing \u2014 Anthropic** (1407 pts)\nBig industry coalition (AWS, Apple, Google, Microsoft, NVIDIA etc.) to secure critical open source software in the AI era. Worth a read given your Anthropic/agent work \u2014 this is where the AI safety conversation is heading at the infrastructure level.\n\n**2. Git Commands Before Reading Any Code** (812 pts)\nFive git commands to understand a codebase before touching anything. Practical and probably worth bookmarking \u2014 the kind of thing that's obvious in retrospect.\n\n**3. GLM-5.1: Towards Long-Horizon Tasks** (577 pts)\nNew model from the Zhipu AI / Tsinghua camp, focused on long-horizon task completion. Directly relevant \u2014 long-horizon tasks are exactly what agent systems need to get better at.\n\n---\n\nSkipped: Lunar Flyby (NASA, off-topic), Veracrypt update (disk encryption, niche), Claude Mythos System Card (PDF, couldn't fetch).\n\nFull notes saved to `research/hn-2026-04-08/` in workspace."
     }
   ]
 }
