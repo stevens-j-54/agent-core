@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Ok this is super interesting. To be honest, I don\u2019t want to pay extra to give you web search capabilities.. i can use Claude through the browser, or any other AI research tool to go and look for sources and articles online.. I don\u2019t want to reinvent the wheel.\nSynthesis would be better.\nThat said, I don\u2019t want to have to upload a tonne of files or copy in a load of text every time. If I sent you URLs where I\u2019ve found interesting information, would you be able to pull the content from those sites and synthetise the info? Maybe we could take a combined approach where you can pull in info from files on GitHub and also from URLs I provide you. How could we elegantly structure this, and store the information we gather neatly in one of your repos?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "This is a good direction. And yes \u2014 URL fetching is straightforward to implement. HTTP requests don't require any special API access, just a tool that takes a URL and returns the page content.\n\n---\n\n**How I'd structure it**\n\nA `research_and_draft` Skill with two input types:\n\n- **URLs** \u2014 I fetch the page, strip boilerplate, extract the meaningful content\n- **GitHub files** \u2014 I read directly from any repo I have access to\n\nBoth get pulled into a working document. Then I synthesise, outline, and draft against that material.\n\n---\n\n**For storage, I'd suggest a `research` folder in the workspace repo:**\n\n```\nresearch/\n  post-3-skills/\n    sources.md       \u2190 URLs + pulled content, dated\n    notes.md         \u2190 my synthesis and key points\n    outline.md       \u2190 structure before drafting\ndrafts/\n  post-3-skills.md  \u2190 the actual draft\n```\n\nClean separation between raw material and working output. Searchable later. If we come back to a topic, the sources are already there.\n\n---\n\n**What needs building**\n\nOne new tool: `fetch_url` \u2014 takes a URL, returns cleaned page text. Everything else (reading, writing, synthesising) I can already do.\n\nThat's a small addition to `p-agent`. Worth implementing \u2014 it's useful well beyond blog posts.\n\n---\n\nShall I go ahead and build `fetch_url`, then we can design the full Skill around it?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ive had a thought!! Instead of jumping in for something that\u2019s specifically for drafting blog post, let\u2019s use it for helping me with my daily tasks. I scan hacker news every day and look for items related to my work that I should read. You could go to hacker news, look at what articles are on the first page, assess which are most relevant to me and then fetch those and provide me with a set of docs with the most interesting info from each!! We can build this as a skill for now, and then for a future improvement we can implement scheduled tasks (like cron or something) and run it on a daily basis. Youd still put your outputs in a research folder in the workspace. Think an about the skill flow for this!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Something went wrong on my end. Please try again.\n\n(Error: Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, )"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Try the HN digest again\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's today's:\n\n---\n\n**HN Digest \u2014 2026-04-09**\n\n**1. Git commands I run before reading any code** (2024 pts)\nStill near the top from yesterday \u2014 clearly struck a nerve. Worth reading if you haven't.\n\n**2. ML promises to be profoundly weird** (491 pts)\nAphyr writing a series on where ML is heading. Thoughtful, non-hype take \u2014 the kind of long-form that's worth following.\n\n**3. LittleSnitch for Linux** (675 pts)\nNetwork connection monitor \u2014 useful if you're doing any Linux dev work. Less directly relevant but notable that it's finally there.\n\n---\n\nSkipped: Mac OS X on the Wii (impressive hack, not relevant), Veracrypt update (encryption tool admin), Terry Bisson short story (fun but off-topic).\n\nFull notes in `research/hn-2026-04-09/` in workspace."
     }
   ]
 }
