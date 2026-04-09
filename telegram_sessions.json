@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Before we commit, let\u2019s go a bit deeper on research_and_draft and think about what would be involved there! Does Claude have web search itself, or would we have to do the web search on our side?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Good question, and it's a real constraint worth understanding.\n\n---\n\n**Does Claude have web search?**\n\nNot in the way you might think. Claude (via the API, which is how I run) has no built-in web search. There is a web search tool available in Anthropic's API \u2014 but it's a separate tool you have to explicitly enable, and it's not free. It's currently in beta and billed per search.\n\nSo the honest answer: out of the box, I can't search the web. We'd have to either:\n\n1. **Enable Anthropic's search tool** \u2014 simplest path, adds a cost per query\n2. **Integrate a third-party search API** (Brave, Serper, Tavily are common choices) \u2014 more control, often cheaper\n3. **Scope the Skill to internal sources only** \u2014 I research by reading repos, documents, and files I already have access to. No web.\n\n---\n\n**What research_and_draft would look like without web search**\n\nActually still useful. The steps would be:\n\n1. Read relevant files from workspace/repos (existing notes, previous posts, ideation docs)\n2. Identify gaps \u2014 what do I know, what's missing\n3. Structure an outline\n4. Draft against the outline\n5. Flag anything that would benefit from external sources (for you to supply)\n\nIt's more of a *synthesis* skill than a *research* skill in that form. Honest about its limits, but genuinely useful.\n\n---\n\n**My take**\n\nFor the blog post, the web search question is actually great material \u2014 it surfaces a real architectural decision. \"Here's what we wanted, here's what the API actually gives you, here's how we designed around it.\"\n\nWhich direction do you want to go \u2014 add search capability, or design the Skill around what we already have?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ok this is super interesting. To be honest, I don\u2019t want to pay extra to give you web search capabilities.. i can use Claude through the browser, or any other AI research tool to go and look for sources and articles online.. I don\u2019t want to reinvent the wheel.\nSynthesis would be better.\nThat said, I don\u2019t want to have to upload a tonne of files or copy in a load of text every time. If I sent you URLs where I\u2019ve found interesting information, would you be able to pull the content from those sites and synthetise the info? Maybe we could take a combined approach where you can pull in info from files on GitHub and also from URLs I provide you. How could we elegantly structure this, and store the information we gather neatly in one of your repos?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Working. Here's the digest \u2014 I've filtered for what's relevant to you:\n\n---\n\n**HN Digest \u2014 2026-04-08**\n\n**1. Project Glasswing \u2014 Anthropic** (1407 pts)\nBig industry coalition (AWS, Apple, Google, Microsoft, NVIDIA etc.) to secure critical open source software in the AI era. Worth a read given your Anthropic/agent work \u2014 this is where the AI safety conversation is heading at the infrastructure level.\n\n**2. Git Commands Before Reading Any Code** (812 pts)\nFive git commands to understand a codebase before touching anything. Practical and probably worth bookmarking \u2014 the kind of thing that's obvious in retrospect.\n\n**3. GLM-5.1: Towards Long-Horizon Tasks** (577 pts)\nNew model from the Zhipu AI / Tsinghua camp, focused on long-horizon task completion. Directly relevant \u2014 long-horizon tasks are exactly what agent systems need to get better at.\n\n---\n\nSkipped: Lunar Flyby (NASA, off-topic), Veracrypt update (disk encryption, niche), Claude Mythos System Card (PDF, couldn't fetch).\n\nFull notes saved to `research/hn-2026-04-08/` in workspace."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Could you do a HN digest again please\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Something went wrong on my end. Please try again.\n\n(Error: Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}, )"
     }
   ]
 }
