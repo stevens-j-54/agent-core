@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Try again, i updated your capability on this skill\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Here's today's digest:\n\n---\n\n**1. ML Promises to be Profoundly Weird** (491 pts) \u2014 High relevance\nAphyr (the Jepsen guy) has started a long-form essay series on LLMs. Deliberately non-balanced \u2014 he's filling in the negative spaces. His framing: LLMs are \"improv machines\" that can only say \"yes, and...\" which is why confabulation is structural, not fixable. Series covers safety, work, information ecology. Worth following given what you're building. Full notes saved.\n\n**2. Git Commands Before Reading Any Code** (2025 pts) \u2014 Medium relevance\nFive commands that give you a diagnostic picture of a codebase in two minutes: churn hotspots, bus factor, bug clusters, velocity trend, firefighting frequency. Immediately practical. Notes include the actual commands.\n\n**3. VeraCrypt Update** (1212 pts) \u2014 Lower relevance, but interesting\nMicrosoft silently terminated the maintainer's signing account \u2014 no warning, no appeal. Can't ship Windows updates. The real story is about platform dependency risk for open source projects: one vendor can effectively kill your distribution channel overnight.\n\n---\n\nFull notes in `research/hn-2026-04-09/`. The skill is working properly now."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Id like you to create a recurring task to do a HN skills digest every morning at 7am please.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. Every day at 3pm Dublin time. Worth noting: when the clocks go back in October it'll drift to 4pm IST \u2014 I can adjust the cron then if you want to keep it locked to 3pm local."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Thanks!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. See you at 3."
     }
   ]
 }
