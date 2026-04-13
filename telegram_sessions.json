@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Merged and deployed, go ahead and do your first one!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "PR #10 is up. The root cause: the parser assumed the HN page would split into clean lines \u2014 it doesn't, it comes back as one continuous blob. Rewritten to split on the numbered story markers instead.\n\nOne thing worth flagging in the PR notes: the URL extraction is still coarse \u2014 we get the domain, not the full article path. A cleaner fix longer-term would be to hit the HN API directly (which returns proper structured JSON with full URLs). Worth doing properly once the basic flow is working.\n\nMerge when ready and I'll run it again."
-    },
-    {
-      "role": "user",
       "content": "Hugh: You committed changes but never opened a PR. It seems the process hung before you could do it. Find your commit and then make the PR for it\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done \u2014 11 words added to your vocab list:\n\n**c\u00e1u k\u1ec9nh, t\u00e2m l\u00fd, v\u1eefng v\u00e0ng, b\u1ea3n th\u00e2n, \u0111\u00f2i h\u1ecfi, ki\u00ean tr\u00ec, ph\u1ee5c h\u1ed3i, t\u00e1c \u0111\u1ed9ng, ch\u1ea5t ph\u1ee5 gia, nh\u1ecbp tim, m\u1ee9c c\u00e2n b\u1eb1ng**\n\nEach has 3 sample sentences. Good session \u2014 you got most of it, the main slip was **b\u1ea3n th\u00e2n** (oneself, not close friends)."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Id like you to also add the entire article woth a full English translation to an appropriate place in your workspace, for future reference\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Worth noting: the original URL has expired \u2014 VNExpress rotates old articles off. I've saved the paragraph we used, my full translation, the vocab table, and grammar notes to `vietnamese/articles/nhung-thac-mac-khi-cai-thuoc-la.md` in your workspace. Everything from the session is preserved."
     }
   ]
 }
