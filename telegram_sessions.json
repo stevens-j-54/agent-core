@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Id like you to create a recurring task to do a HN skills digest every morning at 7am please.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Runs daily at 07:00 UTC. First one tomorrow morning."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Id like you to pull a Vietnamese article for me to translate\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "You're welcome. See you at 3."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: This article is too hard, I can\u2019t really understand most of it\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "No problem \u2014 want me to pull a different one right now? I can look for something with simpler vocabulary. Food or travel articles tend to be gentler than current affairs. Shall I try one of those?"
     }
   ]
 }
