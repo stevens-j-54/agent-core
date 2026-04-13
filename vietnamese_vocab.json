@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "last_updated": "2026-04-09T12:00:00Z",
+  "entries": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
+      "vietnamese": "cáu kỉnh",
+      "meaning_index": 1,
+      "english": "irritable, grumpy",
+      "word_type": "adjective",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Anh ấy rất cáu kỉnh khi không ngủ đủ giấc.", "en": "He is very irritable when he doesn't get enough sleep."},
+        {"vi": "Trẻ em thường cáu kỉnh khi đói.", "en": "Children are often grumpy when they are hungry."},
+        {"vi": "Cô ấy trở nên cáu kỉnh vì căng thẳng công việc.", "en": "She became irritable due to work stress."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567802",
+      "vietnamese": "tâm lý",
+      "meaning_index": 1,
+      "english": "mindset, psychology, mental state",
+      "word_type": "noun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Người cai thuốc lá nên giữ tâm lý vững vàng.", "en": "People quitting smoking should maintain a steady mindset."},
+        {"vi": "Tâm lý của cầu thủ rất quan trọng trong trận đấu.", "en": "A player's mental state is very important during a match."},
+        {"vi": "Anh ấy có tâm lý tốt khi đối mặt với khó khăn.", "en": "He has a good mindset when facing difficulties."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567803",
+      "vietnamese": "vững vàng",
+      "meaning_index": 1,
+      "english": "steady, firm, stable",
+      "word_type": "adjective",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Cô ấy bước đi vững vàng trên con đường mới.", "en": "She walks steadily on the new path."},
+        {"vi": "Nền kinh tế đang phát triển vững vàng.", "en": "The economy is developing steadily."},
+        {"vi": "Anh ấy giữ tâm lý vững vàng trước áp lực.", "en": "He kept a steady mindset under pressure."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567804",
+      "vietnamese": "bản thân",
+      "meaning_index": 1,
+      "english": "oneself, yourself, themselves",
+      "word_type": "pronoun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Anh nên tin tưởng vào bản thân mình.", "en": "You should trust in yourself."},
+        {"vi": "Cô ấy tự nhắc nhở bản thân mỗi ngày.", "en": "She reminds herself every day."},
+        {"vi": "Bản thân tôi cũng không biết câu trả lời.", "en": "I myself don't know the answer either."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567805",
+      "vietnamese": "đòi hỏi",
+      "meaning_index": 1,
+      "english": "to require, to demand",
+      "word_type": "verb",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Công việc này đòi hỏi sự kiên nhẫn.", "en": "This job requires patience."},
+        {"vi": "Học tiếng Việt đòi hỏi nhiều thời gian và nỗ lực.", "en": "Learning Vietnamese requires a lot of time and effort."},
+        {"vi": "Anh ấy đòi hỏi mức lương cao hơn.", "en": "He demanded a higher salary."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567806",
+      "vietnamese": "kiên trì",
+      "meaning_index": 1,
+      "english": "perseverance, persistence; persistent",
+      "word_type": "adjective",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.", "en": "Quitting smoking requires perseverance."},
+        {"vi": "Cô ấy rất kiên trì trong việc học ngoại ngữ.", "en": "She is very persistent in learning foreign languages."},
+        {"vi": "Kiên trì là chìa khóa để thành công.", "en": "Perseverance is the key to success."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567807",
+      "vietnamese": "phục hồi",
+      "meaning_index": 1,
+      "english": "to recover, to restore",
+      "word_type": "verb",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Cơ thể bắt đầu phục hồi sau khi bỏ thuốc.", "en": "The body starts to recover after quitting smoking."},
+        {"vi": "Anh ấy phục hồi nhanh chóng sau ca phẫu thuật.", "en": "He recovered quickly after the surgery."},
+        {"vi": "Nền kinh tế đang phục hồi sau đại dịch.", "en": "The economy is recovering after the pandemic."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567808",
+      "vietnamese": "tác động",
+      "meaning_index": 1,
+      "english": "impact, effect; to affect",
+      "word_type": "noun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Nicotine có tác động mạnh lên hệ thần kinh.", "en": "Nicotine has a strong effect on the nervous system."},
+        {"vi": "Biến đổi khí hậu tác động đến toàn thế giới.", "en": "Climate change affects the entire world."},
+        {"vi": "Chính sách mới có tác động tích cực đến kinh tế.", "en": "The new policy has a positive impact on the economy."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567809",
+      "vietnamese": "chất phụ gia",
+      "meaning_index": 1,
+      "english": "additive, food additive",
+      "word_type": "noun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Thuốc lá chứa nhiều chất phụ gia độc hại.", "en": "Cigarettes contain many harmful additives."},
+        {"vi": "Thực phẩm chế biến thường có nhiều chất phụ gia.", "en": "Processed food often contains many additives."},
+        {"vi": "Người tiêu dùng ngày càng lo ngại về chất phụ gia trong thực phẩm.", "en": "Consumers are increasingly concerned about additives in food."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567810",
+      "vietnamese": "nhịp tim",
+      "meaning_index": 1,
+      "english": "heart rate, pulse",
+      "word_type": "noun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Nhịp tim của anh ấy trở lại bình thường sau khi nghỉ ngơi.", "en": "His heart rate returned to normal after resting."},
+        {"vi": "Tập thể dục làm tăng nhịp tim.", "en": "Exercise increases heart rate."},
+        {"vi": "Bác sĩ kiểm tra nhịp tim của bệnh nhân.", "en": "The doctor checked the patient's pulse."}
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567811",
+      "vietnamese": "mức cân bằng",
+      "meaning_index": 1,
+      "english": "equilibrium, balanced level",
+      "word_type": "noun",
+      "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Huyết áp dần trở lại mức cân bằng sau khi bỏ thuốc.", "en": "Blood pressure gradually returns to equilibrium after quitting smoking."},
+        {"vi": "Cơ thể luôn cố gắng duy trì mức cân bằng.", "en": "The body always tries to maintain a balanced level."},
+        {"vi": "Mức cân bằng của hormone rất quan trọng cho sức khoẻ.", "en": "The balance of hormones is very important for health."}
+      ]
+    }
+  ]
+}
