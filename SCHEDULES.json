@@ -12,6 +12,19 @@
       "last_run": null,
       "created_at": "2026-04-13T08:18:44.077343+00:00",
       "status": "active"
+    },
+    {
+      "id": "f7087300-b37f-4526-acca-70529a3d6584",
+      "name": "Daily Vietnamese Article Exercise",
+      "type": "recurring",
+      "cron": "0 14 * * *",
+      "run_at": null,
+      "instruction": "Fetch a Vietnamese article for Hugh to translate. Mix up the topic each day across current_affairs, nature, food, and travel. Present a self-contained paragraph of 150\u2013300 words and ask Hugh to translate it into English.",
+      "instruction_type": "natural_language",
+      "next_run": "2026-04-13T14:00:00+00:00",
+      "last_run": null,
+      "created_at": "2026-04-13T13:19:29.095343+00:00",
+      "status": "active"
     }
   ]
 }
