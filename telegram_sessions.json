@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Yes please!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done \u2014 11 words added to your vocab list:\n\n**c\u00e1u k\u1ec9nh, t\u00e2m l\u00fd, v\u1eefng v\u00e0ng, b\u1ea3n th\u00e2n, \u0111\u00f2i h\u1ecfi, ki\u00ean tr\u00ec, ph\u1ee5c h\u1ed3i, t\u00e1c \u0111\u1ed9ng, ch\u1ea5t ph\u1ee5 gia, nh\u1ecbp tim, m\u1ee9c c\u00e2n b\u1eb1ng**\n\nEach has 3 sample sentences. Good session \u2014 you got most of it, the main slip was **b\u1ea3n th\u00e2n** (oneself, not close friends)."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Id like you to also add the entire article woth a full English translation to an appropriate place in your workspace, for future reference\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Good effort \u2014 you got the bones of it. Let's go through it:\n\n---\n\n**Sentence 1**\n> Nhi\u1ec7t \u0111\u1ed9 t\u0103ng cao g\u00e2y kh\u00f3 ch\u1ecbu v\u00e0 l\u00e0m r\u1ed1i lo\u1ea1n qu\u00e1 tr\u00ecnh \u0111i\u1ec1u h\u00f2a th\u00e2n nhi\u1ec7t.\n\n\u2705 \"Increasing temperatures are hard to bear\" \u2014 good, **g\u00e2y kh\u00f3 ch\u1ecbu** = \"cause discomfort/are hard to bear\". \n\n\u26a0\ufe0f The gap wasn't air conditioners \u2014 **l\u00e0m r\u1ed1i lo\u1ea1n qu\u00e1 tr\u00ecnh \u0111i\u1ec1u h\u00f2a th\u00e2n nhi\u1ec7t** = \"disrupts the body's temperature regulation process\". **r\u1ed1i lo\u1ea1n** = disrupted/disturbed, **\u0111i\u1ec1u h\u00f2a** = regulate/balance, **th\u00e2n nhi\u1ec7t** = body temperature. No air conditioning in sight!\n\n---\n\n**Sentence 2**\n> B\u00ean c\u1ea1nh vi\u1ec7c u\u1ed1ng \u0111\u1ee7 n\u01b0\u1edbc v\u00e0 h\u1ea1n ch\u1ebf ti\u1ebfp x\u00fac v\u1edbi n\u1eafng n\u00f3ng...\n\n\u2705 \"Drinking enough water\" \u2014 spot on. \n\u26a0\ufe0f **h\u1ea1n ch\u1ebf ti\u1ebfp x\u00fac v\u1edbi n\u1eafng n\u00f3ng** = \"limiting exposure to hot sun\" \u2014 slightly more specific than \"sheltering from hot weather\", but your reading was fair.\n\n---\n\n**Sentence 3**\n> ...gi\u00fap c\u01a1 th\u1ec3 \"h\u1ea1 nhi\u1ec7t\" hi\u1ec7u qu\u1ea3 v\u00e0 duy tr\u00ec tr\u1ea1ng th\u00e1i c\u00e2n b\u1eb1ng th\u00e2n nhi\u1ec7t.\n\n\u26a0\ufe0f **h\u1ea1 nhi\u1ec7t** = \"cool down\" (literally \"lower heat\") \u2014 your \"\u2026\" gap. \n\u26a0\ufe0f **duy tr\u00ec tr\u1ea1ng th\u00e1i c\u00e2n b\u1eb1ng th\u00e2n nhi\u1ec7t** = \"maintain a balanced body temperature state\" \u2014 you had \"maintain \u2026\" which is right but incomplete.\n\n---\n\n**Vocab candidates:** r\u1ed1i lo\u1ea1n, \u0111i\u1ec1u h\u00f2a, th\u00e2n nhi\u1ec7t, h\u1ea1n ch\u1ebf, ti\u1ebfp x\u00fac, h\u1ea1 nhi\u1ec7t, duy tr\u00ec, tr\u1ea1ng th\u00e1i\n\nWant me to add those to your list?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: What is qu\u00e1 tr\u00ecnh?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "**qu\u00e1 tr\u00ecnh** *(noun)* \u2014 process, course (of something)\n\nUsed when describing something that unfolds over time. Very common in formal and journalistic Vietnamese.\n\n- Qu\u00e1 tr\u00ecnh ti\u00eau h\u00f3a m\u1ea5t v\u00e0i gi\u1edd. *(The digestion process takes a few hours.)*\n- \u0110\u00e2y l\u00e0 m\u1ed9t qu\u00e1 tr\u00ecnh l\u00e2u d\u00e0i. *(This is a long process.)*\n- Qu\u00e1 tr\u00ecnh h\u1ecdc ti\u1ebfng Vi\u1ec7t \u0111\u00f2i h\u1ecfi s\u1ef1 ki\u00ean tr\u00ec. *(The process of learning Vietnamese requires perseverance.)*\n\nWant me to add it to your vocab list?"
     }
   ]
 }
