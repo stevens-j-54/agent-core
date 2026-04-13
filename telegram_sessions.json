@@ -6,14 +6,6 @@
     },
     {
       "role": "assistant",
-      "content": "Worth noting: the original URL has expired \u2014 VNExpress rotates old articles off. I've saved the paragraph we used, my full translation, the vocab table, and grammar notes to `vietnamese/articles/nhung-thac-mac-khi-cai-thuoc-la.md` in your workspace. Everything from the session is preserved."
-    },
-    {
-      "role": "user",
-      "content": "Hugh: Id like you to also add the entire article woth a full English translation to an appropriate place in your workspace, for future reference\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
       "content": "As I suspected \u2014 the article is no longer accessible. VNExpress expires URLs fairly quickly.\n\nWhat I can do: save a complete file with the full paragraph we worked from, my English translation of every sentence, the vocab table, and grammar notes. That's essentially the full article content we had. The bits I never fetched (intro, other sections) are genuinely gone.\n\nWant me to save it that way? It'll be a solid reference for everything we actually worked with."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "**qu\u00e1 tr\u00ecnh** *(noun)* \u2014 process, course (of something)\n\nUsed when describing something that unfolds over time. Very common in formal and journalistic Vietnamese.\n\n- Qu\u00e1 tr\u00ecnh ti\u00eau h\u00f3a m\u1ea5t v\u00e0i gi\u1edd. *(The digestion process takes a few hours.)*\n- \u0110\u00e2y l\u00e0 m\u1ed9t qu\u00e1 tr\u00ecnh l\u00e2u d\u00e0i. *(This is a long process.)*\n- Qu\u00e1 tr\u00ecnh h\u1ecdc ti\u1ebfng Vi\u1ec7t \u0111\u00f2i h\u1ecfi s\u1ef1 ki\u00ean tr\u00ec. *(The process of learning Vietnamese requires perseverance.)*\n\nWant me to add it to your vocab list?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Yeah please, along with your other suggestions\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. 9 new words added \u2014 you're now at 20 entries. List is building up nicely."
     }
   ]
 }
