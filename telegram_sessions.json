@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Try the HN digest again\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Here's today's:\n\n---\n\n**HN Digest \u2014 2026-04-09**\n\n**1. Git commands I run before reading any code** (2024 pts)\nStill near the top from yesterday \u2014 clearly struck a nerve. Worth reading if you haven't.\n\n**2. ML promises to be profoundly weird** (491 pts)\nAphyr writing a series on where ML is heading. Thoughtful, non-hype take \u2014 the kind of long-form that's worth following.\n\n**3. LittleSnitch for Linux** (675 pts)\nNetwork connection monitor \u2014 useful if you're doing any Linux dev work. Less directly relevant but notable that it's finally there.\n\n---\n\nSkipped: Mac OS X on the Wii (impressive hack, not relevant), Veracrypt update (encryption tool admin), Terry Bisson short story (fun but off-topic).\n\nFull notes in `research/hn-2026-04-09/` in workspace."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Try again, i updated your capability on this skill\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "3pm which timezone? And any topic preference for the rotation \u2014 current affairs, nature, food, travel \u2014 or mix it up?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Dublin time zone. And I\u2019d like you to mix it up!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Every day at 3pm Dublin time. Worth noting: when the clocks go back in October it'll drift to 4pm IST \u2014 I can adjust the cron then if you want to keep it locked to 3pm local."
     }
   ]
 }
