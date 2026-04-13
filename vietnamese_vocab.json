@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-04-09T12:00:00Z",
+  "last_updated": "2026-04-09T13:30:00Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -83,7 +83,7 @@
       "sample_sentences": [
         {"vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.", "en": "Quitting smoking requires perseverance."},
         {"vi": "Cô ấy rất kiên trì trong việc học ngoại ngữ.", "en": "She is very persistent in learning foreign languages."},
-        {"vi": "Kiên trì là chìa khóa để thành công.", "en": "Perseverance is the key to success."}
+        {"vi": "Kiên trì là chìa khoá để thành công.", "en": "Perseverance is the key to success."}
       ]
     },
     {
@@ -154,6 +154,132 @@
         {"vi": "Huyết áp dần trở lại mức cân bằng sau khi bỏ thuốc.", "en": "Blood pressure gradually returns to equilibrium after quitting smoking."},
         {"vi": "Cơ thể luôn cố gắng duy trì mức cân bằng.", "en": "The body always tries to maintain a balanced level."},
         {"vi": "Mức cân bằng của hormone rất quan trọng cho sức khoẻ.", "en": "The balance of hormones is very important for health."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678912",
+      "vietnamese": "rối loạn",
+      "meaning_index": 1,
+      "english": "disruption, disorder; disrupted, disordered",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Nắng nóng làm rối loạn quá trình điều hòa thân nhiệt.", "en": "Hot weather disrupts the body's temperature regulation process."},
+        {"vi": "Anh ấy bị rối loạn giấc ngủ vì căng thẳng.", "en": "He suffered sleep disruption due to stress."},
+        {"vi": "Rối loạn tiêu hóa là vấn đề phổ biến vào mùa hè.", "en": "Digestive disorders are a common problem in summer."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678913",
+      "vietnamese": "điều hòa",
+      "meaning_index": 1,
+      "english": "to regulate, to balance",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Cơ thể tự điều hòa nhiệt độ bên trong.", "en": "The body regulates its internal temperature."},
+        {"vi": "Uống đủ nước giúp điều hòa các chức năng cơ thể.", "en": "Drinking enough water helps regulate bodily functions."},
+        {"vi": "Hệ thần kinh điều hòa nhịp tim và huyết áp.", "en": "The nervous system regulates heart rate and blood pressure."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678914",
+      "vietnamese": "thân nhiệt",
+      "meaning_index": 1,
+      "english": "body temperature",
+      "word_type": "noun",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Thân nhiệt bình thường của người là khoảng 37 độ C.", "en": "Normal human body temperature is around 37 degrees Celsius."},
+        {"vi": "Sốt cao làm tăng thân nhiệt đột ngột.", "en": "A high fever causes a sudden rise in body temperature."},
+        {"vi": "Uống nước lạnh giúp hạ thân nhiệt vào mùa hè.", "en": "Drinking cold water helps lower body temperature in summer."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678915",
+      "vietnamese": "hạn chế",
+      "meaning_index": 1,
+      "english": "to limit, to restrict; limited",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Bạn nên hạn chế ăn đồ chiên rán.", "en": "You should limit eating fried food."},
+        {"vi": "Chính phủ hạn chế việc sử dụng túi nhựa.", "en": "The government restricts the use of plastic bags."},
+        {"vi": "Hãy hạn chế tiếp xúc với nắng nóng vào buổi trưa.", "en": "Try to limit exposure to hot sun at midday."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678916",
+      "vietnamese": "tiếp xúc",
+      "meaning_index": 1,
+      "english": "to be exposed to, to come into contact with",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Hạn chế tiếp xúc với ánh nắng mặt trời vào giữa trưa.", "en": "Limit exposure to sunlight at midday."},
+        {"vi": "Anh ấy tiếp xúc với nhiều nền văn hóa khác nhau.", "en": "He came into contact with many different cultures."},
+        {"vi": "Trẻ em cần tiếp xúc với thiên nhiên thường xuyên.", "en": "Children need to be in contact with nature regularly."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678917",
+      "vietnamese": "hạ nhiệt",
+      "meaning_index": 1,
+      "english": "to cool down, to lower temperature",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Ăn dưa hấu giúp hạ nhiệt cơ thể hiệu quả.", "en": "Eating watermelon helps cool down the body effectively."},
+        {"vi": "Tắm nước mát là cách nhanh nhất để hạ nhiệt.", "en": "A cool shower is the quickest way to cool down."},
+        {"vi": "Nhiệt độ bắt đầu hạ nhiệt vào buổi tối.", "en": "The temperature starts to cool down in the evening."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678918",
+      "vietnamese": "duy trì",
+      "meaning_index": 1,
+      "english": "to maintain, to sustain, to keep up",
+      "word_type": "verb",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Bạn cần duy trì thói quen tập thể dục mỗi ngày.", "en": "You need to maintain the habit of exercising every day."},
+        {"vi": "Công ty cố gắng duy trì chất lượng sản phẩm.", "en": "The company tries to maintain product quality."},
+        {"vi": "Uống đủ nước giúp duy trì năng lượng suốt cả ngày.", "en": "Drinking enough water helps sustain energy throughout the day."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678919",
+      "vietnamese": "trạng thái",
+      "meaning_index": 1,
+      "english": "state, condition, status",
+      "word_type": "noun",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Anh ấy luôn giữ trạng thái bình tĩnh trong mọi tình huống.", "en": "He always maintains a calm state in every situation."},
+        {"vi": "Thực phẩm lành mạnh giúp duy trì trạng thái cân bằng của cơ thể.", "en": "Healthy food helps maintain the body's balanced state."},
+        {"vi": "Trạng thái tinh thần ảnh hưởng đến sức khoẻ thể chất.", "en": "Mental state affects physical health."}
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678920",
+      "vietnamese": "quá trình",
+      "meaning_index": 1,
+      "english": "process, course (of something)",
+      "word_type": "noun",
+      "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
+      "date_added": "2026-04-09",
+      "sample_sentences": [
+        {"vi": "Quá trình tiêu hóa mất vài giờ.", "en": "The digestion process takes a few hours."},
+        {"vi": "Đây là một quá trình lâu dài đòi hỏi sự kiên trì.", "en": "This is a long process that requires perseverance."},
+        {"vi": "Quá trình học tiếng Việt của anh ấy rất ấn tượng.", "en": "His Vietnamese learning process is very impressive."}
       ]
     }
   ]
