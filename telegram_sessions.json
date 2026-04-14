@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Id like you to also add the entire article woth a full English translation to an appropriate place in your workspace, for future reference\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "As I suspected \u2014 the article is no longer accessible. VNExpress expires URLs fairly quickly.\n\nWhat I can do: save a complete file with the full paragraph we worked from, my English translation of every sentence, the vocab table, and grammar notes. That's essentially the full article content we had. The bits I never fetched (intro, other sections) are genuinely gone.\n\nWant me to save it that way? It'll be a solid reference for everything we actually worked with."
-    },
-    {
-      "role": "user",
       "content": "Hugh: What Youve done now is good. You maintain your main vocab list in another location though right? Could you send me your vocab list in full please (including sample sentences)?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. 9 new words added \u2014 you're now at 20 entries. List is building up nicely."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Can you give me a new Vietnamese travel article\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Good \u2014 plenty of material. There's a nice story about C\u00fac Ph\u01b0\u01a1ng National Park and its butterfly season. Let me check for review words first.\n\nAll 20 entries have `last_practiced: null` \u2014 so technically all are due. I'll pick 3 for this exercise: **ki\u00ean tr\u00ec**, **duy tr\u00ec**, and **tr\u1ea1ng th\u00e1i** \u2014 all useful in a travel context and haven't been tested yet.\n\n---\n\n**This paragraph is about the butterfly season at C\u00fac Ph\u01b0\u01a1ng National Park.**\n\n---\n\nM\u1ed7i n\u0103m v\u00e0o th\u00e1ng T\u01b0, V\u01b0\u1eddn Qu\u1ed1c gia C\u00fac Ph\u01b0\u01a1ng \u1edf t\u1ec9nh Ninh B\u00ecnh l\u1ea1i tr\u1edf th\u00e0nh \u0111i\u1ec3m \u0111\u1ebfn h\u1ea5p d\u1eabn khi h\u00e0ng ngh\u00ecn con b\u01b0\u1edbm xu\u1ea5t hi\u1ec7n d\u1ecdc c\u00e1c tuy\u1ebfn \u0111\u01b0\u1eddng xuy\u00ean r\u1eebng. N\u0103m nay, m\u00f9a b\u01b0\u1edbm \u0111\u1ebfn s\u1edbm h\u01a1n th\u01b0\u1eddng l\u1ec7, thu h\u00fat \u0111\u00f4ng \u0111\u1ea3o du kh\u00e1ch, \u0111\u1eb7c bi\u1ec7t l\u00e0 gi\u1edbi tr\u1ebb mu\u1ed1n check-in gi\u1eefa khung c\u1ea3nh thi\u00ean nhi\u00ean k\u1ef3 di\u1ec7u. \u0110\u1ec3 duy tr\u00ec s\u1ee9c h\u1ea5p d\u1eabn c\u1ee7a khu v\u01b0\u1eddn, ban qu\u1ea3n l\u00fd \u0111\u00e3 m\u1edf r\u1ed9ng c\u00e1c tuy\u1ebfn tham quan v\u00e0 h\u01b0\u1edbng d\u1eabn du kh\u00e1ch kh\u00f4ng l\u00e0m phi\u1ec1n c\u00e1c lo\u00e0i c\u00f4n tr\u00f9ng. Nh\u1eefng ai ki\u00ean tr\u00ec \u0111i b\u1ed9 \u0111\u1ebfn khu v\u1ef1c trung t\u00e2m c\u1ee7a r\u1eebng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ee9ng ki\u1ebfn c\u1ea3nh t\u01b0\u1ee3ng \u1ea5n t\u01b0\u1ee3ng nh\u1ea5t. Theo c\u00e1c chuy\u00ean gia sinh th\u00e1i, tr\u1ea1ng th\u00e1i c\u1ee7a h\u1ec7 sinh th\u00e1i r\u1eebng t\u1ea1i \u0111\u00e2y v\u1eabn \u0111\u01b0\u1ee3c b\u1ea3o t\u1ed3n kh\u00e1 t\u1ed1t nh\u1edd ch\u00ednh s\u00e1ch qu\u1ea3n l\u00fd nghi\u00eam ng\u1eb7t trong nhi\u1ec1u n\u0103m qua.\n\n---\n\n**Glossary of new B2+ words:**\n\n| T\u1eeb | Lo\u1ea1i | Ngh\u0129a |\n|---|---|---|\n| **xuy\u00ean r\u1eebng** | phrase | through the forest (cross-forest) |\n| **k\u1ef3 di\u1ec7u** | adjective | wonderful, marvellous |\n| **c\u00f4n tr\u00f9ng** | noun | insects |\n| **h\u1ec7 sinh th\u00e1i** | noun | ecosystem |\n| **nghi\u00eam ng\u1eb7t** | adjective | strict, rigorous |\n\n---\n\nTranslate the paragraph into English."
     }
   ]
 }
