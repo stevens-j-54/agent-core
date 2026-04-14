@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Dublin time zone. And I\u2019d like you to mix it up!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Every day at 3pm Dublin time. Worth noting: when the clocks go back in October it'll drift to 4pm IST \u2014 I can adjust the cron then if you want to keep it locked to 3pm local."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Thanks!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. Updated practice counts for **ki\u00ean tr\u00ec**, **duy tr\u00ec**, and **tr\u1ea1ng th\u00e1i**, and added 5 new words: **m\u1edf r\u1ed9ng**, **ch\u1ee9ng ki\u1ebfn**, **c\u1ea3nh t\u01b0\u1ee3ng**, **b\u1ea3o t\u1ed3n**, **chuy\u00ean gia**. You're up to 25 entries now."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: I think you need to update that task Stevens, we added a new skill for Vietnamese articles and I\u2019d like you to update it to use that one\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Done. Updated to use the `vietnamese_study` skill \u2014 same schedule, 3pm Dublin time."
     }
   ]
 }
