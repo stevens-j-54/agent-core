@@ -21,8 +21,8 @@
       "run_at": null,
       "instruction": "vietnamese_study",
       "instruction_type": "skill",
-      "next_run": "2026-04-18T14:00:00+00:00",
-      "last_run": "2026-04-17T14:00:08.621336+00:00",
+      "next_run": "2026-04-19T14:00:00+00:00",
+      "last_run": "2026-04-18T14:00:12.333503+00:00",
       "created_at": "2026-04-14T15:54:04.880910+00:00",
       "status": "active"
     }
