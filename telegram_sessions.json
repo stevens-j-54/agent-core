@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: This article is too hard, I can\u2019t really understand most of it\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "No problem \u2014 want me to pull a different one right now? I can look for something with simpler vocabulary. Food or travel articles tend to be gentler than current affairs. Shall I try one of those?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Sure yeah please go ahead\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Good \u2014 got three review words: **c\u00e1u k\u1ec9nh**, **t\u00e2m l\u00fd**, **v\u1eefng v\u00e0ng**. All never practiced. There's an interesting story on VNExpress about a no-menu restaurant in Hanoi where diners trust the chef completely \u2014 good conversation material.\n\n---\n\nXin ch\u00e0o Hugh! H\u00f4m nay t\u00f4i th\u1ea5y m\u1ed9t b\u00e0i b\u00e1o th\u00fa v\u1ecb v\u1ec1 m\u1ed9t nh\u00e0 h\u00e0ng \u1edf H\u00e0 N\u1ed9i kh\u00f4ng c\u00f3 th\u1ef1c \u0111\u01a1n. Th\u1ef1c kh\u00e1ch ho\u00e0n to\u00e0n kh\u00f4ng bi\u1ebft h\u1ecd s\u1ebd \u0103n g\u00ec cho \u0111\u1ebfn khi \u0111\u1ed3 \u0103n \u0111\u01b0\u1ee3c \u0111\u01b0a ra b\u00e0n \u2014 h\u1ecd ch\u1ec9 tin t\u01b0\u1edfng v\u00e0o \u0111\u1ea7u b\u1ebfp! B\u1ea1n ngh\u0129 sao v\u1ec1 ki\u1ec3u tr\u1ea3i nghi\u1ec7m \u1ea9m th\u1ef1c nh\u01b0 v\u1eady? B\u1ea1n c\u00f3 \u0111\u1ee7 v\u1eefng v\u00e0ng \u0111\u1ec3 th\u1eed kh\u00f4ng?\n\n*(Topic: a no-menu restaurant in Hanoi. Try to reply in Vietnamese!)*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Kkk xin l\u1ed7i b\u1ea1n, v\u1eefng v\u00e0ng ngh\u0129 g\u00ec \u00e0?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Kh\u00f4ng sao! \ud83d\ude04\n\n**v\u1eefng v\u00e0ng** *(adjective)* \u2014 steady, confident, sure-footed. Used when someone is mentally or emotionally grounded enough to handle something.\n\n\u1ede \u0111\u00e2y t\u00f4i d\u00f9ng theo ngh\u0129a: \"Are you confident/bold enough to try it?\" \u2014 ki\u1ec3u nh\u01b0 d\u00e1m th\u1eed m\u00e0 kh\u00f4ng lo l\u1eafng.\n\nTh\u1eed tr\u1ea3 l\u1eddi nh\u00e9!"
     }
   ]
 }
