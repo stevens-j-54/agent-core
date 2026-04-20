@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-20T12:00:39Z",
+  "last_updated": "2026-04-20T14:44:52Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -85,8 +85,8 @@
       "word_type": "pronoun",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Anh nên tin tưởng vào bản thân mình.",
@@ -110,8 +110,8 @@
       "word_type": "verb",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Công việc này đòi hỏi sự kiên nhẫn.",
@@ -160,8 +160,8 @@
       "word_type": "verb",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Cơ thể bắt đầu phục hồi sau khi bỏ thuốc.",
@@ -626,6 +626,56 @@
           "en": "We need an expert's opinion before deciding."
         }
       ]
+    },
+    {
+      "vietnamese": "chẳng hạn",
+      "meaning_index": 1,
+      "english": "for example",
+      "word_type": "adverb",
+      "source": "conversation",
+      "sample_sentences": [
+        {
+          "vi": "Tôi thích các môn thể thao, chẳng hạn như bơi lội và chạy bộ.",
+          "en": "I like sports, for example swimming and running."
+        },
+        {
+          "vi": "Có nhiều cách để thư giãn, chẳng hạn như đọc sách hay nghe nhạc.",
+          "en": "There are many ways to relax, for example reading books or listening to music."
+        },
+        {
+          "vi": "Một số quốc gia ở Đông Nam Á, chẳng hạn như Thái Lan, nổi tiếng về võ thuật.",
+          "en": "Some countries in Southeast Asia, for example Thailand, are famous for martial arts."
+        }
+      ],
+      "id": "4f913b36-5a81-42b2-9334-181f308ef9ff",
+      "date_added": "2026-04-20",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "kỷ luật",
+      "meaning_index": 1,
+      "english": "discipline",
+      "word_type": "noun",
+      "source": "conversation",
+      "sample_sentences": [
+        {
+          "vi": "Muay Thai đòi hỏi kỷ luật cao.",
+          "en": "Muay Thai requires a high level of discipline."
+        },
+        {
+          "vi": "Học ngoại ngữ cần có kỷ luật và sự kiên nhẫn.",
+          "en": "Learning a foreign language requires discipline and patience."
+        },
+        {
+          "vi": "Anh ấy có kỷ luật tốt — anh ấy tập thể dục mỗi sáng.",
+          "en": "He has good discipline — he exercises every morning."
+        }
+      ],
+      "id": "c0851dfd-8139-46d1-b0d7-ae04fcdaac04",
+      "date_added": "2026-04-20",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ]
 }
