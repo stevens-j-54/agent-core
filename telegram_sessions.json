@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: \u1edc c\u00e1m \u01a1n! T\u00f4i c\u00f3 \u0111\u1ee7 v\u1eefng v\u00e0ng r\u1ed3i ch\u1ee9. T\u00f4i \u0103n t\u1ea5t c\u1ea3 c\u00e1c m\u00f3n \u0103n Vi\u1ec7t\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Hay l\u1eafm! \ud83d\ude04 T\u00f4i tin b\u1ea1n! N\u1ebfu b\u1ea1n \u0103n \u0111\u01b0\u1ee3c t\u1ea5t c\u1ea3 c\u00e1c m\u00f3n Vi\u1ec7t th\u00ec ch\u1eafc kh\u00f4ng c\u00f3 g\u00ec l\u00e0m b\u1ea1n ng\u1ea1c nhi\u00ean c\u1ea3. Nh\u01b0ng m\u00e0... m\u00f3n n\u00e0o b\u1ea1n th\u1ea5y kh\u00f3 \u0103n nh\u1ea5t? Hay l\u00e0 th\u1eadt s\u1ef1 kh\u00f4ng c\u00f3 m\u00f3n n\u00e0o l\u00e0m b\u1ea1n *c\u00e1u k\u1ec9nh* khi ph\u1ea3i \u0103n? \ud83d\ude04\n\n*(c\u00e1u k\u1ec9nh = irritated/grumpy \u2014 as in, does any dish actually annoy you!)*"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Th\u1eadt ra t\u00f4i kh\u00f4ng th\u00edch \u0103n gi\u00f2 heo kkk. N\u1ebfu t\u00f4i ph\u1ea3i \u0103n th\u00ec t\u00f4i s\u1ebd c\u00e1u k\u1ec9nh.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "**t\u1ef1 b\u1eaft** = to force oneself \u2014 *\"t\u1ef1\"* means \"self/by oneself\", *\"b\u1eaft\"* means \"to force/make someone do something\". So *\"t\u1ef1 b\u1eaft b\u1ea3n th\u00e2n\"* = to force yourself to do something.\n\n---\n\nBa th\u00e1ng \u2014 \u1ea5n t\u01b0\u1ee3ng th\u1eadt! V\u00e0 c\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ed1t \u2014 ch\u1ec9 m\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"g\u00e2y h\u01a1n\"* \u2192 n\u00ean n\u00f3i **\"g\u1ea7y h\u01a1n\"** *(thinner/leaner)* \ud83d\ude04 \u2014 *\"g\u00e2y\"* kh\u00f4ng c\u00f3 ngh\u0129a g\u00ec trong ti\u1ebfng Vi\u1ec7t, nh\u01b0ng t\u00f4i hi\u1ec3u \u00fd b\u1ea1n!\n\nV\u1eady sau kinh nghi\u1ec7m \u0111\u00f3, b\u1ea1n c\u00f3 mu\u1ed1n th\u00e1ch th\u1ee9c b\u1ea3n th\u00e2n theo c\u00e1ch kh\u00e1c n\u1eefa kh\u00f4ng \u2014 v\u00ed d\u1ee5 nh\u01b0 h\u1ecdc ti\u1ebfng Vi\u1ec7t ch\u1eb3ng h\u1ea1n? \ud83d\ude04"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ch\u1eb3ng h\u1ea1n ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "**ch\u1eb3ng h\u1ea1n** = for example \u2014 t\u01b0\u01a1ng t\u1ef1 nh\u01b0 *\"v\u00ed d\u1ee5\"* nh\u01b0ng nghe t\u1ef1 nhi\u00ean h\u01a1n trong v\u0103n n\u00f3i.\n\nV\u00ed d\u1ee5: *\"T\u00f4i th\u00edch c\u00e1c m\u00f4n th\u1ec3 thao, ch\u1eb3ng h\u1ea1n nh\u01b0 b\u01a1i l\u1ed9i v\u00e0 ch\u1ea1y b\u1ed9.\"* \u2014 I like sports, for example swimming and running.\n\nB\u1ea1n c\u00f3 mu\u1ed1n ti\u1ebfp t\u1ee5c kh\u00f4ng? \ud83d\ude04"
     }
   ]
 }
