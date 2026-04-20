@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: T\u00f4i th\u00edch lo\u1ea1i b\u00ecnh th\u01b0\u1eddng h\u01a1n. T\u00f4i mu\u1ed1n t\u1ef1 ch\u1ecdn nh\u1eefng m\u00f3n \u0103n m\u00e0 t\u00f4i ph\u1ea3i \u0103n. Nh\u01b0 v\u1eady th\u00ec t\u00e2m l\u00fd t\u00f4i c\u00f3 tho\u1ea3i m\u00e1i h\u01a1n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "R\u1ea5t h\u1ee3p l\u00fd! Ai c\u0169ng mu\u1ed1n tr\u00e1nh b\u1ea5t ng\u1edd ki\u1ec3u gi\u00f2 heo \ud83d\ude04. C\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ef1 nhi\u00ean \u2014 ch\u1ec9 m\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"nh\u1eefng m\u00f3n \u0103n m\u00e0 t\u00f4i ph\u1ea3i \u0103n\"* \u2192 t\u1ef1 nhi\u00ean h\u01a1n n\u1ebfu n\u00f3i **\"nh\u1eefng m\u00f3n \u0103n m\u00e0 t\u00f4i mu\u1ed1n \u0103n\"** *(the dishes I want to eat)* \u2014 \"ph\u1ea3i\" ngh\u0129a l\u00e0 \"have to/must\", nghe h\u01a1i mi\u1ec5n c\u01b0\u1ee1ng! \ud83d\ude04\n\nB\u1ea1n c\u00f3 mu\u1ed1n ti\u1ebfp t\u1ee5c hay d\u1eebng \u1edf \u0111\u00e2y?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: T\u00f4i mu\u1ed1n d\u1eebng \u1edf \u0111\u00e2y\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Th\u00fa v\u1ecb! C\u00f4ng vi\u1ec7c m\u1edbi lu\u00f4n \u0111\u00f2i h\u1ecfi nhi\u1ec1u n\u0103ng l\u01b0\u1ee3ng l\u00fac \u0111\u1ea7u. B\u1ea1n c\u00f3 th\u1ec3 n\u00f3i th\u00eam kh\u00f4ng \u2014 c\u00f4ng vi\u1ec7c m\u1edbi n\u00e0y \u0111\u00f2i h\u1ecfi nh\u1eefng k\u1ef9 n\u0103ng g\u00ec t\u1eeb b\u1ea1n?\n\n*(C\u00e2u c\u1ee7a b\u1ea1n ho\u00e0n to\u00e0n t\u1ef1 nhi\u00ean \u2014 kh\u00f4ng c\u00f3 l\u1ed7i g\u00ec! \u2713)*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Saved. Quick summary:\n\n**Vocab reviewed:** b\u1ea3n th\u00e2n \u2713, \u0111\u00f2i h\u1ecfi \u2713, ph\u1ee5c h\u1ed3i \u2713 \u2014 all used naturally.\n**New words added:** ch\u1eb3ng h\u1ea1n, k\u1ef7 lu\u1eadt.\n**Corrections:** g\u1ea7y (spelling), kh\u00f4ng ch\u1ec9 (tone mark).\n\nThree months in Thailand is a serious commitment. Good luck with the new job too."
     }
   ]
 }
