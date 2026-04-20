@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: I think you need to update that task Stevens, we added a new skill for Vietnamese articles and I\u2019d like you to update it to use that one\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Updated to use the `vietnamese_study` skill \u2014 same schedule, 3pm Dublin time."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Let\u2019s practise Vietnamese\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u0110\u00fang r\u1ed3i! **ph\u1ee5c h\u1ed3i** = to recover, to bounce back \u2014 d\u00f9ng cho c\u1ea3 th\u1ec3 ch\u1ea5t l\u1eabn tinh th\u1ea7n.\n\nWow, \u0111i th\u1eb3ng sang Th\u00e1i Lan \u0111\u1ec3 h\u1ecdc Muay Thai \u2014 \u0111\u00f3 l\u00e0 c\u00e1ch th\u00e1ch th\u1ee9c **b\u1ea3n th\u00e2n** th\u1eadt s\u1ef1! \ud83d\udcaa Ch\u1eafc ch\u1eafn **\u0111\u00f2i h\u1ecfi** r\u1ea5t nhi\u1ec1u k\u1ef7 lu\u1eadt v\u00e0 n\u1ed7 l\u1ef1c. L\u1ea7n \u0111\u1ea7u ti\u00ean t\u1eadp, c\u01a1 th\u1ec3 b\u1ea1n m\u1ea5t bao l\u00e2u \u0111\u1ec3 **ph\u1ee5c h\u1ed3i** sau m\u1ed7i bu\u1ed5i? V\u00e0 b\u1ea1n c\u00f3 th\u1ea5y vi\u1ec7c t\u1eadp \u1edf Th\u00e1i Lan kh\u00e1c nhi\u1ec1u so v\u1edbi t\u1eadp \u1edf Ireland kh\u00f4ng?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: \u0110\u00f2i h\u1ecfi l\u00e0 \u201crequire\u201d hay sao?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u0110\u00fang v\u1eady! **\u0111\u00f2i h\u1ecfi** = to require, to demand. Th\u01b0\u1eddng d\u00f9ng khi n\u00f3i v\u1ec1 vi\u1ec7c g\u00ec \u0111\u00f3 c\u1ea7n nhi\u1ec1u n\u1ed7 l\u1ef1c, th\u1eddi gian, ho\u1eb7c k\u1ef9 n\u0103ng.\n\nV\u00ed d\u1ee5:\n- *Muay Thai \u0111\u00f2i h\u1ecfi s\u1ef1 ki\u00ean nh\u1eabn.* \u2014 Muay Thai requires patience.\n- *C\u00f4ng vi\u1ec7c n\u00e0y \u0111\u00f2i h\u1ecfi nhi\u1ec1u kinh nghi\u1ec7m.* \u2014 This job requires a lot of experience.\n\nTr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi c\u1ee7a t\u00f4i \u0111i nh\u00e9! \ud83d\ude04"
     }
   ]
 }
