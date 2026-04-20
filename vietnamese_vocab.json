@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-14T15:30:00Z",
+  "last_updated": "2026-04-20T12:00:39Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -10,12 +10,21 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Anh ấy rất cáu kỉnh khi không ngủ đủ giấc.", "en": "He is very irritable when he doesn't get enough sleep."},
-        {"vi": "Trẻ em thường cáu kỉnh khi đói.", "en": "Children are often grumpy when they are hungry."},
-        {"vi": "Cô ấy trở nên cáu kỉnh vì căng thẳng công việc.", "en": "She became irritable due to work stress."}
+        {
+          "vi": "Anh ấy rất cáu kỉnh khi không ngủ đủ giấc.",
+          "en": "He is very irritable when he doesn't get enough sleep."
+        },
+        {
+          "vi": "Trẻ em thường cáu kỉnh khi đói.",
+          "en": "Children are often grumpy when they are hungry."
+        },
+        {
+          "vi": "Cô ấy trở nên cáu kỉnh vì căng thẳng công việc.",
+          "en": "She became irritable due to work stress."
+        }
       ]
     },
     {
@@ -26,12 +35,21 @@
       "word_type": "noun",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Người cai thuốc lá nên giữ tâm lý vững vàng.", "en": "People quitting smoking should maintain a steady mindset."},
-        {"vi": "Tâm lý của cầu thủ rất quan trọng trong trận đấu.", "en": "A player's mental state is very important during a match."},
-        {"vi": "Anh ấy có tâm lý tốt khi đối mặt với khó khăn.", "en": "He has a good mindset when facing difficulties."}
+        {
+          "vi": "Người cai thuốc lá nên giữ tâm lý vững vàng.",
+          "en": "People quitting smoking should maintain a steady mindset."
+        },
+        {
+          "vi": "Tâm lý của cầu thủ rất quan trọng trong trận đấu.",
+          "en": "A player's mental state is very important during a match."
+        },
+        {
+          "vi": "Anh ấy có tâm lý tốt khi đối mặt với khó khăn.",
+          "en": "He has a good mindset when facing difficulties."
+        }
       ]
     },
     {
@@ -42,12 +60,21 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-20",
+      "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Cô ấy bước đi vững vàng trên con đường mới.", "en": "She walks steadily on the new path."},
-        {"vi": "Nền kinh tế đang phát triển vững vàng.", "en": "The economy is developing steadily."},
-        {"vi": "Anh ấy giữ tâm lý vững vàng trước áp lực.", "en": "He kept a steady mindset under pressure."}
+        {
+          "vi": "Cô ấy bước đi vững vàng trên con đường mới.",
+          "en": "She walks steadily on the new path."
+        },
+        {
+          "vi": "Nền kinh tế đang phát triển vững vàng.",
+          "en": "The economy is developing steadily."
+        },
+        {
+          "vi": "Anh ấy giữ tâm lý vững vàng trước áp lực.",
+          "en": "He kept a steady mindset under pressure."
+        }
       ]
     },
     {
@@ -61,9 +88,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Anh nên tin tưởng vào bản thân mình.", "en": "You should trust in yourself."},
-        {"vi": "Cô ấy tự nhắc nhở bản thân mỗi ngày.", "en": "She reminds herself every day."},
-        {"vi": "Bản thân tôi cũng không biết câu trả lời.", "en": "I myself don't know the answer either."}
+        {
+          "vi": "Anh nên tin tưởng vào bản thân mình.",
+          "en": "You should trust in yourself."
+        },
+        {
+          "vi": "Cô ấy tự nhắc nhở bản thân mỗi ngày.",
+          "en": "She reminds herself every day."
+        },
+        {
+          "vi": "Bản thân tôi cũng không biết câu trả lời.",
+          "en": "I myself don't know the answer either."
+        }
       ]
     },
     {
@@ -77,9 +113,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Công việc này đòi hỏi sự kiên nhẫn.", "en": "This job requires patience."},
-        {"vi": "Học tiếng Việt đòi hỏi nhiều thời gian và nỗ lực.", "en": "Learning Vietnamese requires a lot of time and effort."},
-        {"vi": "Anh ấy đòi hỏi mức lương cao hơn.", "en": "He demanded a higher salary."}
+        {
+          "vi": "Công việc này đòi hỏi sự kiên nhẫn.",
+          "en": "This job requires patience."
+        },
+        {
+          "vi": "Học tiếng Việt đòi hỏi nhiều thời gian và nỗ lực.",
+          "en": "Learning Vietnamese requires a lot of time and effort."
+        },
+        {
+          "vi": "Anh ấy đòi hỏi mức lương cao hơn.",
+          "en": "He demanded a higher salary."
+        }
       ]
     },
     {
@@ -93,9 +138,18 @@
       "last_practiced": "2026-04-14",
       "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.", "en": "Quitting smoking requires perseverance."},
-        {"vi": "Cô ấy rất kiên trì trong việc học ngoại ngữ.", "en": "She is very persistent in learning foreign languages."},
-        {"vi": "Kiên trì là chìa khoá để thành công.", "en": "Perseverance is the key to success."}
+        {
+          "vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.",
+          "en": "Quitting smoking requires perseverance."
+        },
+        {
+          "vi": "Cô ấy rất kiên trì trong việc học ngoại ngữ.",
+          "en": "She is very persistent in learning foreign languages."
+        },
+        {
+          "vi": "Kiên trì là chìa khoá để thành công.",
+          "en": "Perseverance is the key to success."
+        }
       ]
     },
     {
@@ -109,9 +163,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Cơ thể bắt đầu phục hồi sau khi bỏ thuốc.", "en": "The body starts to recover after quitting smoking."},
-        {"vi": "Anh ấy phục hồi nhanh chóng sau ca phẫu thuật.", "en": "He recovered quickly after the surgery."},
-        {"vi": "Nền kinh tế đang phục hồi sau đại dịch.", "en": "The economy is recovering after the pandemic."}
+        {
+          "vi": "Cơ thể bắt đầu phục hồi sau khi bỏ thuốc.",
+          "en": "The body starts to recover after quitting smoking."
+        },
+        {
+          "vi": "Anh ấy phục hồi nhanh chóng sau ca phẫu thuật.",
+          "en": "He recovered quickly after the surgery."
+        },
+        {
+          "vi": "Nền kinh tế đang phục hồi sau đại dịch.",
+          "en": "The economy is recovering after the pandemic."
+        }
       ]
     },
     {
@@ -125,9 +188,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Nicotine có tác động mạnh lên hệ thần kinh.", "en": "Nicotine has a strong effect on the nervous system."},
-        {"vi": "Biến đổi khí hậu tác động đến toàn thế giới.", "en": "Climate change affects the entire world."},
-        {"vi": "Chính sách mới có tác động tích cực đến kinh tế.", "en": "The new policy has a positive impact on the economy."}
+        {
+          "vi": "Nicotine có tác động mạnh lên hệ thần kinh.",
+          "en": "Nicotine has a strong effect on the nervous system."
+        },
+        {
+          "vi": "Biến đổi khí hậu tác động đến toàn thế giới.",
+          "en": "Climate change affects the entire world."
+        },
+        {
+          "vi": "Chính sách mới có tác động tích cực đến kinh tế.",
+          "en": "The new policy has a positive impact on the economy."
+        }
       ]
     },
     {
@@ -141,9 +213,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Thuốc lá chứa nhiều chất phụ gia độc hại.", "en": "Cigarettes contain many harmful additives."},
-        {"vi": "Thực phẩm chế biến thường có nhiều chất phụ gia.", "en": "Processed food often contains many additives."},
-        {"vi": "Người tiêu dùng ngày càng lo ngại về chất phụ gia trong thực phẩm.", "en": "Consumers are increasingly concerned about additives in food."}
+        {
+          "vi": "Thuốc lá chứa nhiều chất phụ gia độc hại.",
+          "en": "Cigarettes contain many harmful additives."
+        },
+        {
+          "vi": "Thực phẩm chế biến thường có nhiều chất phụ gia.",
+          "en": "Processed food often contains many additives."
+        },
+        {
+          "vi": "Người tiêu dùng ngày càng lo ngại về chất phụ gia trong thực phẩm.",
+          "en": "Consumers are increasingly concerned about additives in food."
+        }
       ]
     },
     {
@@ -157,9 +238,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Nhịp tim của anh ấy trở lại bình thường sau khi nghỉ ngơi.", "en": "His heart rate returned to normal after resting."},
-        {"vi": "Tập thể dục làm tăng nhịp tim.", "en": "Exercise increases heart rate."},
-        {"vi": "Bác sĩ kiểm tra nhịp tim của bệnh nhân.", "en": "The doctor checked the patient's pulse."}
+        {
+          "vi": "Nhịp tim của anh ấy trở lại bình thường sau khi nghỉ ngơi.",
+          "en": "His heart rate returned to normal after resting."
+        },
+        {
+          "vi": "Tập thể dục làm tăng nhịp tim.",
+          "en": "Exercise increases heart rate."
+        },
+        {
+          "vi": "Bác sĩ kiểm tra nhịp tim của bệnh nhân.",
+          "en": "The doctor checked the patient's pulse."
+        }
       ]
     },
     {
@@ -173,9 +263,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Huyết áp dần trở lại mức cân bằng sau khi bỏ thuốc.", "en": "Blood pressure gradually returns to equilibrium after quitting smoking."},
-        {"vi": "Cơ thể luôn cố gắng duy trì mức cân bằng.", "en": "The body always tries to maintain a balanced level."},
-        {"vi": "Mức cân bằng của hormone rất quan trọng cho sức khoẻ.", "en": "The balance of hormones is very important for health."}
+        {
+          "vi": "Huyết áp dần trở lại mức cân bằng sau khi bỏ thuốc.",
+          "en": "Blood pressure gradually returns to equilibrium after quitting smoking."
+        },
+        {
+          "vi": "Cơ thể luôn cố gắng duy trì mức cân bằng.",
+          "en": "The body always tries to maintain a balanced level."
+        },
+        {
+          "vi": "Mức cân bằng của hormone rất quan trọng cho sức khoẻ.",
+          "en": "The balance of hormones is very important for health."
+        }
       ]
     },
     {
@@ -189,9 +288,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Nắng nóng làm rối loạn quá trình điều hòa thân nhiệt.", "en": "Hot weather disrupts the body's temperature regulation process."},
-        {"vi": "Anh ấy bị rối loạn giấc ngủ vì căng thẳng.", "en": "He suffered sleep disruption due to stress."},
-        {"vi": "Rối loạn tiêu hóa là vấn đề phổ biến vào mùa hè.", "en": "Digestive disorders are a common problem in summer."}
+        {
+          "vi": "Nắng nóng làm rối loạn quá trình điều hòa thân nhiệt.",
+          "en": "Hot weather disrupts the body's temperature regulation process."
+        },
+        {
+          "vi": "Anh ấy bị rối loạn giấc ngủ vì căng thẳng.",
+          "en": "He suffered sleep disruption due to stress."
+        },
+        {
+          "vi": "Rối loạn tiêu hóa là vấn đề phổ biến vào mùa hè.",
+          "en": "Digestive disorders are a common problem in summer."
+        }
       ]
     },
     {
@@ -205,9 +313,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Cơ thể tự điều hòa nhiệt độ bên trong.", "en": "The body regulates its internal temperature."},
-        {"vi": "Uống đủ nước giúp điều hòa các chức năng cơ thể.", "en": "Drinking enough water helps regulate bodily functions."},
-        {"vi": "Hệ thần kinh điều hòa nhịp tim và huyết áp.", "en": "The nervous system regulates heart rate and blood pressure."}
+        {
+          "vi": "Cơ thể tự điều hòa nhiệt độ bên trong.",
+          "en": "The body regulates its internal temperature."
+        },
+        {
+          "vi": "Uống đủ nước giúp điều hòa các chức năng cơ thể.",
+          "en": "Drinking enough water helps regulate bodily functions."
+        },
+        {
+          "vi": "Hệ thần kinh điều hòa nhịp tim và huyết áp.",
+          "en": "The nervous system regulates heart rate and blood pressure."
+        }
       ]
     },
     {
@@ -221,9 +338,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Thân nhiệt bình thường của người là khoảng 37 độ C.", "en": "Normal human body temperature is around 37 degrees Celsius."},
-        {"vi": "Sốt cao làm tăng thân nhiệt đột ngột.", "en": "A high fever causes a sudden rise in body temperature."},
-        {"vi": "Uống nước lạnh giúp hạ thân nhiệt vào mùa hè.", "en": "Drinking cold water helps lower body temperature in summer."}
+        {
+          "vi": "Thân nhiệt bình thường của người là khoảng 37 độ C.",
+          "en": "Normal human body temperature is around 37 degrees Celsius."
+        },
+        {
+          "vi": "Sốt cao làm tăng thân nhiệt đột ngột.",
+          "en": "A high fever causes a sudden rise in body temperature."
+        },
+        {
+          "vi": "Uống nước lạnh giúp hạ thân nhiệt vào mùa hè.",
+          "en": "Drinking cold water helps lower body temperature in summer."
+        }
       ]
     },
     {
@@ -237,9 +363,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Bạn nên hạn chế ăn đồ chiên rán.", "en": "You should limit eating fried food."},
-        {"vi": "Chính phủ hạn chế việc sử dụng túi nhựa.", "en": "The government restricts the use of plastic bags."},
-        {"vi": "Hãy hạn chế tiếp xúc với nắng nóng vào buổi trưa.", "en": "Try to limit exposure to hot sun at midday."}
+        {
+          "vi": "Bạn nên hạn chế ăn đồ chiên rán.",
+          "en": "You should limit eating fried food."
+        },
+        {
+          "vi": "Chính phủ hạn chế việc sử dụng túi nhựa.",
+          "en": "The government restricts the use of plastic bags."
+        },
+        {
+          "vi": "Hãy hạn chế tiếp xúc với nắng nóng vào buổi trưa.",
+          "en": "Try to limit exposure to hot sun at midday."
+        }
       ]
     },
     {
@@ -253,9 +388,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Hạn chế tiếp xúc với ánh nắng mặt trời vào giữa trưa.", "en": "Limit exposure to sunlight at midday."},
-        {"vi": "Anh ấy tiếp xúc với nhiều nền văn hóa khác nhau.", "en": "He came into contact with many different cultures."},
-        {"vi": "Trẻ em cần tiếp xúc với thiên nhiên thường xuyên.", "en": "Children need to be in contact with nature regularly."}
+        {
+          "vi": "Hạn chế tiếp xúc với ánh nắng mặt trời vào giữa trưa.",
+          "en": "Limit exposure to sunlight at midday."
+        },
+        {
+          "vi": "Anh ấy tiếp xúc với nhiều nền văn hóa khác nhau.",
+          "en": "He came into contact with many different cultures."
+        },
+        {
+          "vi": "Trẻ em cần tiếp xúc với thiên nhiên thường xuyên.",
+          "en": "Children need to be in contact with nature regularly."
+        }
       ]
     },
     {
@@ -269,9 +413,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Ăn dưa hấu giúp hạ nhiệt cơ thể hiệu quả.", "en": "Eating watermelon helps cool down the body effectively."},
-        {"vi": "Tắm nước mát là cách nhanh nhất để hạ nhiệt.", "en": "A cool shower is the quickest way to cool down."},
-        {"vi": "Nhiệt độ bắt đầu hạ nhiệt vào buổi tối.", "en": "The temperature starts to cool down in the evening."}
+        {
+          "vi": "Ăn dưa hấu giúp hạ nhiệt cơ thể hiệu quả.",
+          "en": "Eating watermelon helps cool down the body effectively."
+        },
+        {
+          "vi": "Tắm nước mát là cách nhanh nhất để hạ nhiệt.",
+          "en": "A cool shower is the quickest way to cool down."
+        },
+        {
+          "vi": "Nhiệt độ bắt đầu hạ nhiệt vào buổi tối.",
+          "en": "The temperature starts to cool down in the evening."
+        }
       ]
     },
     {
@@ -285,9 +438,18 @@
       "last_practiced": "2026-04-14",
       "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Bạn cần duy trì thói quen tập thể dục mỗi ngày.", "en": "You need to maintain the habit of exercising every day."},
-        {"vi": "Công ty cố gắng duy trì chất lượng sản phẩm.", "en": "The company tries to maintain product quality."},
-        {"vi": "Uống đủ nước giúp duy trì năng lượng suốt cả ngày.", "en": "Drinking enough water helps sustain energy throughout the day."}
+        {
+          "vi": "Bạn cần duy trì thói quen tập thể dục mỗi ngày.",
+          "en": "You need to maintain the habit of exercising every day."
+        },
+        {
+          "vi": "Công ty cố gắng duy trì chất lượng sản phẩm.",
+          "en": "The company tries to maintain product quality."
+        },
+        {
+          "vi": "Uống đủ nước giúp duy trì năng lượng suốt cả ngày.",
+          "en": "Drinking enough water helps sustain energy throughout the day."
+        }
       ]
     },
     {
@@ -301,9 +463,18 @@
       "last_practiced": "2026-04-14",
       "practice_count": 1,
       "sample_sentences": [
-        {"vi": "Anh ấy luôn giữ trạng thái bình tĩnh trong mọi tình huống.", "en": "He always maintains a calm state in every situation."},
-        {"vi": "Thực phẩm lành mạnh giúp duy trì trạng thái cân bằng của cơ thể.", "en": "Healthy food helps maintain the body's balanced state."},
-        {"vi": "Trạng thái tinh thần ảnh hưởng đến sức khoẻ thể chất.", "en": "Mental state affects physical health."}
+        {
+          "vi": "Anh ấy luôn giữ trạng thái bình tĩnh trong mọi tình huống.",
+          "en": "He always maintains a calm state in every situation."
+        },
+        {
+          "vi": "Thực phẩm lành mạnh giúp duy trì trạng thái cân bằng của cơ thể.",
+          "en": "Healthy food helps maintain the body's balanced state."
+        },
+        {
+          "vi": "Trạng thái tinh thần ảnh hưởng đến sức khoẻ thể chất.",
+          "en": "Mental state affects physical health."
+        }
       ]
     },
     {
@@ -317,9 +488,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Quá trình tiêu hóa mất vài giờ.", "en": "The digestion process takes a few hours."},
-        {"vi": "Đây là một quá trình lâu dài đòi hỏi sự kiên trì.", "en": "This is a long process that requires perseverance."},
-        {"vi": "Quá trình học tiếng Việt của anh ấy rất ấn tượng.", "en": "His Vietnamese learning process is very impressive."}
+        {
+          "vi": "Quá trình tiêu hóa mất vài giờ.",
+          "en": "The digestion process takes a few hours."
+        },
+        {
+          "vi": "Đây là một quá trình lâu dài đòi hỏi sự kiên trì.",
+          "en": "This is a long process that requires perseverance."
+        },
+        {
+          "vi": "Quá trình học tiếng Việt của anh ấy rất ấn tượng.",
+          "en": "His Vietnamese learning process is very impressive."
+        }
       ]
     },
     {
@@ -333,9 +513,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Ban quản lý mở rộng các tuyến tham quan trong vườn quốc gia.", "en": "The management board expanded the visiting trails in the national park."},
-        {"vi": "Công ty đang mở rộng thị trường sang các nước Đông Nam Á.", "en": "The company is expanding its market to Southeast Asian countries."},
-        {"vi": "Thành phố mở rộng mạng lưới giao thông công cộng.", "en": "The city expanded its public transport network."}
+        {
+          "vi": "Ban quản lý mở rộng các tuyến tham quan trong vườn quốc gia.",
+          "en": "The management board expanded the visiting trails in the national park."
+        },
+        {
+          "vi": "Công ty đang mở rộng thị trường sang các nước Đông Nam Á.",
+          "en": "The company is expanding its market to Southeast Asian countries."
+        },
+        {
+          "vi": "Thành phố mở rộng mạng lưới giao thông công cộng.",
+          "en": "The city expanded its public transport network."
+        }
       ]
     },
     {
@@ -349,9 +538,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Tôi được chứng kiến cảnh tượng tuyệt đẹp tại Cúc Phương.", "en": "I got to witness a stunning spectacle at Cúc Phương."},
-        {"vi": "Anh ấy chứng kiến toàn bộ sự việc từ đầu đến cuối.", "en": "He witnessed the entire event from beginning to end."},
-        {"vi": "Thế hệ trẻ hôm nay chứng kiến sự thay đổi nhanh chóng của công nghệ.", "en": "Today's young generation witnesses the rapid change of technology."}
+        {
+          "vi": "Tôi được chứng kiến cảnh tượng tuyệt đẹp tại Cúc Phương.",
+          "en": "I got to witness a stunning spectacle at Cúc Phương."
+        },
+        {
+          "vi": "Anh ấy chứng kiến toàn bộ sự việc từ đầu đến cuối.",
+          "en": "He witnessed the entire event from beginning to end."
+        },
+        {
+          "vi": "Thế hệ trẻ hôm nay chứng kiến sự thay đổi nhanh chóng của công nghệ.",
+          "en": "Today's young generation witnesses the rapid change of technology."
+        }
       ]
     },
     {
@@ -365,9 +563,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Cảnh tượng hàng nghìn con bướm bay thật kỳ diệu.", "en": "The spectacle of thousands of butterflies in flight was truly marvellous."},
-        {"vi": "Đây là cảnh tượng mà tôi sẽ không bao giờ quên.", "en": "This is a sight I will never forget."},
-        {"vi": "Cảnh tượng mặt trời lặn trên biển rất ấn tượng.", "en": "The spectacle of the sunset over the sea was very impressive."}
+        {
+          "vi": "Cảnh tượng hàng nghìn con bướm bay thật kỳ diệu.",
+          "en": "The spectacle of thousands of butterflies in flight was truly marvellous."
+        },
+        {
+          "vi": "Đây là cảnh tượng mà tôi sẽ không bao giờ quên.",
+          "en": "This is a sight I will never forget."
+        },
+        {
+          "vi": "Cảnh tượng mặt trời lặn trên biển rất ấn tượng.",
+          "en": "The spectacle of the sunset over the sea was very impressive."
+        }
       ]
     },
     {
@@ -381,9 +588,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Chúng ta cần bảo tồn các loài động vật quý hiếm.", "en": "We need to conserve rare animal species."},
-        {"vi": "Hệ sinh thái rừng tại đây được bảo tồn rất tốt.", "en": "The forest ecosystem here is very well preserved."},
-        {"vi": "Chính phủ đầu tư nhiều vào việc bảo tồn di sản văn hóa.", "en": "The government invests heavily in preserving cultural heritage."}
+        {
+          "vi": "Chúng ta cần bảo tồn các loài động vật quý hiếm.",
+          "en": "We need to conserve rare animal species."
+        },
+        {
+          "vi": "Hệ sinh thái rừng tại đây được bảo tồn rất tốt.",
+          "en": "The forest ecosystem here is very well preserved."
+        },
+        {
+          "vi": "Chính phủ đầu tư nhiều vào việc bảo tồn di sản văn hóa.",
+          "en": "The government invests heavily in preserving cultural heritage."
+        }
       ]
     },
     {
@@ -397,9 +613,18 @@
       "last_practiced": null,
       "practice_count": 0,
       "sample_sentences": [
-        {"vi": "Các chuyên gia sinh thái cảnh báo về tình trạng mất rừng.", "en": "Ecology experts warn about deforestation."},
-        {"vi": "Cô ấy là một chuyên gia về ngôn ngữ học.", "en": "She is an expert in linguistics."},
-        {"vi": "Chúng tôi cần ý kiến của chuyên gia trước khi quyết định.", "en": "We need an expert's opinion before deciding."}
+        {
+          "vi": "Các chuyên gia sinh thái cảnh báo về tình trạng mất rừng.",
+          "en": "Ecology experts warn about deforestation."
+        },
+        {
+          "vi": "Cô ấy là một chuyên gia về ngôn ngữ học.",
+          "en": "She is an expert in linguistics."
+        },
+        {
+          "vi": "Chúng tôi cần ý kiến của chuyên gia trước khi quyết định.",
+          "en": "We need an expert's opinion before deciding."
+        }
       ]
     }
   ]
