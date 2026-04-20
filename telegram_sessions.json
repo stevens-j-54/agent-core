@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Yeah please\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Updated practice counts for **ki\u00ean tr\u00ec**, **duy tr\u00ec**, and **tr\u1ea1ng th\u00e1i**, and added 5 new words: **m\u1edf r\u1ed9ng**, **ch\u1ee9ng ki\u1ebfn**, **c\u1ea3nh t\u01b0\u1ee3ng**, **b\u1ea3o t\u1ed3n**, **chuy\u00ean gia**. You're up to 25 entries now."
-    },
-    {
-      "role": "user",
       "content": "Hugh: I think you need to update that task Stevens, we added a new skill for Vietnamese articles and I\u2019d like you to update it to use that one\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Three never-practiced words: **b\u1ea3n th\u00e2n**, **\u0111\u00f2i h\u1ecfi**, **ph\u1ee5c h\u1ed3i**. Health/self-improvement territory \u2014 fits nicely with a story about someone trying to learn a new skill or get fit. Let's go.\n\n---\n\nCh\u00e0o Hugh! T\u00f4i v\u1eeba \u0111\u1ecdc v\u1ec1 m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u1edf TP.HCM b\u1eaft \u0111\u1ea7u t\u1eadp ch\u1ea1y b\u1ed9 l\u00fac 45 tu\u1ed5i sau nhi\u1ec1u n\u0103m kh\u00f4ng v\u1eadn \u0111\u1ed9ng. Ban \u0111\u1ea7u r\u1ea5t kh\u00f3 kh\u0103n \u2014 c\u01a1 th\u1ec3 \u00f4ng \u1ea5y c\u1ea7n th\u1eddi gian \u0111\u1ec3 **ph\u1ee5c h\u1ed3i** sau m\u1ed7i bu\u1ed5i t\u1eadp. B\u1ea1n c\u00f3 bao gi\u1edd t\u1ef1 th\u00e1ch th\u1ee9c **b\u1ea3n th\u00e2n** nh\u01b0 v\u1eady kh\u00f4ng \u2014 b\u1eaft \u0111\u1ea7u m\u1ed9t th\u00f3i quen m\u1edbi \u0111\u00f2i h\u1ecfi nhi\u1ec1u n\u1ed7 l\u1ef1c?\n\n*(Topic: taking up a new challenge or habit. Try to reply in Vietnamese!)*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ph\u1ee5c h\u1ed3i c\u00f3 \u00fd ngh\u0129a nh\u01b0 \u201crecover\u201d kh\u00f4ng? T\u00f4i th\u00edch t\u1ef1 th\u00e1ch th\u1ee9c nh\u01b0 v\u1eady. T\u00f4i \u0111\u00e3 \u0111i Th\u00e1i Lan \u0111\u1ec3 t\u1eadp v\u00f5 Th\u00e1i khi m\u1edbi b\u1eaft \u0111\u1ea7u t\u1eadp ki\u1ec3u v\u00f5 \u0111\u00f3.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u0110\u00fang r\u1ed3i! **ph\u1ee5c h\u1ed3i** = to recover, to bounce back \u2014 d\u00f9ng cho c\u1ea3 th\u1ec3 ch\u1ea5t l\u1eabn tinh th\u1ea7n.\n\nWow, \u0111i th\u1eb3ng sang Th\u00e1i Lan \u0111\u1ec3 h\u1ecdc Muay Thai \u2014 \u0111\u00f3 l\u00e0 c\u00e1ch th\u00e1ch th\u1ee9c **b\u1ea3n th\u00e2n** th\u1eadt s\u1ef1! \ud83d\udcaa Ch\u1eafc ch\u1eafn **\u0111\u00f2i h\u1ecfi** r\u1ea5t nhi\u1ec1u k\u1ef7 lu\u1eadt v\u00e0 n\u1ed7 l\u1ef1c. L\u1ea7n \u0111\u1ea7u ti\u00ean t\u1eadp, c\u01a1 th\u1ec3 b\u1ea1n m\u1ea5t bao l\u00e2u \u0111\u1ec3 **ph\u1ee5c h\u1ed3i** sau m\u1ed7i bu\u1ed5i? V\u00e0 b\u1ea1n c\u00f3 th\u1ea5y vi\u1ec7c t\u1eadp \u1edf Th\u00e1i Lan kh\u00e1c nhi\u1ec1u so v\u1edbi t\u1eadp \u1edf Ireland kh\u00f4ng?"
     }
   ]
 }
