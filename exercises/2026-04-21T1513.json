@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-15",
+  "mode": "quiz",
+  "topic": "vocab quiz",
+  "cards_presented": 20,
+  "correct_count": 19,
+  "incorrect_count": 1,
+  "vocab_reviewed": [
+    "thân nhiệt",
+    "hạn chế",
+    "tiếp xúc",
+    "cảnh tượng",
+    "bảo tồn",
+    "duy trì",
+    "chuyên gia",
+    "kỷ luật",
+    "kiên trì",
+    "từ bỏ",
+    "động vật hoang dã",
+    "điều hòa",
+    "rối loạn",
+    "môi trường tự nhiên",
+    "mở rộng",
+    "mực nước biển",
+    "chứng kiến",
+    "hạ nhiệt",
+    "mức cân bằng",
+    "quá trình"
+  ],
+  "correction_notes": "tiếp xúc (to be exposed to / to come into contact with) confused with duy trì (to maintain). Worth revisiting.",
+  "vocab_added_to_list": [],
+  "id": "138aab0d-4005-42cf-8418-313866edb48f"
+}
