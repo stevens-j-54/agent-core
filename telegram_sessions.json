@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: T\u00f4i mu\u1ed1n d\u1eebng \u1edf \u0111\u00e2y\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Saved. Good work \u2014 all three review words used naturally in conversation, which is exactly the point of them. The **ph\u1ea3i/mu\u1ed1n** mix-up is a common one worth remembering."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Let\u2019s practise Vietnamese!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Saved. Quick summary:\n\n**Vocab reviewed:** b\u1ea3n th\u00e2n \u2713, \u0111\u00f2i h\u1ecfi \u2713, ph\u1ee5c h\u1ed3i \u2713 \u2014 all used naturally.\n**New words added:** ch\u1eb3ng h\u1ea1n, k\u1ef7 lu\u1eadt.\n**Corrections:** g\u1ea7y (spelling), kh\u00f4ng ch\u1ec9 (tone mark).\n\nThree months in Thailand is a serious commitment. Good luck with the new job too."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Let\u2019s practise Vietnamese\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Three never-practiced words: **t\u00e1c \u0111\u1ed9ng** (impact/effect), **ch\u1ea5t ph\u1ee5 gia** (additive), **nh\u1ecbp tim** (heart rate). Health and food science territory \u2014 let's go with processed food and its effects on the body.\n\n---\n\nG\u1ea7n \u0111\u00e2y t\u00f4i \u0111\u1ecdc m\u1ed9t b\u00e0i v\u1ec1 th\u1ef1c ph\u1ea9m ch\u1ebf bi\u1ebfn s\u1eb5n \u1edf Vi\u1ec7t Nam \u2014 \u0111\u1eb7c bi\u1ec7t l\u00e0 \u0111\u1ed3 \u0103n nhanh d\u00e0nh cho tr\u1ebb em. Nhi\u1ec1u s\u1ea3n ph\u1ea9m ch\u1ee9a **ch\u1ea5t ph\u1ee5 gia** kh\u00f4ng t\u1ed1t cho s\u1ee9c kh\u1ecfe v\u00e0 c\u00f3 **t\u00e1c \u0111\u1ed9ng** x\u1ea5u \u0111\u1ebfn **nh\u1ecbp tim** c\u0169ng nh\u01b0 h\u1ec7 th\u1ea7n kinh n\u1ebfu \u0103n qu\u00e1 nhi\u1ec1u. B\u1ea1n c\u00f3 th\u01b0\u1eddng \u0103n \u0111\u1ed3 ch\u1ebf bi\u1ebfn s\u1eb5n kh\u00f4ng, hay b\u1ea1n ch\u00fa \u00fd nhi\u1ec1u \u0111\u1ebfn ch\u1ebf \u0111\u1ed9 \u0103n u\u1ed1ng?\n\n*(Topic: processed food and health. Try to reply in Vietnamese!)*"
     }
   ]
 }
