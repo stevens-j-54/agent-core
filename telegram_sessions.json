@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: \u0110\u00fang r\u1ed3i, \u00fd c\u1ee7a t\u00f4i l\u00e0 s\u1ee9c l\u1ef1c.\n\nT\u00f4i \u0103n kh\u1ed5 qua x\u00e0o nh\u01b0ng t\u00f4i ch\u1ec9 d\u00f9ng \u00edt d\u1ea7u khi n\u1ea5u. \n\nT\u00edch c\u1ef1c ngh\u0129a g\u00ec? C\u1ee5 th\u1ec3 ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "**t\u00edch c\u1ef1c** = positive (as in a positive effect/outcome). Ng\u01b0\u1ee3c l\u1ea1i v\u1edbi *\"ti\u00eau c\u1ef1c\"* (negative).\n\n**c\u1ee5 th\u1ec3** = specific, concrete. V\u00ed d\u1ee5: *\"B\u1ea1n c\u00f3 v\u00ed d\u1ee5 c\u1ee5 th\u1ec3 kh\u00f4ng?\"* \u2014 Do you have a specific example?\n\n---\n\nC\u00e2u c\u1ee7a b\u1ea1n ho\u00e0n to\u00e0n t\u1ef1 nhi\u00ean! \u2713\n\nKh\u1ed5 qua x\u00e0o \u00edt d\u1ea7u \u2014 r\u1ea5t l\u00e0nh m\u1ea1nh! Sau khi t\u1eadp, b\u1ea1n th\u01b0\u1eddng th\u00e8m \u0103n g\u00ec nh\u1ea5t? V\u00e0 vi\u1ec7c \u0103n u\u1ed1ng l\u00e0nh m\u1ea1nh c\u00f3 **t\u00e1c \u0111\u1ed9ng** g\u00ec \u0111\u1ebfn **nh\u1ecbp tim** c\u1ee7a b\u1ea1n khi t\u1eadp kh\u00f4ng \u2014 v\u00ed d\u1ee5 nh\u01b0 h\u1ed3i ph\u1ee5c nhanh h\u01a1n?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Sau khi t\u1eadp t\u00f4i th\u01b0\u1eddng th\u00e8m \u0103n th\u1ecbt v\u00e0 rau. V\u00ed d\u1ee5 nh\u01b0 b\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua, hay g\u00e0 x\u00e9 v\u00e0 rau xanh. Vi\u1ec7c \u0103n u\u1ed1ng l\u00e0nh m\u1ea1nh duy tr\u00ec nh\u1ecbp tim c\u1ee7a t\u00f4i b\u00ecnh th\u01b0\u1eddng. M\u1ed7i khi t\u00f4i \u0103n l\u00e0nh m\u1ea1nh c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i h\u1ed3i ph\u1ee5c nhanh h\u01a1n.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2717 **ch\u1ee9ng ki\u1ebfn** = to witness, to see firsthand.\n\ne.g. *\"T\u00f4i ch\u1ee9ng ki\u1ebfn v\u1ee5 tai n\u1ea1n \u0111\u00f3.\"* \u2014 I witnessed that accident.\n\n---\n\n**Card 3 of 10**\n\nFill in the blank:\n\n*\"Nhi\u1ec7t \u0111\u1ed9 c\u01a1 th\u1ec3 \u0111\u01b0\u1ee3c ___ b\u1edfi n\u00e3o b\u1ed9.\"*\n\n*(English context: \"Body temperature is ___ by the brain.\")*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: ?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2717 The answer is **\u0111i\u1ec1u h\u00f2a** \u2014 to regulate, to balance.\n\n---\n\n**Card 4 of 10**\n\nHow do you say **\"to preserve, to conserve\"** in Vietnamese?\n\n*(Hint \u2014 sample sentence: \"Ch\u00fang ta c\u1ea7n ___ c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt hoang d\u00e3.\" = \"We need to ___ wild animal species.\")*"
     }
   ]
 }
