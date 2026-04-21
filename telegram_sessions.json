@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: C)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2713 Correct!\n\n---\n\n**Card 3 of 10**\n\nHow do you say **\"to witness, to see firsthand\"** in Vietnamese?\n\n*(Sample sentence: \"Anh \u1ea5y ___ m\u1ed9t s\u1ef1 ki\u1ec7n l\u1ecbch s\u1eed quan tr\u1ecdng.\" = \"He ___ an important historical event.\")*\n\nA) \u0111i\u1ec1u h\u00f2a\nB) b\u1ea3o t\u1ed3n\nC) ch\u1ee9ng ki\u1ebfn\nD) m\u1edf r\u1ed9ng"
-    },
-    {
-      "role": "user",
       "content": "Hugh: C) ch\u1ee9ng ki\u1ebfn\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Got 10 words \u2014 all fresh (never or rarely practiced). Let me set up the cards.\n\n---\n\n**Round 2 \u2014 Cards 1\u20135**\n\n**Card 1**\n\nWhat does **th\u00e2n nhi\u1ec7t** mean? *(word type: noun)*\n\nA) expert, specialist\nB) body temperature\nC) sight, spectacle\nD) discipline\n\n---\n\n**Card 2**\n\nHow do you say **\"to limit, to restrict\"** in Vietnamese?\n\n*(Sample sentence: \"B\u1ea1n n\u00ean ___ \u0103n \u0111\u1ed3 chi\u00ean r\u00e1n.\" = \"You should ___ eating fried food.\")*\n\nA) duy tr\u00ec\nB) ti\u1ebfp x\u00fac\nC) h\u1ea1n ch\u1ebf\nD) b\u1ea3o t\u1ed3n\n\n---\n\n**Card 3**\n\nWhat does **ti\u1ebfp x\u00fac** mean? *(word type: verb)*\n\nA) to maintain, to sustain\nB) to preserve, to conserve\nC) to limit, to restrict\nD) to be exposed to, to come into contact with\n\n---\n\n**Card 4**\n\nWhat does **c\u1ea3nh t\u01b0\u1ee3ng** mean? *(word type: noun)*\n\nA) body temperature\nB) perseverance, persistence\nC) sight, spectacle, scene\nD) discipline\n\n---\n\n**Card 5**\n\nFill in the blank:\n\n*\"Ch\u00fang ta c\u1ea7n b\u1ea3o t\u1ed3n c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt qu\u00fd hi\u1ebfm.\"*\n\nEnglish: \"We need to ___ rare animal species.\"\n\nA) limit\nB) maintain\nC) conserve\nD) witness\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\nC) h\u1ea1n ch\u1ebf\nA)\nC)\nC)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "1. **B) body temperature** \u2713\n2. **C) h\u1ea1n ch\u1ebf** \u2713\n3. **A) to maintain** \u2717 \u2014 **ti\u1ebfp x\u00fac** means *to be exposed to / to come into contact with*. \"To maintain\" is **duy tr\u00ec**.\n4. **C) sight, spectacle, scene** \u2713\n5. **C) conserve** \u2713\n\n4/5 \u2014 solid. The ti\u1ebfp x\u00fac / duy tr\u00ec mix-up is worth noting.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\n\nWhat does **duy tr\u00ec** mean? *(word type: verb)*\n\nA) to be exposed to, to come into contact with\nB) to maintain, to sustain\nC) to quit, to give up\nD) to limit, to restrict\n\n---\n\n**Card 7**\n\nHow do you say **\"expert, specialist\"** in Vietnamese?\n\n*(Sample sentence: \"C\u00e1c ___ y t\u1ebf khuy\u00ean m\u1ecdi ng\u01b0\u1eddi n\u00ean t\u1eadp th\u1ec3 d\u1ee5c th\u01b0\u1eddng xuy\u00ean.\" = \"Health ___ advise everyone to exercise regularly.\")*\n\nA) c\u1ea3nh t\u01b0\u1ee3ng\nB) th\u00e2n nhi\u1ec7t\nC) chuy\u00ean gia\nD) k\u1ef7 lu\u1eadt\n\n---\n\n**Card 8**\n\nWhat does **k\u1ef7 lu\u1eadt** mean? *(word type: noun)*\n\nA) sight, spectacle\nB) body temperature\nC) perseverance, persistence\nD) discipline\n\n---\n\n**Card 9**\n\nWhat does **ki\u00ean tr\u00ec** mean? *(word type: adjective/adverb)*\n\nA) to maintain, to sustain\nB) perseverant, persistent\nC) to limit, to restrict\nD) disciplined\n\n---\n\n**Card 10**\n\nHow do you say **\"to quit, to give up\"** in Vietnamese?\n\n*(Sample sentence: \"Anh \u1ea5y quy\u1ebft \u0111\u1ecbnh ___ h\u00fat thu\u1ed1c l\u00e1.\" = \"He decided to ___ smoking.\")*\n\nA) ti\u1ebfp x\u00fac\nB) duy tr\u00ec\nC) t\u1eeb b\u1ecf\nD) h\u1ea1n ch\u1ebf\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
