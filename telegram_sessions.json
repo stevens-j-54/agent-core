@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Let\u2019s do another round!!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Got 10 words \u2014 all fresh (never or rarely practiced). Let me set up the cards.\n\n---\n\n**Round 2 \u2014 Cards 1\u20135**\n\n**Card 1**\n\nWhat does **th\u00e2n nhi\u1ec7t** mean? *(word type: noun)*\n\nA) expert, specialist\nB) body temperature\nC) sight, spectacle\nD) discipline\n\n---\n\n**Card 2**\n\nHow do you say **\"to limit, to restrict\"** in Vietnamese?\n\n*(Sample sentence: \"B\u1ea1n n\u00ean ___ \u0103n \u0111\u1ed3 chi\u00ean r\u00e1n.\" = \"You should ___ eating fried food.\")*\n\nA) duy tr\u00ec\nB) ti\u1ebfp x\u00fac\nC) h\u1ea1n ch\u1ebf\nD) b\u1ea3o t\u1ed3n\n\n---\n\n**Card 3**\n\nWhat does **ti\u1ebfp x\u00fac** mean? *(word type: verb)*\n\nA) to maintain, to sustain\nB) to preserve, to conserve\nC) to limit, to restrict\nD) to be exposed to, to come into contact with\n\n---\n\n**Card 4**\n\nWhat does **c\u1ea3nh t\u01b0\u1ee3ng** mean? *(word type: noun)*\n\nA) body temperature\nB) perseverance, persistence\nC) sight, spectacle, scene\nD) discipline\n\n---\n\n**Card 5**\n\nFill in the blank:\n\n*\"Ch\u00fang ta c\u1ea7n b\u1ea3o t\u1ed3n c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt qu\u00fd hi\u1ebfm.\"*\n\nEnglish: \"We need to ___ rare animal species.\"\n\nA) limit\nB) maintain\nC) conserve\nD) witness\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\nC) h\u1ea1n ch\u1ebf\nA)\nC)\nC)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Seems the system only returns words that are actually due \u2014 it won't give me the rest regardless of max_words. So we've got what we've got: 1 due word, but I'll pad the session with recently practiced words to make a full batch of 10.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **tr\u1ea1ng th\u00e1i** mean? *(word type: noun)*\n\nA) discipline\nB) state, condition, status\nC) perseverance\nD) breakthrough\n\n---\n\n**Card 2**\nHow do you say **\"to be exposed to / to come into contact with\"** in Vietnamese?\n*(Sample sentence: \"Da kh\u00f4ng n\u00ean ___ tr\u1ef1c ti\u1ebfp v\u1edbi \u00e1nh n\u1eafng m\u1eb7t tr\u1eddi qu\u00e1 l\u00e2u.\" = \"Skin shouldn't be directly ___ sunlight for too long.\")*\n\nA) duy tr\u00ec\nB) t\u1eeb b\u1ecf\nC) ti\u1ebfp x\u00fac\nD) h\u1ea1n ch\u1ebf\n\n---\n\n**Card 3**\nFill in the blank:\n*\"Anh \u1ea5y quy\u1ebft \u0111\u1ecbnh t\u1eeb b\u1ecf h\u00fat thu\u1ed1c l\u00e1.\"*\nEnglish: \"He decided to ___ smoking.\"\n\nA) limit\nB) maintain\nC) quit\nD) conserve\n\n---\n\n**Card 4**\nWhat does **ki\u00ean tr\u00ec** mean? *(word type: adjective/adverb)*\n\nA) disciplined\nB) calm, relaxed\nC) persistent, perseverant\nD) balanced\n\n---\n\n**Card 5**\nHow do you say **\"discipline\"** in Vietnamese?\n*(Sample sentence: \"H\u1ecdc sinh c\u1ea7n c\u00f3 ___ trong vi\u1ec7c h\u1ecdc.\" = \"Students need ___ in their studies.\")*\n\nA) ki\u00ean tr\u00ec\nB) k\u1ef7 lu\u1eadt\nC) chuy\u00ean gia\nD) c\u1ea3nh t\u01b0\u1ee3ng\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B??\nC) ti\u1ebfp x\u00fac\nC)\nC)\nB) K\u1ef9 lu\u1eadt\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "1. **B) state, condition, status** \u2713\n2. **C) ti\u1ebfp x\u00fac** \u2713\n3. **C) quit** \u2713\n4. **C) persistent, perseverant** \u2713\n5. **B) k\u1ef7 lu\u1eadt** \u2014 nearly! Just a spelling note: it's **k\u1ef7** not **k\u1ef9** \u2014 easy to mix up. \u2713 (marking correct)\n\n5/5 \u2014 clean sweep. On to the next batch.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **chuy\u00ean gia** mean? *(word type: noun)*\n\nA) discipline\nB) body temperature\nC) expert, specialist\nD) sight, spectacle\n\n---\n\n**Card 7**\nFill in the blank:\n*\"Ch\u00fang ta c\u1ea7n b\u1ea3o t\u1ed3n c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt qu\u00fd hi\u1ebfm.\"*\nEnglish: \"We need to ___ rare animal species.\"\n\nA) limit\nB) witness\nC) maintain\nD) conserve\n\n---\n\n**Card 8**\nHow do you say **\"to maintain, to sustain\"** in Vietnamese?\n*(Sample sentence: \"B\u1ea1n c\u1ea7n ___ th\u00f3i quen t\u1eadp th\u1ec3 d\u1ee5c m\u1ed7i ng\u00e0y.\" = \"You need to ___ the habit of exercising every day.\")*\n\nA) ti\u1ebfp x\u00fac\nB) h\u1ea1n ch\u1ebf\nC) duy tr\u00ec\nD) t\u1eeb b\u1ecf\n\n---\n\n**Card 9**\nWhat does **th\u00e2n nhi\u1ec7t** mean? *(word type: noun)*\n\nA) perseverance\nB) body temperature\nC) discipline\nD) ceasefire\n\n---\n\n**Card 10**\nFill in the blank:\n*\"C\u1ea3nh t\u01b0\u1ee3ng ho\u00e0ng h\u00f4n tr\u00ean bi\u1ec3n th\u1eadt tuy\u1ec7t v\u1eddi.\"*\nEnglish: \"The ___ of the sunset over the sea was truly magnificent.\"\n\nA) condition\nB) specialist\nC) sight\nD) temperature\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
