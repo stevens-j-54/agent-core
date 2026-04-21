@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Let\u2019s practise Vietnamese\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Three never-practiced words: **t\u00e1c \u0111\u1ed9ng** (impact/effect), **ch\u1ea5t ph\u1ee5 gia** (additive), **nh\u1ecbp tim** (heart rate). Health and food science territory \u2014 let's go with processed food and its effects on the body.\n\n---\n\nG\u1ea7n \u0111\u00e2y t\u00f4i \u0111\u1ecdc m\u1ed9t b\u00e0i v\u1ec1 th\u1ef1c ph\u1ea9m ch\u1ebf bi\u1ebfn s\u1eb5n \u1edf Vi\u1ec7t Nam \u2014 \u0111\u1eb7c bi\u1ec7t l\u00e0 \u0111\u1ed3 \u0103n nhanh d\u00e0nh cho tr\u1ebb em. Nhi\u1ec1u s\u1ea3n ph\u1ea9m ch\u1ee9a **ch\u1ea5t ph\u1ee5 gia** kh\u00f4ng t\u1ed1t cho s\u1ee9c kh\u1ecfe v\u00e0 c\u00f3 **t\u00e1c \u0111\u1ed9ng** x\u1ea5u \u0111\u1ebfn **nh\u1ecbp tim** c\u0169ng nh\u01b0 h\u1ec7 th\u1ea7n kinh n\u1ebfu \u0103n qu\u00e1 nhi\u1ec1u. B\u1ea1n c\u00f3 th\u01b0\u1eddng \u0103n \u0111\u1ed3 ch\u1ebf bi\u1ebfn s\u1eb5n kh\u00f4ng, hay b\u1ea1n ch\u00fa \u00fd nhi\u1ec1u \u0111\u1ebfn ch\u1ebf \u0111\u1ed9 \u0103n u\u1ed1ng?\n\n*(Topic: processed food and health. Try to reply in Vietnamese!)*"
-    },
-    {
-      "role": "user",
       "content": "Hugh: \u0110\u1ed3 ch\u1ebf bi\u1ebfn s\u1eb5n l\u00e0 \u201cprocessed food\u201d ph\u1ea3i kh\u00f4ng? Th\u1ef1c ph\u1ea9m gi\u1ed1ng nh\u01b0 \u0111\u1ed3 \u0103n kh\u00f4ng? \u201cH\u1ec7 th\u1ea7n kinh\u201d ngh\u0129a g\u00ec?\n\nT\u00f4i ch\u00fa \u00fd nhi\u1ec1u \u0111\u1ebfn ch\u1ebf \u0111\u1ed9 \u0103n u\u1ed1ng v\u00ec t\u00f4i t\u1eadp th\u1ec3 d\u1ee5c nhi\u1ec1u v\u00e0 c\u1ea7n nhi\u1ec1u n\u0103ng l\u01b0\u1ee3ng v\u00e0 n\u1ed7 l\u1ef1c. Theo t\u00f4i \u0111\u1ed3 \u0103n t\u1ed1t ch\u00f3 s\u1ee9c kho\u1ebb c\u0169ng ngon h\u01a1n. V\u00ed d\u1ee5 nh\u01b0 kh\u1ed5 qu\u1ea3; nhi\u1ec1u ng\u01b0\u1eddi kh\u00f4ng th\u00edch nh\u01b0ng v\u1edbi t\u00f4i n\u00f3 r\u1ea5t ngon!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "10 words due \u2014 all never practiced. Let's go. I'll mix up card directions.\n\n---\n\n**Card 1 of 10**\n\nHow do you say **\"disruption, disorder\"** in Vietnamese?\n\n*(Hint \u2014 sample sentence: \"Anh \u1ea5y b\u1ecb ___ gi\u1ea5c ng\u1ee7 v\u00ec c\u0103ng th\u1eb3ng.\" = \"He suffered ___ due to stress.\")*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C\u1ea3m\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2717 Not quite \u2014 the answer is **r\u1ed1i lo\u1ea1n**.\n\n*\"C\u1ea3m\"* = to feel, or a cold/flu. Different word!\n\n---\n\n**Card 2 of 10**\n\nWhat does **ch\u1ee9ng ki\u1ebfn** mean? *(word type: verb)*"
     }
   ]
 }
