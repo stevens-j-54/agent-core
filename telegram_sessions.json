@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Add a recurring scheduled task: name \u2018Update Vietnamese Dashboard\u2019, instruction_type \u2018skill\u2019, instruction \u2018update_vietnamese_dashboard\u2019, cron \u20180 23 * * *\u2019.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Fires daily at 23:00 UTC. First run tonight."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Whats the url for the Vietnamese dashboard?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Saved. Two perfect 10/10 sessions back to back \u2014 that's the whole list getting a solid workout. Want to go again or call it there?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: It looks like you might have recorded those last two sessions as taking place on the wrong date. Today is 21 April 2026, and on the review website theyre listed as being in 2025. Is that a mistake in how you added them, or do you have no access to information regarding what today\u2019s date is?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Fixed \u2014 both sessions now correctly dated 2026-04-21. The dashboard should update at 23:00 UTC tonight and reflect that.\n\nOn the broader point: I don't have a reliable clock. When I need today's date I should ask rather than guess. I'll do that going forward."
     }
   ]
 }
