@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Could you share some sentences with me now please\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Sorry \u2014 jumped ahead of myself there. Here you go:\n\n**ti\u1ebfp x\u00fac** (verb) \u2014 *to be exposed to / to come into contact with*\n\n1. **Tr\u1ebb em c\u1ea7n ti\u1ebfp x\u00fac v\u1edbi thi\u00ean nhi\u00ean t\u1eeb nh\u1ecf.**\n*Children need to be exposed to nature from a young age.*\n\n2. **Anh \u1ea5y b\u1ecb b\u1ec7nh v\u00ec ti\u1ebfp x\u00fac v\u1edbi ng\u01b0\u1eddi nhi\u1ec5m virus.**\n*He got sick because he came into contact with an infected person.*\n\n3. **L\u00e0m vi\u1ec7c n\u00e0y, b\u1ea1n s\u1ebd th\u01b0\u1eddng xuy\u00ean ti\u1ebfp x\u00fac v\u1edbi kh\u00e1ch h\u00e0ng.**\n*In this job, you'll be in regular contact with customers.*\n\n4. **Da kh\u00f4ng n\u00ean ti\u1ebfp x\u00fac tr\u1ef1c ti\u1ebfp v\u1edbi \u00e1nh n\u1eafng m\u1eb7t tr\u1eddi qu\u00e1 l\u00e2u.**\n*Skin shouldn't be directly exposed to sunlight for too long.*\n\nThe pattern to notice: **ti\u1ebfp x\u00fac v\u1edbi** + the thing you're exposed to / in contact with. Works for physical contact, social contact, and exposure to elements or ideas."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Add a recurring scheduled task: name \u2018Update Vietnamese Dashboard\u2019, instruction_type \u2018skill\u2019, instruction \u2018update_vietnamese_dashboard\u2019, cron \u20180 23 * * *\u2019.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "5/5 \u2014 perfect. Next batch.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **c\u00e2n b\u1eb1ng** mean? *(word type: noun/verb)*\n\nA) to require\nB) equilibrium, balance / to balance\nC) to expand\nD) irritable\n\n---\n\n**Card 7**\nHow do you say **\"to limit, to restrict\"** in Vietnamese?\n*(Sample sentence: \"Ch\u00ednh ph\u1ee7 c\u1ea7n ___ l\u01b0\u1ee3ng kh\u00ed th\u1ea3i carbon.\" = \"The government needs to ___ carbon emissions.\")*\n\nA) duy tr\u00ec\nB) ph\u1ee5c h\u1ed3i\nC) h\u1ea1n ch\u1ebf\nD) \u0111i\u1ec1u h\u00f2a\n\n---\n\n**Card 8**\nFill in the blank:\n*\"H\u1ec7 th\u1ed1ng \u0111i\u1ec1u h\u00f2a kh\u00f4ng kh\u00ed gi\u00fap \u0111i\u1ec1u ch\u1ec9nh nhi\u1ec7t \u0111\u1ed9 trong ph\u00f2ng.\"*\nEnglish: \"The air conditioning system helps ___ the temperature in the room.\"\n\nA) expand\nB) require\nC) regulate\nD) disrupt\n\n---\n\n**Card 9**\nWhat does **m\u1edf r\u1ed9ng** mean? *(word type: verb)*\n\nA) to conserve\nB) to quit\nC) to witness\nD) to expand, to extend\n\n---\n\n**Card 10**\nFill in the blank:\n*\"Ch\u00fang t\u00f4i \u0111\u00e3 ch\u1ee9ng ki\u1ebfn s\u1ef1 thay \u0111\u1ed5i l\u1edbn trong th\u00e0nh ph\u1ed1.\"*\nEnglish: \"We ___ a great change in the city.\"\n\nA) limited\nB) witnessed\nC) regulated\nD) expanded\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\nC) h\u1ea1n ch\u1ebf\nC)\nD)\nB)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Saved. Two perfect 10/10 sessions back to back \u2014 that's the whole list getting a solid workout. Want to go again or call it there?"
     }
   ]
 }
