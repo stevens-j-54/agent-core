@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Dont know\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2717 **ch\u1ee9ng ki\u1ebfn** = to witness, to see firsthand.\n\ne.g. *\"T\u00f4i ch\u1ee9ng ki\u1ebfn v\u1ee5 tai n\u1ea1n \u0111\u00f3.\"* \u2014 I witnessed that accident.\n\n---\n\n**Card 3 of 10**\n\nFill in the blank:\n\n*\"Nhi\u1ec7t \u0111\u1ed9 c\u01a1 th\u1ec3 \u0111\u01b0\u1ee3c ___ b\u1edfi n\u00e3o b\u1ed9.\"*\n\n*(English context: \"Body temperature is ___ by the brain.\")*"
-    },
-    {
-      "role": "user",
       "content": "Hugh: ?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct!\n\n---\n\n**Card 6 of 10**\n\nWhat does **\u0111\u1ed9ng v\u1eadt hoang d\u00e3** mean? *(word type: noun)*\n\nA) natural environment\nB) wild animals, wildlife\nC) balanced level\nD) process, course"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct!\n\n---\n\n**Card 7 of 10**\n\nWhat does **\u0111i\u1ec1u h\u00f2a** mean? *(word type: verb)*\n\nA) to witness, to see firsthand\nB) to cool down, to lower temperature\nC) to regulate, to balance\nD) to preserve, to conserve"
     }
   ]
 }
