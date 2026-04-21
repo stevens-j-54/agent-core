@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: D)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2713 Correct!\n\n---\n\n**Card 5 of 10**\n\nFill in the blank:\n\n*\"Ch\u00fang ta c\u1ea7n ___ c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt hoang d\u00e3.\"*\n\nEnglish: \"We need to ___ wild animal species.\"\n\nA) h\u1ea1 nhi\u1ec7t\nB) b\u1ea3o t\u1ed3n\nC) r\u1ed1i lo\u1ea1n\nD) ch\u1ee9ng ki\u1ebfn"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B\u1ea3o t\u1ed3n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "19/20 across both rounds. Only **ti\u1ebfp x\u00fac** tripped you up \u2014 worth revisiting next session.\n\nSaved. Good session. \ud83d\udcaa"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Could you write some sample sentences with ti\u1ebfp x\u00fac for me so I can see how it appears in real usage?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Session saved. Those sentences should make the usage stick \u2014 it's a versatile word once you see it across contexts."
     }
   ]
 }
