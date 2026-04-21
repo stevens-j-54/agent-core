@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: C\u1ea3m\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2717 Not quite \u2014 the answer is **r\u1ed1i lo\u1ea1n**.\n\n*\"C\u1ea3m\"* = to feel, or a cold/flu. Different word!\n\n---\n\n**Card 2 of 10**\n\nWhat does **ch\u1ee9ng ki\u1ebfn** mean? *(word type: verb)*"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Dont know\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct!\n\n---\n\n**Card 5 of 10**\n\nFill in the blank:\n\n*\"Ch\u00fang ta c\u1ea7n ___ c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt hoang d\u00e3.\"*\n\nEnglish: \"We need to ___ wild animal species.\"\n\nA) h\u1ea1 nhi\u1ec7t\nB) b\u1ea3o t\u1ed3n\nC) r\u1ed1i lo\u1ea1n\nD) ch\u1ee9ng ki\u1ebfn"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B\u1ea3o t\u1ed3n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct!\n\n---\n\n**Card 6 of 10**\n\nWhat does **\u0111\u1ed9ng v\u1eadt hoang d\u00e3** mean? *(word type: noun)*\n\nA) natural environment\nB) wild animals, wildlife\nC) balanced level\nD) process, course"
     }
   ]
 }
