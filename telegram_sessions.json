@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: \u0110\u00f2i h\u1ecfi l\u00e0 \u201crequire\u201d hay sao?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u0110\u00fang v\u1eady! **\u0111\u00f2i h\u1ecfi** = to require, to demand. Th\u01b0\u1eddng d\u00f9ng khi n\u00f3i v\u1ec1 vi\u1ec7c g\u00ec \u0111\u00f3 c\u1ea7n nhi\u1ec1u n\u1ed7 l\u1ef1c, th\u1eddi gian, ho\u1eb7c k\u1ef9 n\u0103ng.\n\nV\u00ed d\u1ee5:\n- *Muay Thai \u0111\u00f2i h\u1ecfi s\u1ef1 ki\u00ean nh\u1eabn.* \u2014 Muay Thai requires patience.\n- *C\u00f4ng vi\u1ec7c n\u00e0y \u0111\u00f2i h\u1ecfi nhi\u1ec1u kinh nghi\u1ec7m.* \u2014 This job requires a lot of experience.\n\nTr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi c\u1ee7a t\u00f4i \u0111i nh\u00e9! \ud83d\ude04"
-    },
-    {
-      "role": "user",
       "content": "Hugh: L\u1ea7n \u0111\u1ea7u ti\u00ean t\u1eadp c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i m\u1ea5t hai ng\u00e0y \u0111\u1ec3 ph\u1ee5c h\u1ed3i. Vi\u1ec7c t\u1eadp \u1edf \u0111\u00f3 kh\u00f3 h\u01a1n \u1edf Ireland v\u00ec th\u1eddi ti\u1ebft n\u00f3ng h\u01a1n.\n\n\u201cTi\u00ean t\u1eadp\u201d v\u00e0 \u201ct\u1eadp\u201d kh\u00e1c nhau nh\u01b0 th\u1ebf n\u00e0o? \nK\u1ef7 lu\u1eadt ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "**t\u00edch c\u1ef1c** = positive (as in a positive effect/outcome). Ng\u01b0\u1ee3c l\u1ea1i v\u1edbi *\"ti\u00eau c\u1ef1c\"* (negative).\n\n**c\u1ee5 th\u1ec3** = specific, concrete. V\u00ed d\u1ee5: *\"B\u1ea1n c\u00f3 v\u00ed d\u1ee5 c\u1ee5 th\u1ec3 kh\u00f4ng?\"* \u2014 Do you have a specific example?\n\n---\n\nC\u00e2u c\u1ee7a b\u1ea1n ho\u00e0n to\u00e0n t\u1ef1 nhi\u00ean! \u2713\n\nKh\u1ed5 qua x\u00e0o \u00edt d\u1ea7u \u2014 r\u1ea5t l\u00e0nh m\u1ea1nh! Sau khi t\u1eadp, b\u1ea1n th\u01b0\u1eddng th\u00e8m \u0103n g\u00ec nh\u1ea5t? V\u00e0 vi\u1ec7c \u0103n u\u1ed1ng l\u00e0nh m\u1ea1nh c\u00f3 **t\u00e1c \u0111\u1ed9ng** g\u00ec \u0111\u1ebfn **nh\u1ecbp tim** c\u1ee7a b\u1ea1n khi t\u1eadp kh\u00f4ng \u2014 v\u00ed d\u1ee5 nh\u01b0 h\u1ed3i ph\u1ee5c nhanh h\u01a1n?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Sau khi t\u1eadp t\u00f4i th\u01b0\u1eddng th\u00e8m \u0103n th\u1ecbt v\u00e0 rau. V\u00ed d\u1ee5 nh\u01b0 b\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua, hay g\u00e0 x\u00e9 v\u00e0 rau xanh. Vi\u1ec7c \u0103n u\u1ed1ng l\u00e0nh m\u1ea1nh duy tr\u00ec nh\u1ecbp tim c\u1ee7a t\u00f4i b\u00ecnh th\u01b0\u1eddng. M\u1ed7i khi t\u00f4i \u0103n l\u00e0nh m\u1ea1nh c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i h\u1ed3i ph\u1ee5c nhanh h\u01a1n.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "R\u1ea5t t\u1ed1t \u2014 c\u00e2u d\u00e0i v\u00e0 t\u1ef1 nhi\u00ean! M\u1ed9t v\u00e0i \u0111i\u1ec3m nh\u1ecf:\n\n*\"g\u00e0 x\u00e9\"* \u2192 **\"g\u00e0 x\u00e9 phay\"** ho\u1eb7c **\"g\u00e0 x\u00e9 nh\u1ecf\"** \u2014 *\"g\u00e0 x\u00e9\"* m\u1ed9t m\u00ecnh nghe h\u01a1i l\u1ea1, c\u1ea7n th\u00eam t\u1eeb \u0111\u1ec3 ho\u00e0n ch\u1ec9nh.\n\n*\"duy tr\u00ec nh\u1ecbp tim b\u00ecnh th\u01b0\u1eddng\"* \u2014 c\u00e2u \u0111\u00fang ng\u1eef ph\u00e1p nh\u01b0ng h\u01a1i c\u1ee9ng. T\u1ef1 nhi\u00ean h\u01a1n: **\"gi\u1eef nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh\"** *(keeps heart rate stable)*.\n\n---\n\nB\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua \u2014 kh\u00f4ng ph\u1ea3i s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng nh\u01b0ng nghe r\u1ea5t ngon! \ud83d\ude04 B\u1ea1n t\u1ef1 n\u1ea5u \u0103n nhi\u1ec1u kh\u00f4ng, hay b\u1ea1n th\u01b0\u1eddng mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i?"
     }
   ]
 }
