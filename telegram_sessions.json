@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: L\u1ea7n \u0111\u1ea7u ti\u00ean t\u1eadp c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i m\u1ea5t hai ng\u00e0y \u0111\u1ec3 ph\u1ee5c h\u1ed3i. Vi\u1ec7c t\u1eadp \u1edf \u0111\u00f3 kh\u00f3 h\u01a1n \u1edf Ireland v\u00ec th\u1eddi ti\u1ebft n\u00f3ng h\u01a1n.\n\n\u201cTi\u00ean t\u1eadp\u201d v\u00e0 \u201ct\u1eadp\u201d kh\u00e1c nhau nh\u01b0 th\u1ebf n\u00e0o? \nK\u1ef7 lu\u1eadt ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "C\u00e2u tr\u1ea3 l\u1eddi r\u1ea5t t\u1ed1t v\u00e0 t\u1ef1 nhi\u00ean! \ud83d\udc4d\n\nHai c\u00e2u h\u1ecfi:\n\n**\"l\u1ea7n \u0111\u1ea7u ti\u00ean\" vs \"l\u1ea7n \u0111\u1ea7u\"** \u2014 th\u1ef1c ra gi\u1ed1ng nhau! *\"ti\u00ean\"* ch\u1ec9 nh\u1ea5n m\u1ea1nh th\u00eam. C\u1ea3 hai \u0111\u1ec1u ngh\u0129a l\u00e0 \"the first time\". *\"L\u1ea7n \u0111\u1ea7u ti\u00ean\"* nghe trang tr\u1ecdng h\u01a1n m\u1ed9t ch\u00fat.\n\n**k\u1ef7 lu\u1eadt** = discipline \u2014 t\u1ef1 b\u1eaft b\u1ea3n th\u00e2n l\u00e0m vi\u1ec7c g\u00ec \u0111\u00f3 \u0111\u1ec1u \u0111\u1eb7n, d\u00f9 kh\u00f3. V\u00ed d\u1ee5: *\"Muay Thai \u0111\u00f2i h\u1ecfi k\u1ef7 lu\u1eadt cao.\"* \u2014 Muay Thai requires a high level of discipline.\n\n---\n\nHai ng\u00e0y \u0111\u1ec3 ph\u1ee5c h\u1ed3i nghe c\u00f3 v\u1ebb \u0111au l\u1eafm! \ud83d\ude04 Th\u1eddi ti\u1ebft n\u00f3ng ch\u1eafc l\u00e0m m\u1ecdi th\u1ee9 kh\u00f3 h\u01a1n nhi\u1ec1u. B\u1ea1n t\u1eadp \u1edf Th\u00e1i Lan bao l\u00e2u? V\u00e0 sau chuy\u1ebfn \u0111\u00f3, b\u1ea3n th\u00e2n b\u1ea1n c\u1ea3m th\u1ea5y thay \u0111\u1ed5i nh\u01b0 th\u1ebf n\u00e0o?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: T\u1ef1 b\u1eaft ngh\u0129a g\u00ec?\nT\u00f4i t\u1eadp \u1edf Th\u00e1i Lan ba th\u00e1ng. Sau chuy\u1ebfn \u0111\u00f3 t\u00f4i th\u1ea5y m\u1ea1nh h\u01a1n v\u00e0 c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i g\u00e2y h\u01a1n m\u1ed9t ch\u00fat.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "R\u1ea5t t\u1ed1t \u2014 c\u00e2u d\u00e0i v\u00e0 t\u1ef1 nhi\u00ean! M\u1ed9t v\u00e0i \u0111i\u1ec3m nh\u1ecf:\n\n*\"g\u00e0 x\u00e9\"* \u2192 **\"g\u00e0 x\u00e9 phay\"** ho\u1eb7c **\"g\u00e0 x\u00e9 nh\u1ecf\"** \u2014 *\"g\u00e0 x\u00e9\"* m\u1ed9t m\u00ecnh nghe h\u01a1i l\u1ea1, c\u1ea7n th\u00eam t\u1eeb \u0111\u1ec3 ho\u00e0n ch\u1ec9nh.\n\n*\"duy tr\u00ec nh\u1ecbp tim b\u00ecnh th\u01b0\u1eddng\"* \u2014 c\u00e2u \u0111\u00fang ng\u1eef ph\u00e1p nh\u01b0ng h\u01a1i c\u1ee9ng. T\u1ef1 nhi\u00ean h\u01a1n: **\"gi\u1eef nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh\"** *(keeps heart rate stable)*.\n\n---\n\nB\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua \u2014 kh\u00f4ng ph\u1ea3i s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng nh\u01b0ng nghe r\u1ea5t ngon! \ud83d\ude04 B\u1ea1n t\u1ef1 n\u1ea5u \u0103n nhi\u1ec1u kh\u00f4ng, hay b\u1ea1n th\u01b0\u1eddng mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: S\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng ngh\u0129a g\u00ec?\n\nT\u00f4i th\u01b0\u1eddng n\u1ea5u \u0103n \u1edf nh\u00e0 nh\u01b0ng khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam t\u00f4i hay mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "**s\u1ef1 k\u1ebft h\u1ee3p** = combination. **th\u00f4ng th\u01b0\u1eddng** = usual/common. V\u1eady *\"s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng\"* = a usual/common combination.\n\n---\n\nC\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ed1t! M\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam\"* \u2192 **\"khi t\u00f4i c\u00f2n \u1edf Vi\u1ec7t Nam\"** \u2014 *\"v\u1eabn\"* = still (ongoing now), *\"c\u00f2n\"* = still (in the past, no longer the case). V\u00ec b\u1ea1n kh\u00f4ng c\u00f2n \u1edf Vi\u1ec7t Nam n\u1eefa n\u00ean d\u00f9ng *\"c\u00f2n\"* t\u1ef1 nhi\u00ean h\u01a1n.\n\n---\n\n\u0110\u1ed3 \u0103n \u0111\u01b0\u1eddng ph\u1ed1 \u1edf Vi\u1ec7t Nam ch\u1eafc kh\u00f3 m\u00e0 c\u01b0\u1ee1ng l\u1ea1i! \ud83d\ude04 B\u1ea1n nh\u1edb m\u00f3n g\u00ec nh\u1ea5t t\u1eeb th\u1eddi gian \u0111\u00f3?"
     }
   ]
 }
