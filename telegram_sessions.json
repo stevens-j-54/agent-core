@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Good session. Summary:\n\n**Vocab reviewed:** t\u00e1c \u0111\u1ed9ng \u2713, ch\u1ea5t ph\u1ee5 gia \u2713, nh\u1ecbp tim \u2713 \u2014 all used naturally.\n\n**Corrections:**\n- *v\u1eabn* \u2192 *c\u00f2n* (past \"still\" vs present \"still\")\n- *g\u00e0 x\u00e9* \u2192 *g\u00e0 x\u00e9 phay*\n- *duy tr\u00ec nh\u1ecbp tim b\u00ecnh th\u01b0\u1eddng* \u2192 *gi\u1eef nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh*\n\n**Overall:** fluency is strong \u2014 sentences were long, natural, and confident. The errors were small."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Can you send me the full vocab list we\u2019ve built up so far?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "No problem. I won't save this one \u2014 too few cards to make it worth logging.\n\nPick it up whenever you're ready."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ok I\u2019d like to start a new one please :)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "10 words loaded \u2014 all never practiced. Let's go!\n\n---\n\n**Card 1 of 10**\n\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\nA) body temperature\nB) equilibrium, balanced level\nC) process, course\nD) disruption, disorder"
     }
   ]
 }
