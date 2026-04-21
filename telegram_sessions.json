@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Ok I\u2019d like to start a new one please :)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "10 words loaded \u2014 all never practiced. Let's go!\n\n---\n\n**Card 1 of 10**\n\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\nA) body temperature\nB) equilibrium, balanced level\nC) process, course\nD) disruption, disorder"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct!\n\n---\n\n**Card 10 of 10**\n\nHow do you say **\"to expand, to widen\"** in Vietnamese?\n\n*(Sample sentence: \"Ch\u00ednh ph\u1ee7 mu\u1ed1n ___ khu b\u1ea3o t\u1ed3n thi\u00ean nhi\u00ean.\" = \"The government wants to ___ the nature reserve.\")*\n\nA) \u0111i\u1ec1u h\u00f2a\nB) ch\u1ee9ng ki\u1ebfn\nC) h\u1ea1 nhi\u1ec7t\nD) m\u1edf r\u1ed9ng"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: D) m\u1edf r\u1ed9ng\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "10/10 \u2014 clean sweep. One tiny tonal slip on **r\u1ed1i lo\u1ea1n** but you self-corrected instantly, so barely counts.\n\nSession saved. 7 words ticked off their first review. \ud83d\udcaa"
     }
   ]
 }
