@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-21T13:56:36Z",
+  "last_updated": "2026-04-21T14:37:09Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -135,8 +135,8 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-14",
-      "practice_count": 1,
+      "last_practiced": "2026-04-21",
+      "practice_count": 2,
       "sample_sentences": [
         {
           "vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.",
@@ -335,8 +335,8 @@
       "word_type": "noun",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Thân nhiệt bình thường của người là khoảng 37 độ C.",
@@ -360,8 +360,8 @@
       "word_type": "verb",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Bạn nên hạn chế ăn đồ chiên rán.",
@@ -385,8 +385,8 @@
       "word_type": "verb",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Hạn chế tiếp xúc với ánh nắng mặt trời vào giữa trưa.",
@@ -435,8 +435,8 @@
       "word_type": "verb",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-14",
-      "practice_count": 1,
+      "last_practiced": "2026-04-21",
+      "practice_count": 2,
       "sample_sentences": [
         {
           "vi": "Bạn cần duy trì thói quen tập thể dục mỗi ngày.",
@@ -560,8 +560,8 @@
       "word_type": "noun",
       "source": "Cúc Phương butterfly season — travel exercise",
       "date_added": "2026-04-14",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Cảnh tượng hàng nghìn con bướm bay thật kỳ diệu.",
@@ -585,8 +585,8 @@
       "word_type": "verb",
       "source": "Cúc Phương butterfly season — travel exercise",
       "date_added": "2026-04-14",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Chúng ta cần bảo tồn các loài động vật quý hiếm.",
@@ -610,8 +610,8 @@
       "word_type": "noun",
       "source": "Cúc Phương butterfly season — travel exercise",
       "date_added": "2026-04-14",
-      "last_practiced": null,
-      "practice_count": 0,
+      "last_practiced": "2026-04-21",
+      "practice_count": 1,
       "sample_sentences": [
         {
           "vi": "Các chuyên gia sinh thái cảnh báo về tình trạng mất rừng.",
@@ -649,8 +649,8 @@
       ],
       "id": "4f913b36-5a81-42b2-9334-181f308ef9ff",
       "date_added": "2026-04-20",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-21",
+      "practice_count": 1
     },
     {
       "vietnamese": "kỷ luật",
@@ -674,8 +674,8 @@
       ],
       "id": "c0851dfd-8139-46d1-b0d7-ae04fcdaac04",
       "date_added": "2026-04-20",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-21",
+      "practice_count": 1
     }
   ]
 }
