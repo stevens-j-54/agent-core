@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: B\u1ea3o t\u1ed3n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2713 Correct!\n\n---\n\n**Card 6 of 10**\n\nWhat does **\u0111\u1ed9ng v\u1eadt hoang d\u00e3** mean? *(word type: noun)*\n\nA) natural environment\nB) wild animals, wildlife\nC) balanced level\nD) process, course"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Session saved. Those sentences should make the usage stick \u2014 it's a versatile word once you see it across contexts."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Could you share some sentences with me now please\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Sorry \u2014 jumped ahead of myself there. Here you go:\n\n**ti\u1ebfp x\u00fac** (verb) \u2014 *to be exposed to / to come into contact with*\n\n1. **Tr\u1ebb em c\u1ea7n ti\u1ebfp x\u00fac v\u1edbi thi\u00ean nhi\u00ean t\u1eeb nh\u1ecf.**\n*Children need to be exposed to nature from a young age.*\n\n2. **Anh \u1ea5y b\u1ecb b\u1ec7nh v\u00ec ti\u1ebfp x\u00fac v\u1edbi ng\u01b0\u1eddi nhi\u1ec5m virus.**\n*He got sick because he came into contact with an infected person.*\n\n3. **L\u00e0m vi\u1ec7c n\u00e0y, b\u1ea1n s\u1ebd th\u01b0\u1eddng xuy\u00ean ti\u1ebfp x\u00fac v\u1edbi kh\u00e1ch h\u00e0ng.**\n*In this job, you'll be in regular contact with customers.*\n\n4. **Da kh\u00f4ng n\u00ean ti\u1ebfp x\u00fac tr\u1ef1c ti\u1ebfp v\u1edbi \u00e1nh n\u1eafng m\u1eb7t tr\u1eddi qu\u00e1 l\u00e2u.**\n*Skin shouldn't be directly exposed to sunlight for too long.*\n\nThe pattern to notice: **ti\u1ebfp x\u00fac v\u1edbi** + the thing you're exposed to / in contact with. Works for physical contact, social contact, and exposure to elements or ideas."
     }
   ]
 }
