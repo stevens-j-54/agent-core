@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: T\u00f4i mu\u1ed1n th\u00e1ch th\u1ee9c b\u1ea3n th\u00e2n t\u00f4i lu\u00f4n, kh\u00f4ng chi v\u00ec kinh nghi\u1ec7m \u0111\u00f3.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "R\u1ea5t t\u1ed1t! C\u00e2u r\u1ea5t t\u1ef1 nhi\u00ean \u2014 ch\u1ec9 m\u1ed9t l\u1ed7i nh\u1ecf:\n\n*\"kh\u00f4ng chi\"* \u2192 n\u00ean vi\u1ebft **\"kh\u00f4ng ch\u1ec9\"** *(not only)* \u2014 c\u00f3 d\u1ea5u s\u1eafc tr\u00ean ch\u1eef \"i\".\n\nV\u1eady ngo\u00e0i Muay Thai v\u00e0 h\u1ecdc ti\u1ebfng Vi\u1ec7t, b\u1ea1n \u0111ang th\u00e1ch th\u1ee9c b\u1ea3n th\u00e2n theo c\u00e1ch n\u00e0o kh\u00e1c hi\u1ec7n t\u1ea1i kh\u00f4ng?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: T\u00f4i v\u1eeba b\u1eaft \u0111\u1ea7u c\u00f4ng vi\u1ec7c m\u1edbi v\u00e0 \u0111\u00f3 l\u00e0 m\u1ed9t th\u1eed th\u00e1ch m\u1edbi v\u1edbi t\u00f4i n\u1eefa\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Here's the full list \u2014 27 words so far:\n\n| # | Vietnamese | English | Practiced |\n|---|------------|---------|-----------|\n| 1 | c\u00e1u k\u1ec9nh | irritable, grumpy | \u2713 |\n| 2 | t\u00e2m l\u00fd | mindset, psychology | \u2713 |\n| 3 | v\u1eefng v\u00e0ng | steady, firm, stable | \u2713 |\n| 4 | b\u1ea3n th\u00e2n | oneself, yourself | \u2713 |\n| 5 | \u0111\u00f2i h\u1ecfi | to require, to demand | \u2713 |\n| 6 | ki\u00ean tr\u00ec | perseverance; persistent | \u2713 |\n| 7 | ph\u1ee5c h\u1ed3i | to recover, to restore | \u2713 |\n| 8 | t\u00e1c \u0111\u1ed9ng | impact, effect | \u2713 |\n| 9 | ch\u1ea5t ph\u1ee5 gia | additive, food additive | \u2713 |\n| 10 | nh\u1ecbp tim | heart rate, pulse | \u2713 |\n| 11 | m\u1ee9c c\u00e2n b\u1eb1ng | equilibrium, balanced level | \u2014 |\n| 12 | r\u1ed1i lo\u1ea1n | disruption, disorder | \u2014 |\n| 13 | \u0111i\u1ec1u h\u00f2a | to regulate, to balance | \u2014 |\n| 14 | th\u00e2n nhi\u1ec7t | body temperature | \u2014 |\n| 15 | h\u1ea1n ch\u1ebf | to limit, to restrict | \u2014 |\n| 16 | ti\u1ebfp x\u00fac | to be exposed to, to come into contact with | \u2014 |\n| 17 | h\u1ea1 nhi\u1ec7t | to cool down, to lower temperature | \u2014 |\n| 18 | duy tr\u00ec | to maintain, to sustain | \u2713 |\n| 19 | tr\u1ea1ng th\u00e1i | state, condition, status | \u2713 |\n| 20 | qu\u00e1 tr\u00ecnh | process, course | \u2014 |\n| 21 | m\u1edf r\u1ed9ng | to expand, to widen | \u2014 |\n| 22 | ch\u1ee9ng ki\u1ebfn | to witness, to see firsthand | \u2014 |\n| 23 | c\u1ea3nh t\u01b0\u1ee3ng | sight, spectacle, scene | \u2014 |\n| 24 | b\u1ea3o t\u1ed3n | to preserve, to conserve | \u2014 |\n| 25 | chuy\u00ean gia | expert, specialist | \u2014 |\n| 26 | ch\u1eb3ng h\u1ea1n | for example | \u2014 |\n| 27 | k\u1ef7 lu\u1eadt | discipline | \u2014 |\n\n17 words still unreviewed \u2014 plenty of material for upcoming sessions."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Is this the actual data structure you maintain? Or do you still keep the date we last practised a word, the sample sentences for that word, etc??\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes \u2014 the table I showed was a simplification. The actual data has much more: `date_added`, `last_practiced`, `practice_count`, `word_type`, `source` (which article or session it came from), and 3 sample sentences per word in Vietnamese and English.\n\nWant me to display any particular entry in full, or were you just checking what's under the hood?"
     }
   ]
 }
