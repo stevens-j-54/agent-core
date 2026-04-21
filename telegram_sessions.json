@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Sau khi t\u1eadp t\u00f4i th\u01b0\u1eddng th\u00e8m \u0103n th\u1ecbt v\u00e0 rau. V\u00ed d\u1ee5 nh\u01b0 b\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua, hay g\u00e0 x\u00e9 v\u00e0 rau xanh. Vi\u1ec7c \u0103n u\u1ed1ng l\u00e0nh m\u1ea1nh duy tr\u00ec nh\u1ecbp tim c\u1ee7a t\u00f4i b\u00ecnh th\u01b0\u1eddng. M\u1ed7i khi t\u00f4i \u0103n l\u00e0nh m\u1ea1nh c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i h\u1ed3i ph\u1ee5c nhanh h\u01a1n.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "R\u1ea5t t\u1ed1t \u2014 c\u00e2u d\u00e0i v\u00e0 t\u1ef1 nhi\u00ean! M\u1ed9t v\u00e0i \u0111i\u1ec3m nh\u1ecf:\n\n*\"g\u00e0 x\u00e9\"* \u2192 **\"g\u00e0 x\u00e9 phay\"** ho\u1eb7c **\"g\u00e0 x\u00e9 nh\u1ecf\"** \u2014 *\"g\u00e0 x\u00e9\"* m\u1ed9t m\u00ecnh nghe h\u01a1i l\u1ea1, c\u1ea7n th\u00eam t\u1eeb \u0111\u1ec3 ho\u00e0n ch\u1ec9nh.\n\n*\"duy tr\u00ec nh\u1ecbp tim b\u00ecnh th\u01b0\u1eddng\"* \u2014 c\u00e2u \u0111\u00fang ng\u1eef ph\u00e1p nh\u01b0ng h\u01a1i c\u1ee9ng. T\u1ef1 nhi\u00ean h\u01a1n: **\"gi\u1eef nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh\"** *(keeps heart rate stable)*.\n\n---\n\nB\u00edt t\u1ebft v\u00e0 kh\u1ed5 qua \u2014 kh\u00f4ng ph\u1ea3i s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng nh\u01b0ng nghe r\u1ea5t ngon! \ud83d\ude04 B\u1ea1n t\u1ef1 n\u1ea5u \u0103n nhi\u1ec1u kh\u00f4ng, hay b\u1ea1n th\u01b0\u1eddng mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: S\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng ngh\u0129a g\u00ec?\n\nT\u00f4i th\u01b0\u1eddng n\u1ea5u \u0103n \u1edf nh\u00e0 nh\u01b0ng khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam t\u00f4i hay mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2717 The answer is **\u0111i\u1ec1u h\u00f2a** \u2014 to regulate, to balance.\n\n---\n\n**Card 4 of 10**\n\nHow do you say **\"to preserve, to conserve\"** in Vietnamese?\n\n*(Hint \u2014 sample sentence: \"Ch\u00fang ta c\u1ea7n ___ c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt hoang d\u00e3.\" = \"We need to ___ wild animal species.\")*"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "We're only on card 4 \u2014 want to keep going, or are you done for today?"
     }
   ]
 }
