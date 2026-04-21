@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "We're only on card 4 \u2014 want to keep going, or are you done for today?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Id like to abandon the session\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct!\n\n---\n\n**Card 8 of 10**\n\nHow do you say **\"disruption, disorder\"** in Vietnamese?\n\n*(Sample sentence: \"Bi\u1ebfn \u0111\u1ed5i kh\u00ed h\u1eadu g\u00e2y ra ___ trong h\u1ec7 sinh th\u00e1i.\" = \"Climate change causes ___ in ecosystems.\")*\n\nA) r\u1ed1i lo\u1ea1n\nB) m\u1ee9c c\u00e2n b\u1eb1ng\nC) qu\u00e1 tr\u00ecnh\nD) b\u1ea3o t\u1ed3n"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: A) r\u1ed1i lo\u00e0n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct! (Small spelling note: it's **r\u1ed1i lo\u1ea1n** \u2014 dot under the a, not the grave accent.)\n\n---\n\n**Card 9 of 10**\n\nWhat does **m\u00f4i tr\u01b0\u1eddng t\u1ef1 nhi\u00ean** mean? *(word type: noun)*\n\nA) climate change\nB) natural environment\nC) wild animals, wildlife\nD) process, course"
     }
   ]
 }
