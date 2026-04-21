@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-14",
+  "mode": "quiz",
+  "topic": "vocab quiz",
+  "cards_presented": 10,
+  "correct_count": 10,
+  "incorrect_count": 0,
+  "vocab_reviewed": [
+    "mức cân bằng",
+    "hạ nhiệt",
+    "chứng kiến",
+    "quá trình",
+    "bảo tồn",
+    "động vật hoang dã",
+    "điều hòa",
+    "rối loạn",
+    "môi trường tự nhiên",
+    "mở rộng"
+  ],
+  "correction_notes": "Minor spelling slip on 'rối loạn' — wrote 'rối loàn' (grave accent on a instead of dot below). Quickly corrected.",
+  "vocab_added_to_list": [],
+  "id": "4ed9a706-2762-4972-ac9d-36f313db3816"
+}
