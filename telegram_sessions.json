@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Id like to abandon the session\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "No problem. I won't save this one \u2014 too few cards to make it worth logging.\n\nPick it up whenever you're ready."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ok I\u2019d like to start a new one please :)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct! (Small spelling note: it's **r\u1ed1i lo\u1ea1n** \u2014 dot under the a, not the grave accent.)\n\n---\n\n**Card 9 of 10**\n\nWhat does **m\u00f4i tr\u01b0\u1eddng t\u1ef1 nhi\u00ean** mean? *(word type: noun)*\n\nA) climate change\nB) natural environment\nC) wild animals, wildlife\nD) process, course"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct!\n\n---\n\n**Card 10 of 10**\n\nHow do you say **\"to expand, to widen\"** in Vietnamese?\n\n*(Sample sentence: \"Ch\u00ednh ph\u1ee7 mu\u1ed1n ___ khu b\u1ea3o t\u1ed3n thi\u00ean nhi\u00ean.\" = \"The government wants to ___ the nature reserve.\")*\n\nA) \u0111i\u1ec1u h\u00f2a\nB) ch\u1ee9ng ki\u1ebfn\nC) h\u1ea1 nhi\u1ec7t\nD) m\u1edf r\u1ed9ng"
     }
   ]
 }
