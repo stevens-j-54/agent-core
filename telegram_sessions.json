@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: I was just checking whats under the hood! Thanks :)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Saved. All good under the hood. \ud83d\udc4d"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Let\u2019s do a Vietnamese vocab test\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "\u2713 Correct!\n\n---\n\n**Card 3 of 10**\n\nHow do you say **\"to witness, to see firsthand\"** in Vietnamese?\n\n*(Sample sentence: \"Anh \u1ea5y ___ m\u1ed9t s\u1ef1 ki\u1ec7n l\u1ecbch s\u1eed quan tr\u1ecdng.\" = \"He ___ an important historical event.\")*\n\nA) \u0111i\u1ec1u h\u00f2a\nB) b\u1ea3o t\u1ed3n\nC) ch\u1ee9ng ki\u1ebfn\nD) m\u1edf r\u1ed9ng"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C) ch\u1ee9ng ki\u1ebfn\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct!\n\n---\n\n**Card 4 of 10**\n\nWhat does **qu\u00e1 tr\u00ecnh** mean? *(word type: noun)*\n\nA) equilibrium, balanced level\nB) disruption, disorder\nC) wildlife, wild animals\nD) process, course"
     }
   ]
 }
