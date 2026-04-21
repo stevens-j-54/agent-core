@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-20",
+  "mode": "quiz",
+  "topic": "vocab quiz",
+  "cards_presented": 20,
+  "correct_count": 19,
+  "incorrect_count": 1,
+  "vocab_reviewed": [
+    "thân nhiệt",
+    "hạn chế",
+    "tiếp xúc",
+    "cảnh tượng",
+    "bảo tồn",
+    "chuyên gia",
+    "kỷ luật",
+    "kiên trì",
+    "duy trì",
+    "chẳng hạn"
+  ],
+  "correction_notes": "tiếp xúc (to be exposed to / come into contact with) confused with duy trì (to maintain) on first attempt. Corrected on re-queue.",
+  "vocab_added_to_list": [],
+  "id": "e3f439c5-57a9-4a2c-b3d4-67bae4315ffe"
+}
