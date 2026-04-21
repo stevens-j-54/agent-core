@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Can you send me the full vocab list we\u2019ve built up so far?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Here's the full list \u2014 27 words so far:\n\n| # | Vietnamese | English | Practiced |\n|---|------------|---------|-----------|\n| 1 | c\u00e1u k\u1ec9nh | irritable, grumpy | \u2713 |\n| 2 | t\u00e2m l\u00fd | mindset, psychology | \u2713 |\n| 3 | v\u1eefng v\u00e0ng | steady, firm, stable | \u2713 |\n| 4 | b\u1ea3n th\u00e2n | oneself, yourself | \u2713 |\n| 5 | \u0111\u00f2i h\u1ecfi | to require, to demand | \u2713 |\n| 6 | ki\u00ean tr\u00ec | perseverance; persistent | \u2713 |\n| 7 | ph\u1ee5c h\u1ed3i | to recover, to restore | \u2713 |\n| 8 | t\u00e1c \u0111\u1ed9ng | impact, effect | \u2713 |\n| 9 | ch\u1ea5t ph\u1ee5 gia | additive, food additive | \u2713 |\n| 10 | nh\u1ecbp tim | heart rate, pulse | \u2713 |\n| 11 | m\u1ee9c c\u00e2n b\u1eb1ng | equilibrium, balanced level | \u2014 |\n| 12 | r\u1ed1i lo\u1ea1n | disruption, disorder | \u2014 |\n| 13 | \u0111i\u1ec1u h\u00f2a | to regulate, to balance | \u2014 |\n| 14 | th\u00e2n nhi\u1ec7t | body temperature | \u2014 |\n| 15 | h\u1ea1n ch\u1ebf | to limit, to restrict | \u2014 |\n| 16 | ti\u1ebfp x\u00fac | to be exposed to, to come into contact with | \u2014 |\n| 17 | h\u1ea1 nhi\u1ec7t | to cool down, to lower temperature | \u2014 |\n| 18 | duy tr\u00ec | to maintain, to sustain | \u2713 |\n| 19 | tr\u1ea1ng th\u00e1i | state, condition, status | \u2713 |\n| 20 | qu\u00e1 tr\u00ecnh | process, course | \u2014 |\n| 21 | m\u1edf r\u1ed9ng | to expand, to widen | \u2014 |\n| 22 | ch\u1ee9ng ki\u1ebfn | to witness, to see firsthand | \u2014 |\n| 23 | c\u1ea3nh t\u01b0\u1ee3ng | sight, spectacle, scene | \u2014 |\n| 24 | b\u1ea3o t\u1ed3n | to preserve, to conserve | \u2014 |\n| 25 | chuy\u00ean gia | expert, specialist | \u2014 |\n| 26 | ch\u1eb3ng h\u1ea1n | for example | \u2014 |\n| 27 | k\u1ef7 lu\u1eadt | discipline | \u2014 |\n\n17 words still unreviewed \u2014 plenty of material for upcoming sessions."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Is this the actual data structure you maintain? Or do you still keep the date we last practised a word, the sample sentences for that word, etc??\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "10 words loaded \u2014 all never practiced. Let's go!\n\n---\n\n**Card 1 of 10**\n\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\nA) body temperature\nB) equilibrium, balanced level\nC) process, course\nD) disruption, disorder"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u2713 Correct!\n\n---\n\n**Card 2 of 10**\n\nWhat does **h\u1ea1 nhi\u1ec7t** mean? *(word type: verb)*\n\nA) to regulate, to balance\nB) to expand, to widen\nC) to cool down, to lower temperature\nD) to limit, to restrict"
     }
   ]
 }
