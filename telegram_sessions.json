@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: T\u1ef1 b\u1eaft ngh\u0129a g\u00ec?\nT\u00f4i t\u1eadp \u1edf Th\u00e1i Lan ba th\u00e1ng. Sau chuy\u1ebfn \u0111\u00f3 t\u00f4i th\u1ea5y m\u1ea1nh h\u01a1n v\u00e0 c\u01a1 th\u1ec3 c\u1ee7a t\u00f4i g\u00e2y h\u01a1n m\u1ed9t ch\u00fat.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "**t\u1ef1 b\u1eaft** = to force oneself \u2014 *\"t\u1ef1\"* means \"self/by oneself\", *\"b\u1eaft\"* means \"to force/make someone do something\". So *\"t\u1ef1 b\u1eaft b\u1ea3n th\u00e2n\"* = to force yourself to do something.\n\n---\n\nBa th\u00e1ng \u2014 \u1ea5n t\u01b0\u1ee3ng th\u1eadt! V\u00e0 c\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ed1t \u2014 ch\u1ec9 m\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"g\u00e2y h\u01a1n\"* \u2192 n\u00ean n\u00f3i **\"g\u1ea7y h\u01a1n\"** *(thinner/leaner)* \ud83d\ude04 \u2014 *\"g\u00e2y\"* kh\u00f4ng c\u00f3 ngh\u0129a g\u00ec trong ti\u1ebfng Vi\u1ec7t, nh\u01b0ng t\u00f4i hi\u1ec3u \u00fd b\u1ea1n!\n\nV\u1eady sau kinh nghi\u1ec7m \u0111\u00f3, b\u1ea1n c\u00f3 mu\u1ed1n th\u00e1ch th\u1ee9c b\u1ea3n th\u00e2n theo c\u00e1ch kh\u00e1c n\u1eefa kh\u00f4ng \u2014 v\u00ed d\u1ee5 nh\u01b0 h\u1ecdc ti\u1ebfng Vi\u1ec7t ch\u1eb3ng h\u1ea1n? \ud83d\ude04"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ch\u1eb3ng h\u1ea1n ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "**s\u1ef1 k\u1ebft h\u1ee3p** = combination. **th\u00f4ng th\u01b0\u1eddng** = usual/common. V\u1eady *\"s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng\"* = a usual/common combination.\n\n---\n\nC\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ed1t! M\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam\"* \u2192 **\"khi t\u00f4i c\u00f2n \u1edf Vi\u1ec7t Nam\"** \u2014 *\"v\u1eabn\"* = still (ongoing now), *\"c\u00f2n\"* = still (in the past, no longer the case). V\u00ec b\u1ea1n kh\u00f4ng c\u00f2n \u1edf Vi\u1ec7t Nam n\u1eefa n\u00ean d\u00f9ng *\"c\u00f2n\"* t\u1ef1 nhi\u00ean h\u01a1n.\n\n---\n\n\u0110\u1ed3 \u0103n \u0111\u01b0\u1eddng ph\u1ed1 \u1edf Vi\u1ec7t Nam ch\u1eafc kh\u00f3 m\u00e0 c\u01b0\u1ee1ng l\u1ea1i! \ud83d\ude04 B\u1ea1n nh\u1edb m\u00f3n g\u00ec nh\u1ea5t t\u1eeb th\u1eddi gian \u0111\u00f3?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Good session. Summary:\n\n**Vocab reviewed:** t\u00e1c \u0111\u1ed9ng \u2713, ch\u1ea5t ph\u1ee5 gia \u2713, nh\u1ecbp tim \u2713 \u2014 all used naturally.\n\n**Corrections:**\n- *v\u1eabn* \u2192 *c\u00f2n* (past \"still\" vs present \"still\")\n- *g\u00e0 x\u00e9* \u2192 *g\u00e0 x\u00e9 phay*\n- *duy tr\u00ec nh\u1ecbp tim b\u00ecnh th\u01b0\u1eddng* \u2192 *gi\u1eef nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh*\n\n**Overall:** fluency is strong \u2014 sentences were long, natural, and confident. The errors were small."
     }
   ]
 }
