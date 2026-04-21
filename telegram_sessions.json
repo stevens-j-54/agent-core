@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: S\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng ngh\u0129a g\u00ec?\n\nT\u00f4i th\u01b0\u1eddng n\u1ea5u \u0103n \u1edf nh\u00e0 nh\u01b0ng khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam t\u00f4i hay mua \u0111\u1ed3 \u0103n b\u00ean ngo\u00e0i\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "**s\u1ef1 k\u1ebft h\u1ee3p** = combination. **th\u00f4ng th\u01b0\u1eddng** = usual/common. V\u1eady *\"s\u1ef1 k\u1ebft h\u1ee3p th\u00f4ng th\u01b0\u1eddng\"* = a usual/common combination.\n\n---\n\nC\u00e2u c\u1ee7a b\u1ea1n r\u1ea5t t\u1ed1t! M\u1ed9t \u0111i\u1ec3m nh\u1ecf:\n\n*\"khi t\u00f4i v\u1eabn \u1edf Vi\u1ec7t Nam\"* \u2192 **\"khi t\u00f4i c\u00f2n \u1edf Vi\u1ec7t Nam\"** \u2014 *\"v\u1eabn\"* = still (ongoing now), *\"c\u00f2n\"* = still (in the past, no longer the case). V\u00ec b\u1ea1n kh\u00f4ng c\u00f2n \u1edf Vi\u1ec7t Nam n\u1eefa n\u00ean d\u00f9ng *\"c\u00f2n\"* t\u1ef1 nhi\u00ean h\u01a1n.\n\n---\n\n\u0110\u1ed3 \u0103n \u0111\u01b0\u1eddng ph\u1ed1 \u1edf Vi\u1ec7t Nam ch\u1eafc kh\u00f3 m\u00e0 c\u01b0\u1ee1ng l\u1ea1i! \ud83d\ude04 B\u1ea1n nh\u1edb m\u00f3n g\u00ec nh\u1ea5t t\u1eeb th\u1eddi gian \u0111\u00f3?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Done\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "We're only on card 4 \u2014 want to keep going, or are you done for today?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Id like to abandon the session\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "No problem. I won't save this one \u2014 too few cards to make it worth logging.\n\nPick it up whenever you're ready."
     }
   ]
 }
