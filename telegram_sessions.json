@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: A) r\u1ed1i lo\u00e0n\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "\u2713 Correct! (Small spelling note: it's **r\u1ed1i lo\u1ea1n** \u2014 dot under the a, not the grave accent.)\n\n---\n\n**Card 9 of 10**\n\nWhat does **m\u00f4i tr\u01b0\u1eddng t\u1ef1 nhi\u00ean** mean? *(word type: noun)*\n\nA) climate change\nB) natural environment\nC) wild animals, wildlife\nD) process, course"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Apologies \u2014 I answered before actually scheduling it. Done now. Fires daily at 23:00 UTC, first run tonight.\n\nAnd the dashboard URL: **https://stevens-j-54.github.io/vietnamese/**"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Let\u2019s do a vocab exercise!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Good \u2014 one review word (**tr\u1ea1ng th\u00e1i**) and current news is dominated by the US-Iran standoff. That's a natural fit: diplomatic negotiations and geopolitical tensions are exactly where words like \"state/condition\" come up constantly.\n\n---\n\n**Context:** This paragraph is about the current state of US-Iran nuclear negotiations and the tensions making progress difficult.\n\n---\n\nC\u0103ng th\u1eb3ng gi\u1eefa M\u1ef9 v\u00e0 Iran \u0111ang leo thang nhanh ch\u00f3ng trong nh\u1eefng tu\u1ea7n g\u1ea7n \u0111\u00e2y, khi\u1ebfn ti\u1ebfn tr\u00ecnh \u0111\u00e0m ph\u00e1n h\u1ea1t nh\u00e2n r\u01a1i v\u00e0o **tr\u1ea1ng th\u00e1i** b\u1ea5t \u0111\u1ecbnh. Sau khi l\u1ef1c l\u01b0\u1ee3ng M\u1ef9 ch\u1eb7n b\u1eaft m\u1ed9t t\u00e0u h\u00e0ng Iran tr\u00ean v\u1ecbnh Oman, Tehran c\u00e1o bu\u1ed9c Washington \u0111\u00e3 vi ph\u1ea1m th\u1ecfa thu\u1eadn ng\u1eebng b\u1eafn v\u00e0 \u0111\u1eb7t c\u00e2u h\u1ecfi li\u1ec7u h\u1ecd c\u00f3 n\u00ean ti\u1ebfp t\u1ee5c \u0111\u00e0m ph\u00e1n hay kh\u00f4ng. Trong khi \u0111\u00f3, T\u1ed5ng th\u1ed1ng Trump tuy\u00ean b\u1ed1 r\u1eb1ng m\u1ed9t th\u1ecfa thu\u1eadn s\u1eafp \u0111\u01b0\u1ee3c k\u00fd k\u1ebft \u2014 d\u00f9 kh\u00f4ng c\u00f3 d\u1ea5u hi\u1ec7u c\u1ee5 th\u1ec3 n\u00e0o cho th\u1ea5y hai b\u00ean s\u1ebd ng\u1ed3i l\u1ea1i v\u1edbi nhau. C\u00e1c chuy\u00ean gia ph\u00e2n t\u00edch nh\u1eadn \u0111\u1ecbnh r\u1eb1ng nh\u1eefng tuy\u00ean b\u1ed1 li\u00ean t\u1ee5c thay \u0111\u1ed5i t\u1eeb ph\u00eda M\u1ef9 \u0111ang g\u00e2y b\u1ed1i r\u1ed1i cho ti\u1ebfn tr\u00ecnh ngo\u1ea1i giao, l\u00e0m gi\u1ea3m kh\u1ea3 n\u0103ng \u0111\u1ea1t \u0111\u01b0\u1ee3c \u0111\u1ed9t ph\u00e1 trong th\u1eddi gian ng\u1eafn. N\u1ebfu \u0111\u00e0m ph\u00e1n \u0111\u1ed5 v\u1ee1, c\u1ea3 hai ph\u00eda c\u1ea3nh b\u00e1o r\u1eb1ng t\u00ecnh h\u00ecnh c\u00f3 th\u1ec3 tr\u1edf n\u00ean nguy hi\u1ec3m h\u01a1n nhi\u1ec1u.\n\n---\n\n**Glossary** *(new B2+ words only)*:\n\n- **leo thang** (verb) \u2014 to escalate\n- **b\u1ea5t \u0111\u1ecbnh** (adjective) \u2014 uncertain, indeterminate\n- **ng\u1eebng b\u1eafn** (noun) \u2014 ceasefire\n- **\u0111\u1ed9t ph\u00e1** (noun) \u2014 breakthrough\n- **\u0111\u1ed5 v\u1ee1** (verb) \u2014 to collapse, to fall apart\n\nTranslate this into English."
     }
   ]
 }
