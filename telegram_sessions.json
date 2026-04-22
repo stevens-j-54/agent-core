@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Lets do another vocab practice session, remember it\u2019s ok for us to go over words again. We need to reinforce them in my memory.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Got the full list \u2014 27 words. I'll pick 10, mix up card types, and weight towards words you haven't seen as much. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **c\u00e1u k\u1ec9nh** mean? *(word type: adjective)*\n\nA) steady, firm\nB) irritable, grumpy\nC) to recover\nD) process\n\n---\n\n**Card 2**\nFill in the blank:\n*\"Nicotine c\u00f3 t\u00e1c \u0111\u1ed9ng m\u1ea1nh l\u00ean h\u1ec7 th\u1ea7n kinh.\"*\nEnglish: \"Nicotine has a strong ___ on the nervous system.\"\n\nA) process\nB) disorder\nC) effect\nD) condition\n\n---\n\n**Card 3**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n*(Sample sentence: \"C\u01a1 th\u1ec3 b\u1eaft \u0111\u1ea7u ___ sau khi b\u1ecf thu\u1ed1c.\" = \"The body starts to ___ after quitting smoking.\")*\n\nA) \u0111i\u1ec1u h\u00f2a\nB) h\u1ea1n ch\u1ebf\nC) m\u1edf r\u1ed9ng\nD) ph\u1ee5c h\u1ed3i\n\n---\n\n**Card 4**\nWhat does **r\u1ed1i lo\u1ea1n** mean? *(word type: verb)*\n\nA) to regulate\nB) to maintain\nC) disruption, disorder\nD) equilibrium\n\n---\n\n**Card 5**\nFill in the blank:\n*\"H\u1ecdc ti\u1ebfng Vi\u1ec7t \u0111\u00f2i h\u1ecfi nhi\u1ec1u th\u1eddi gian v\u00e0 n\u1ed7 l\u1ef1c.\"*\nEnglish: \"Learning Vietnamese ___ a lot of time and effort.\"\n\nA) limits\nB) requires\nC) maintains\nD) restores\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\nC)\nD) ph\u1ee5c h\u1ed3i\nC)\nB)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Saved. 10/10 \u2014 strong session."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Have you updated the dashboard too?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "The dashboard updates automatically at 23:00 UTC via the scheduled task \u2014 I don't need to trigger it manually. It'll reflect today's session tonight."
     }
   ]
 }
