@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: That\u2019s alright, it\u2019s ok for us to repeat words when we run out. Let\u2019s do a normal sized batch!!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Seems the system only returns words that are actually due \u2014 it won't give me the rest regardless of max_words. So we've got what we've got: 1 due word, but I'll pad the session with recently practiced words to make a full batch of 10.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **tr\u1ea1ng th\u00e1i** mean? *(word type: noun)*\n\nA) discipline\nB) state, condition, status\nC) perseverance\nD) breakthrough\n\n---\n\n**Card 2**\nHow do you say **\"to be exposed to / to come into contact with\"** in Vietnamese?\n*(Sample sentence: \"Da kh\u00f4ng n\u00ean ___ tr\u1ef1c ti\u1ebfp v\u1edbi \u00e1nh n\u1eafng m\u1eb7t tr\u1eddi qu\u00e1 l\u00e2u.\" = \"Skin shouldn't be directly ___ sunlight for too long.\")*\n\nA) duy tr\u00ec\nB) t\u1eeb b\u1ecf\nC) ti\u1ebfp x\u00fac\nD) h\u1ea1n ch\u1ebf\n\n---\n\n**Card 3**\nFill in the blank:\n*\"Anh \u1ea5y quy\u1ebft \u0111\u1ecbnh t\u1eeb b\u1ecf h\u00fat thu\u1ed1c l\u00e1.\"*\nEnglish: \"He decided to ___ smoking.\"\n\nA) limit\nB) maintain\nC) quit\nD) conserve\n\n---\n\n**Card 4**\nWhat does **ki\u00ean tr\u00ec** mean? *(word type: adjective/adverb)*\n\nA) disciplined\nB) calm, relaxed\nC) persistent, perseverant\nD) balanced\n\n---\n\n**Card 5**\nHow do you say **\"discipline\"** in Vietnamese?\n*(Sample sentence: \"H\u1ecdc sinh c\u1ea7n c\u00f3 ___ trong vi\u1ec7c h\u1ecdc.\" = \"Students need ___ in their studies.\")*\n\nA) ki\u00ean tr\u00ec\nB) k\u1ef7 lu\u1eadt\nC) chuy\u00ean gia\nD) c\u1ea3nh t\u01b0\u1ee3ng\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B??\nC) ti\u1ebfp x\u00fac\nC)\nC)\nB) K\u1ef9 lu\u1eadt\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "All three added. They'll come up in future quiz sessions."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ok let\u2019s do a vocab practise session\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Three new words due. I'll pad out to 10 with previously seen words. All three new ones get multiple choice. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **l\u01b0\u1ee3ng kh\u00ed** mean? *(word type: noun)*\n\nA) sunset, dusk\nB) habit, routine\nC) amount of gas, volume of air\nD) body temperature\n\n---\n\n**Card 2**\nWhat does **ho\u00e0ng h\u00f4n** mean? *(word type: noun)*\n\nA) equilibrium\nB) sunset, dusk\nC) disorder\nD) spectacle\n\n---\n\n**Card 3**\nWhat does **th\u00f3i quen** mean? *(word type: noun)*\n\nA) perseverance\nB) expert\nC) discipline\nD) habit, routine\n\n---\n\n**Card 4**\nFill in the blank:\n*\"Anh \u1ea5y quy\u1ebft \u0111\u1ecbnh t\u1eeb b\u1ecf h\u00fat thu\u1ed1c l\u00e1.\"*\nEnglish: \"He decided to ___ smoking.\"\n\n---\n\n**Card 5**\nHow do you say **\"persistent, perseverant\"** in Vietnamese?\n*(Sample sentence: \"C\u00f4 \u1ea5y r\u1ea5t ___ trong vi\u1ec7c h\u1ecdc ti\u1ebfng Anh.\" = \"She is very ___ in learning English.\")*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
     }
   ]
 }
