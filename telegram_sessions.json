@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: B??\nC) ti\u1ebfp x\u00fac\nC)\nC)\nB) K\u1ef9 lu\u1eadt\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "1. **B) state, condition, status** \u2713\n2. **C) ti\u1ebfp x\u00fac** \u2713\n3. **C) quit** \u2713\n4. **C) persistent, perseverant** \u2713\n5. **B) k\u1ef7 lu\u1eadt** \u2014 nearly! Just a spelling note: it's **k\u1ef7** not **k\u1ef9** \u2014 easy to mix up. \u2713 (marking correct)\n\n5/5 \u2014 clean sweep. On to the next batch.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **chuy\u00ean gia** mean? *(word type: noun)*\n\nA) discipline\nB) body temperature\nC) expert, specialist\nD) sight, spectacle\n\n---\n\n**Card 7**\nFill in the blank:\n*\"Ch\u00fang ta c\u1ea7n b\u1ea3o t\u1ed3n c\u00e1c lo\u00e0i \u0111\u1ed9ng v\u1eadt qu\u00fd hi\u1ebfm.\"*\nEnglish: \"We need to ___ rare animal species.\"\n\nA) limit\nB) witness\nC) maintain\nD) conserve\n\n---\n\n**Card 8**\nHow do you say **\"to maintain, to sustain\"** in Vietnamese?\n*(Sample sentence: \"B\u1ea1n c\u1ea7n ___ th\u00f3i quen t\u1eadp th\u1ec3 d\u1ee5c m\u1ed7i ng\u00e0y.\" = \"You need to ___ the habit of exercising every day.\")*\n\nA) ti\u1ebfp x\u00fac\nB) h\u1ea1n ch\u1ebf\nC) duy tr\u00ec\nD) t\u1eeb b\u1ecf\n\n---\n\n**Card 9**\nWhat does **th\u00e2n nhi\u1ec7t** mean? *(word type: noun)*\n\nA) perseverance\nB) body temperature\nC) discipline\nD) ceasefire\n\n---\n\n**Card 10**\nFill in the blank:\n*\"C\u1ea3nh t\u01b0\u1ee3ng ho\u00e0ng h\u00f4n tr\u00ean bi\u1ec3n th\u1eadt tuy\u1ec7t v\u1eddi.\"*\nEnglish: \"The ___ of the sunset over the sea was truly magnificent.\"\n\nA) condition\nB) specialist\nC) sight\nD) temperature\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: C)\nD)\nC) Duy tr\u00ec\nB)\nC)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Three new words due. I'll pad out to 10 with previously seen words. All three new ones get multiple choice. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **l\u01b0\u1ee3ng kh\u00ed** mean? *(word type: noun)*\n\nA) sunset, dusk\nB) habit, routine\nC) amount of gas, volume of air\nD) body temperature\n\n---\n\n**Card 2**\nWhat does **ho\u00e0ng h\u00f4n** mean? *(word type: noun)*\n\nA) equilibrium\nB) sunset, dusk\nC) disorder\nD) spectacle\n\n---\n\n**Card 3**\nWhat does **th\u00f3i quen** mean? *(word type: noun)*\n\nA) perseverance\nB) expert\nC) discipline\nD) habit, routine\n\n---\n\n**Card 4**\nFill in the blank:\n*\"Anh \u1ea5y quy\u1ebft \u0111\u1ecbnh t\u1eeb b\u1ecf h\u00fat thu\u1ed1c l\u00e1.\"*\nEnglish: \"He decided to ___ smoking.\"\n\n---\n\n**Card 5**\nHow do you say **\"persistent, perseverant\"** in Vietnamese?\n*(Sample sentence: \"C\u00f4 \u1ea5y r\u1ea5t ___ trong vi\u1ec7c h\u1ecdc ti\u1ebfng Anh.\" = \"She is very ___ in learning English.\")*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C)\nB)\nD)\n4. Quit \n5. Ki\u00ean tr\u00ec\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "5/5 \u2014 clean. Next batch.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nFill in the blank:\n*\"C\u1ea3nh t\u01b0\u1ee3ng ho\u00e0ng h\u00f4n tr\u00ean bi\u1ec3n th\u1eadt tuy\u1ec7t v\u1eddi.\"*\nEnglish: \"The ___ of the sunset over the sea was truly magnificent.\"\n\n---\n\n**Card 7**\nWhat does **chuy\u00ean gia** mean? *(word type: noun)*\n\n---\n\n**Card 8**\nHow do you say **\"body temperature\"** in Vietnamese?\n*(Sample sentence: \"B\u00e1c s\u0129 ki\u1ec3m tra ___ c\u1ee7a b\u1ec7nh nh\u00e2n.\" = \"The doctor checked the patient's ___.)*\n\n---\n\n**Card 9**\nFill in the blank:\n*\"Ch\u00fang ta c\u1ea7n duy tr\u00ec th\u00f3i quen t\u1eadp th\u1ec3 d\u1ee5c m\u1ed7i ng\u00e0y.\"*\nEnglish: \"We need to ___ the habit of exercising every day.\"\n\n---\n\n**Card 10**\nWhat does **k\u1ef7 lu\u1eadt** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
