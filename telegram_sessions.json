@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: C)\nD)\nC) Duy tr\u00ec\nB)\nC)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "10/10. Saved. The vocab is sticking well \u2014 ti\u1ebfp x\u00fac included, which is good given the mix-up earlier."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Lets do another vocab practice session, remember it\u2019s ok for us to go over words again. We need to reinforce them in my memory.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "5/5 \u2014 clean. Next batch.\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nFill in the blank:\n*\"C\u1ea3nh t\u01b0\u1ee3ng ho\u00e0ng h\u00f4n tr\u00ean bi\u1ec3n th\u1eadt tuy\u1ec7t v\u1eddi.\"*\nEnglish: \"The ___ of the sunset over the sea was truly magnificent.\"\n\n---\n\n**Card 7**\nWhat does **chuy\u00ean gia** mean? *(word type: noun)*\n\n---\n\n**Card 8**\nHow do you say **\"body temperature\"** in Vietnamese?\n*(Sample sentence: \"B\u00e1c s\u0129 ki\u1ec3m tra ___ c\u1ee7a b\u1ec7nh nh\u00e2n.\" = \"The doctor checked the patient's ___.)*\n\n---\n\n**Card 9**\nFill in the blank:\n*\"Ch\u00fang ta c\u1ea7n duy tr\u00ec th\u00f3i quen t\u1eadp th\u1ec3 d\u1ee5c m\u1ed7i ng\u00e0y.\"*\nEnglish: \"We need to ___ the habit of exercising every day.\"\n\n---\n\n**Card 10**\nWhat does **k\u1ef7 lu\u1eadt** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: 6. Sight, view\n7. Expert\n8. Th\u00e2n Nhi\u1ec7t\n9. Maintain\n10. Discipline\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Saved. 10/10 \u2014 strong session."
     }
   ]
 }
