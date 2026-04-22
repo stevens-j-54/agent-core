@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-21T17:09:10Z",
+  "last_updated": "2026-04-22T08:46:43Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -676,6 +676,81 @@
       "date_added": "2026-04-20",
       "last_practiced": "2026-04-21",
       "practice_count": 3
+    },
+    {
+      "vietnamese": "lượng khí",
+      "meaning_index": 1,
+      "english": "amount of gas, volume of air",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Lượng khí thải carbon đang tăng nhanh chóng.",
+          "en": "The amount of carbon emissions is increasing rapidly."
+        },
+        {
+          "vi": "Chính phủ cần kiểm soát lượng khí ô nhiễm trong thành phố.",
+          "en": "The government needs to control the volume of pollutant gases in the city."
+        },
+        {
+          "vi": "Lượng khí oxy trong phòng kín có thể giảm dần theo thời gian.",
+          "en": "The amount of oxygen in a sealed room can gradually decrease over time."
+        }
+      ],
+      "id": "7f44b097-6a43-4845-801d-82186bdbdf10",
+      "date_added": "2026-04-22",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "hoàng hôn",
+      "meaning_index": 1,
+      "english": "sunset, dusk",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Cảnh hoàng hôn trên biển thật tuyệt vời.",
+          "en": "The sunset over the sea was truly magnificent."
+        },
+        {
+          "vi": "Chúng tôi ngồi ngắm hoàng hôn trên bãi biển.",
+          "en": "We sat and watched the sunset on the beach."
+        },
+        {
+          "vi": "Ánh sáng hoàng hôn nhuộm đỏ cả bầu trời.",
+          "en": "The light of dusk painted the entire sky red."
+        }
+      ],
+      "id": "09af67bf-8ace-47a1-a8bc-4ad24d95b538",
+      "date_added": "2026-04-22",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "thói quen",
+      "meaning_index": 1,
+      "english": "habit, routine",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Bạn cần duy trì thói quen tập thể dục mỗi ngày.",
+          "en": "You need to maintain the habit of exercising every day."
+        },
+        {
+          "vi": "Thói quen đọc sách giúp mở rộng vốn từ vựng.",
+          "en": "The habit of reading helps expand vocabulary."
+        },
+        {
+          "vi": "Anh ấy có thói quen thức dậy sớm mỗi sáng.",
+          "en": "He has the habit of waking up early every morning."
+        }
+      ],
+      "id": "9204eb33-c14f-4908-8098-202ba7968bf9",
+      "date_added": "2026-04-22",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ]
 }
