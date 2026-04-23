@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: There\u2019s some words we saw yesterday that I don\u2019t know. Could you translate them for me and add them to our vocab list please.\n\nL\u01b0\u1ee3ng kh\u00ed\nHo\u00e0ng h\u00f4n\nTh\u00f3i quen\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "All three added. They'll come up in future quiz sessions."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ok let\u2019s do a vocab practise session\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Three due. All have `practice_count` of 1 so they get multiple choice. Let's go.\n\n---\n\n**Cards 1\u20133**\n\n**Card 1**\nWhat does **t\u00e2m l\u00fd** mean? *(word type: noun)*\n\nA) habit, routine\nB) mindset, psychology, mental state\nC) perseverance\nD) sunset, dusk\n\n---\n\n**Card 2**\nWhat does **v\u1eefng v\u00e0ng** mean? *(word type: adjective)*\n\nA) distant, far away\nB) disciplined\nC) steady, firm, stable\nD) proactive\n\n---\n\n**Card 3**\nWhat does **b\u1ea3n th\u00e2n** mean? *(word type: pronoun)*\n\nA) body temperature\nB) expert\nC) amount of gas\nD) oneself, yourself\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\nC)\nD)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "3/3 \u2014 all done and saved."
     }
   ]
 }
