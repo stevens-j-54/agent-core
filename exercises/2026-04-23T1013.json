@@ -1,18 +1,12 @@
 {
-  "date": "2025-07-14",
-  "mode": "exercise",
-  "topic": "Sunday morning family routine",
-  "paragraph_vi": "Mỗi sáng Chủ Nhật, gia đình anh Minh thường dậy sớm hơn ngày thường. Anh ra chợ mua rau và cá tươi, còn vợ anh ở nhà chuẩn bị bếp núc. Hai đứa con thì chạy nhảy ngoài sân, thỉnh thoảng lại vào hỏi bữa sáng còn lâu không. Khoảng tám giờ, cả nhà ngồi lại ăn cùng nhau — một bữa ăn đơn giản nhưng đầm ấm. Anh Minh nói rằng đó là khoảnh khắc anh thích nhất trong tuần.",
-  "vocab_reviewed": [],
-  "vocab_new_introduced": [
+  "date": "2025-07-15",
+  "mode": "lookup",
+  "topic": "direct lookup",
+  "vocab_added_to_list": [
     "bếp núc",
     "thỉnh thoảng",
     "đầm ấm",
     "khoảnh khắc"
   ],
-  "user_translation": "Every Sunday morning, Minh's family usually wake up earlier than on a normal day. He goes to the market to buy vegetables and fresh fish, while his wife stays at home preparing the kitchen work. The two children run around in the yard, sometimes coming in to ask if breakfast will be long. Around 8 o clock, the family sit down to eat together - a simple meal but a warm and cosy one. Minh says this is his favourite moment in the week.",
-  "correction_notes": "Very strong translation overall. Minor notes: 'bếp núc' is better rendered as 'tending to the cooking' rather than 'preparing the kitchen work' — it refers to domestic cooking broadly, not kitchen preparation specifically. 'In the week' is slightly more natural as 'of the week' in English.",
-  "vocab_added_to_list": [],
-  "inspiration_source": "free paragraph — no due vocab",
-  "id": "6ef5ed82-51cd-4aa8-9e6a-14c15f3b4ffe"
+  "id": "3042bfa6-7f89-40cd-9722-03eefda35261"
 }
