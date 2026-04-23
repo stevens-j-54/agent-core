@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-23T10:13:04Z",
+  "last_updated": "2026-04-23T10:13:59Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -751,6 +751,106 @@
       "date_added": "2026-04-22",
       "last_practiced": "2026-04-22",
       "practice_count": 1
+    },
+    {
+      "vietnamese": "bếp núc",
+      "meaning_index": 1,
+      "english": "cooking, kitchen work",
+      "word_type": "noun",
+      "source": "Sunday morning routine exercise",
+      "sample_sentences": [
+        {
+          "vi": "Vợ anh ở nhà chuẩn bị bếp núc cho bữa sáng.",
+          "en": "His wife stayed home to prepare the cooking for breakfast."
+        },
+        {
+          "vi": "Bà nội phụ trách mọi việc bếp núc trong gia đình.",
+          "en": "Grandma was in charge of all the cooking in the family."
+        },
+        {
+          "vi": "Cô ấy học bếp núc từ nhỏ.",
+          "en": "She learned cooking from a young age."
+        }
+      ],
+      "id": "5e04474c-cfad-4048-bc28-2bc0357a8b4c",
+      "date_added": "2026-04-23",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "thỉnh thoảng",
+      "meaning_index": 1,
+      "english": "from time to time, occasionally",
+      "word_type": "adverb",
+      "source": "Sunday morning routine exercise",
+      "sample_sentences": [
+        {
+          "vi": "Thỉnh thoảng tôi đi xem phim vào cuối tuần.",
+          "en": "I occasionally go to the cinema on weekends."
+        },
+        {
+          "vi": "Anh ấy thỉnh thoảng gọi điện cho bố mẹ.",
+          "en": "He calls his parents from time to time."
+        },
+        {
+          "vi": "Thỉnh thoảng chúng tôi gặp nhau uống cà phê.",
+          "en": "We meet for coffee occasionally."
+        }
+      ],
+      "id": "bfdaf9d5-fd5a-4782-bf5b-b6bca5bd7815",
+      "date_added": "2026-04-23",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "đầm ấm",
+      "meaning_index": 1,
+      "english": "warm and cosy (of family atmosphere)",
+      "word_type": "adjective",
+      "source": "Sunday morning routine exercise",
+      "sample_sentences": [
+        {
+          "vi": "Bữa ăn tuy đơn giản nhưng rất đầm ấm.",
+          "en": "The meal was simple but very warm and cosy."
+        },
+        {
+          "vi": "Căn nhà nhỏ nhưng luôn đầm ấm và hạnh phúc.",
+          "en": "The house was small but always warm and happy."
+        },
+        {
+          "vi": "Không khí gia đình đầm ấm giúp các con trưởng thành tốt hơn.",
+          "en": "A warm family atmosphere helps children grow up better."
+        }
+      ],
+      "id": "bb4ece71-b049-4486-b49c-2a1d9815ddfa",
+      "date_added": "2026-04-23",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "khoảnh khắc",
+      "meaning_index": 1,
+      "english": "moment",
+      "word_type": "noun",
+      "source": "Sunday morning routine exercise",
+      "sample_sentences": [
+        {
+          "vi": "Đó là khoảnh khắc anh thích nhất trong tuần.",
+          "en": "That was the moment he liked most in the week."
+        },
+        {
+          "vi": "Chúng tôi muốn lưu giữ những khoảnh khắc đẹp bên nhau.",
+          "en": "We want to preserve the beautiful moments we share together."
+        },
+        {
+          "vi": "Khoảnh khắc đó tôi sẽ không bao giờ quên.",
+          "en": "That moment I will never forget."
+        }
+      ],
+      "id": "0a35bd70-2da5-432e-96e3-4a15b9a3bd06",
+      "date_added": "2026-04-23",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ]
 }
