@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: No, Anki-style vocab exercise please\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Three due. All have `practice_count` of 1 so they get multiple choice. Let's go.\n\n---\n\n**Cards 1\u20133**\n\n**Card 1**\nWhat does **t\u00e2m l\u00fd** mean? *(word type: noun)*\n\nA) habit, routine\nB) mindset, psychology, mental state\nC) perseverance\nD) sunset, dusk\n\n---\n\n**Card 2**\nWhat does **v\u1eefng v\u00e0ng** mean? *(word type: adjective)*\n\nA) distant, far away\nB) disciplined\nC) steady, firm, stable\nD) proactive\n\n---\n\n**Card 3**\nWhat does **b\u1ea3n th\u00e2n** mean? *(word type: pronoun)*\n\nA) body temperature\nB) expert\nC) amount of gas\nD) oneself, yourself\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\nC)\nD)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "6. \u2717 \u2014 **b\u1ea3n th\u00e2n** (you had \"B\u00e2n th\u1ea3n\" \u2014 wrong tones and wrong letters. *B\u1ea3n* with a dot-under, *th\u00e2n* with a hat-and-falling tone)\n\n7. \u2713 \u2014 mindset, psychology, mental state. Good.\n\n8. ~ \u2014 **v\u1eefng v\u00e0ng** is correct. *\u1ed4n \u0111\u1ecbnh* means \"stable\" too but in a more situational sense (e.g. stable economy, stable job). *V\u1eefng v\u00e0ng* is the word we're after here.\n\n9. \u2717 \u2014 **n\u00e1o nhi\u1ec7t** means bustling, lively \u2014 not temperature-related at all.\n\n10. \u2713 \u2014 exactly right.\n\n3/5 that round. Three to revisit:\n\n---\n\n**Missed cards**\n\n**Card 6 (retry)**\nHow do you say **\"oneself, yourself\"** in Vietnamese?\n\n---\n\n**Card 9 (retry)**\nWhat does **n\u00e1o nhi\u1ec7t** mean? *(word type: adjective)*\n\nA) high temperature, hot\nB) boring, quiet\nC) bustling, lively\nD) crowded but unpleasant\n\n---\n\nReply with your answers: 6. \u2026 9. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B\u1ea3n th\u00e2n\nC) n\u00e1o nhi\u1ec7t = bustling, lively\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Saved. Watch the spelling on *b\u1ea3n th\u00e2n* and *c\u00e1u k\u1ec9nh* \u2014 the tones are doing a lot of work there. Good session overall."
     }
   ]
 }
