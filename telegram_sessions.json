@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Every Sunday morning, Minh\u2019s family usually wake up earlier than on a normal day. He goes to the market to buy vegetables and fresh fish, while his wife stays at home preparing the kitchen work. The two children run around in the yard, sometimes coming in to ask if breakfast will be long. Around 8 o clock, the family sit down to eat together - a simple meal but a warm and cosy one. Minh says this is his favourite moment in the week.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Saved. Good session today \u2014 two quizzes and a translation."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Could you add the new vocab from the translation exercise to our vocab list please.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Done. Now \u2014 **v\u1eefng ch\u1eafc**.\n\nIt sits very close to *v\u1eefng v\u00e0ng* but the distinction is worth knowing.\n\n*Ch\u1eafc* on its own means firm, solid, certain \u2014 with a physical quality to it. The sense of something that won't give way when you press it. You'd use *ch\u1eafc* for a well-built table, a reliable fact, a confident prediction. It's grounded in the tangible.\n\nSo *v\u1eefng ch\u1eafc* compounds two near-synonyms \u2014 *v\u1eefng* (stable, not wavering) + *ch\u1eafc* (solid, won't give) \u2014 and the effect is intensification through doubling. It means something like **solidly secure**, with an emphasis on structural integrity. Where *v\u1eefng v\u00e0ng* feels more like an admirable personal quality \u2014 composure, steadfastness \u2014 *v\u1eefng ch\u1eafc* leans toward **reliable, well-founded, structurally sound**.\n\nIn practice:\n- *n\u1ec1n t\u1ea3ng v\u1eefng ch\u1eafc* \u2014 a solid foundation (literal or metaphorical)\n- *b\u1eb1ng ch\u1ee9ng v\u1eefng ch\u1eafc* \u2014 solid evidence\n- *l\u1eadp tr\u01b0\u1eddng v\u1eefng v\u00e0ng* \u2014 a firm, unwavering stance (personal conviction)\n\nYou wouldn't swap them easily. *B\u1eb1ng ch\u1ee9ng v\u1eefng v\u00e0ng* sounds slightly odd \u2014 evidence doesn't have composure, it has weight. And *n\u1ec1n t\u1ea3ng v\u1eefng v\u00e0ng* is possible but softer, more poetic. *V\u1eefng ch\u1eafc* is the more structural, objective word; *v\u1eefng v\u00e0ng* is more personal and behavioural.\n\nThe triangle is roughly: *\u1ed5n \u0111\u1ecbnh* = stable (external condition) \u2192 *v\u1eefng ch\u1eafc* = solid (structural integrity) \u2192 *v\u1eefng v\u00e0ng* = steadfast (inner quality)."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: This is great, maybe you should think of somewhere in your GitHub to store these kinds of linguistic breakdowns so we can come back to them again in the future. Love this\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Saved to `vietnamese/linguistics/`. I'll add a note there every time we do a breakdown like this \u2014 over time it'll become a decent reference. The substitution table at the bottom should be particularly useful for revision."
     }
   ]
 }
