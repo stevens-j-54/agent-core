@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Let\u2019s do an Anki vocab practice\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "10 due. All four words added today have `practice_count` 0, so they get multiple choice. The older words (practice_count 2) get open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **b\u1ebfp n\u00fac** mean? *(word type: noun)*\n\nA) a kitchen utensil\nB) cooking, kitchen work\nC) a type of Vietnamese dish\nD) housework in general\n\n---\n\n**Card 2**\nWhat does **th\u1ec9nh tho\u1ea3ng** mean? *(word type: adverb)*\n\nA) immediately, right away\nB) never, not at all\nC) from time to time, occasionally\nD) as soon as possible\n\n---\n\n**Card 3**\nWhat does **\u0111\u1ea7m \u1ea5m** mean? *(word type: adjective)*\n\nA) humid and hot\nB) quiet and peaceful\nC) tidy and organised\nD) warm and cosy (of family atmosphere)\n\n---\n\n**Card 4**\nWhat does **kho\u1ea3nh kh\u1eafc** mean? *(word type: noun)*\n\nA) destination\nB) moment\nC) memory\nD) feeling\n\n---\n\n**Card 5**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B)\nC)\nD)\nB)\n5. C\u1ea5u k\u1ec9nh\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Yes \u2014 *ch\u1eafc* is quite productive as a modifier. A few good examples:\n\n**ch\u1eafc ch\u1eafn** \u2014 certainly, definitely. *Ch\u1eafc* (solid/certain) + *ch\u1eafn* (to block, obstruct \u2014 implying something that stops doubt in its tracks). This one is very common in everyday speech. \"T\u00f4i ch\u1eafc ch\u1eafn r\u1eb1ng...\" \u2014 \"I'm certain that...\"\n\n**ch\u1eafc n\u1ecbch** \u2014 absolutely firm, rock solid. More emphatic than *ch\u1eafc ch\u1eafn*. *N\u1ecbch* is an intensifying particle with a sense of tightness or compression \u2014 like something strapped down. You'd use this for a conviction or a physical object that really won't budge.\n\n**ch\u1eafc kh\u1ecfe** \u2014 robust, in good health. *Kh\u1ecfe* means healthy/strong. Together they suggest someone who is solidly built and in good shape. Often used of older people who are aging well \u2014 a compliment.\n\n**ch\u1eafc tay** \u2014 literally \"firm hand\" \u2014 used to describe someone with a steady, practiced hand. A surgeon, a craftsman, an experienced driver. The *ch\u1eafc* here is doing exactly what it does in *v\u1eefng ch\u1eafc* \u2014 adding the sense of reliable solidity to the noun.\n\nThe pattern you're seeing is consistent: *ch\u1eafc* pulls things toward the concrete and structural. It's not an emotional or personal word \u2014 it's about whether something will hold. That's what makes it the right pairing for *v\u1eefng* when you want to emphasise foundations rather than character."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Nice thanks!! Let\u2019s do another Anki vocab practice.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "All 10 have practice_count 1\u20132, so all open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **\u0111\u00f2i h\u1ecfi** mean? *(word type: verb)*\n\n---\n\n**Card 2**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **ch\u1ea5t ph\u1ee5 gia** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"heart rate, pulse\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
     }
   ]
 }
