@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: B)\nC)\nD)\nB)\n5. C\u1ea5u k\u1ec9nh\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "1. \u2713\n2. \u2713\n3. \u2713\n4. \u2713\n5. \u2717 \u2014 **c\u00e1u k\u1ec9nh** (you had \"C\u1ea5u k\u1ec9nh\" \u2014 it's *c\u00e1u*, not *c\u1ea5u*). Easy typo but worth noting, the tone mark matters.\n\n4/5 \u2014 good. Next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nHow do you say **\"oneself, yourself\"** in Vietnamese?\n\n---\n\n**Card 7**\nWhat does **t\u00e2m l\u00fd** mean? *(word type: noun)*\n\n---\n\n**Card 8**\nHow do you say **\"steady, firm, stable\"** in Vietnamese?\n\n---\n\n**Card 9**\nWhat does **n\u00e1o nhi\u1ec7t** mean? *(word type: adjective)*\n\n---\n\n**Card 10**\nWhat does **qu\u00e2y qu\u1ea7n** mean? *(word type: verb)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: 6. B\u00e2n th\u1ea3n\n7. Mindset\n8. V\u1eefng v\u00e0ng or maybe \u1ed5n \u0111\u1ecbnh\n9. High temperature?\n10. To gather around (like with friends and family)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "All 10 have practice_count 1\u20132, so all open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **\u0111\u00f2i h\u1ecfi** mean? *(word type: verb)*\n\n---\n\n**Card 2**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **ch\u1ea5t ph\u1ee5 gia** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"heart rate, pulse\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: 1. Request, require\n2. Ph\u00fac h\u1ed9i\n3. Additives?\n4. No idea\n5. Equal, of an equal level\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "1. \u2713 \u2014 to demand, require, call for. Good.\n\n2. \u2717 \u2014 **ph\u1ee5c h\u1ed3i** (you had \"Ph\u00fac h\u1ed9i\" \u2014 wrong tones and wrong letters. *Ph\u1ee5c* with a dot-under, *h\u1ed3i* with a falling tone)\n\n3. \u2713 \u2014 yes, additives. Food additives specifically in the context we used it.\n\n4. \u2717 \u2014 **nh\u1ecbp tim** (*nh\u1ecbp* = rhythm/beat, *tim* = heart)\n\n5. ~ \u2014 close. **m\u1ee9c c\u00e2n b\u1eb1ng** means \"equilibrium level\" or \"balance point\" \u2014 more specific than just \"equal.\" The *m\u1ee9c* (level/threshold) is doing important work there.\n\n2.5/5 \u2014 next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **cai** mean? *(word type: verb)*\n\n---\n\n**Card 7**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\n**Card 8**\nWhat does **b\u1ea3n th\u00e2n** mean? *(word type: noun)*\n\n---\n\n**Card 9**\nHow do you say **\"bustling, lively\"** in Vietnamese?\n\n---\n\n**Card 10**\nWhat does **v\u1eefng v\u00e0ng** mean? *(word type: adjective)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
