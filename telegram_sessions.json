@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: 6. B\u00e2n th\u1ea3n\n7. Mindset\n8. V\u1eefng v\u00e0ng or maybe \u1ed5n \u0111\u1ecbnh\n9. High temperature?\n10. To gather around (like with friends and family)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "6. \u2717 \u2014 **b\u1ea3n th\u00e2n** (you had \"B\u00e2n th\u1ea3n\" \u2014 wrong tones and wrong letters. *B\u1ea3n* with a dot-under, *th\u00e2n* with a hat-and-falling tone)\n\n7. \u2713 \u2014 mindset, psychology, mental state. Good.\n\n8. ~ \u2014 **v\u1eefng v\u00e0ng** is correct. *\u1ed4n \u0111\u1ecbnh* means \"stable\" too but in a more situational sense (e.g. stable economy, stable job). *V\u1eefng v\u00e0ng* is the word we're after here.\n\n9. \u2717 \u2014 **n\u00e1o nhi\u1ec7t** means bustling, lively \u2014 not temperature-related at all.\n\n10. \u2713 \u2014 exactly right.\n\n3/5 that round. Three to revisit:\n\n---\n\n**Missed cards**\n\n**Card 6 (retry)**\nHow do you say **\"oneself, yourself\"** in Vietnamese?\n\n---\n\n**Card 9 (retry)**\nWhat does **n\u00e1o nhi\u1ec7t** mean? *(word type: adjective)*\n\nA) high temperature, hot\nB) boring, quiet\nC) bustling, lively\nD) crowded but unpleasant\n\n---\n\nReply with your answers: 6. \u2026 9. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: B\u1ea3n th\u00e2n\nC) n\u00e1o nhi\u1ec7t = bustling, lively\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "1. \u2713 \u2014 to demand, require, call for. Good.\n\n2. \u2717 \u2014 **ph\u1ee5c h\u1ed3i** (you had \"Ph\u00fac h\u1ed9i\" \u2014 wrong tones and wrong letters. *Ph\u1ee5c* with a dot-under, *h\u1ed3i* with a falling tone)\n\n3. \u2713 \u2014 yes, additives. Food additives specifically in the context we used it.\n\n4. \u2717 \u2014 **nh\u1ecbp tim** (*nh\u1ecbp* = rhythm/beat, *tim* = heart)\n\n5. ~ \u2014 close. **m\u1ee9c c\u00e2n b\u1eb1ng** means \"equilibrium level\" or \"balance point\" \u2014 more specific than just \"equal.\" The *m\u1ee9c* (level/threshold) is doing important work there.\n\n2.5/5 \u2014 next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **cai** mean? *(word type: verb)*\n\n---\n\n**Card 7**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\n**Card 8**\nWhat does **b\u1ea3n th\u00e2n** mean? *(word type: noun)*\n\n---\n\n**Card 9**\nHow do you say **\"bustling, lively\"** in Vietnamese?\n\n---\n\n**Card 10**\nWhat does **v\u1eefng v\u00e0ng** mean? *(word type: adjective)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: 6. No idea\n7. C\u00e1u k\u1ec9nh \n8. One self\n9. N\u00e1o nhi\u1ec7t\n10. Solid, stable (in terms of personal quality or internal state)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "6. \u2717 \u2014 **cai** means to quit or wean off something. *Cai thu\u1ed1c l\u00e1* \u2014 quit smoking. *Cai nghi\u1ec7n* \u2014 quit an addiction. It came up in your first ever session.\n\n7. \u2713 \u2014 perfect.\n\n8. \u2713 \u2014 oneself, yourself. Good.\n\n9. \u2713 \u2014 yes.\n\n10. \u2713 \u2014 and a good definition. You clearly absorbed the breakdown earlier.\n\n4/5 that round. Now let's revisit the misses:\n\n---\n\n**Missed cards \u2014 retry**\n\n**Card 2 (retry)**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n\n---\n\n**Card 4 (retry)**\nHow do you say **\"heart rate, pulse\"** in Vietnamese?\n\n---\n\n**Card 6 (retry)**\nWhat does **cai** mean? *(word type: verb)*\n\n---\n\nReply with your answers: 2. \u2026 4. \u2026 6. \u2026"
     }
   ]
 }
