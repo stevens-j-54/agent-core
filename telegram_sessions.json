@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: I mean I want you to manually update the dashboard\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Understood \u2014 but I don't actually have a tool to generate or update the dashboard directly. The dashboard is built by a Python skill (`update_vietnamese_dashboard`) that runs server-side. I can't invoke skills on demand, only schedule them.\n\nIf you want to test it now, the quickest option is to trigger the skill from the server side directly. Want me to look into whether I can schedule a one-time task to fire in the next minute or two?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: You can definitely schedule a one time task to fire in the next five mins, please do that\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Solid \u2014 here's the breakdown:\n\n**1. \"Nh\u00e0 b\u00e0 Lan tr\u1edf n\u00ean n\u00e1o nhi\u1ec7t h\u01a1n h\u1eb3n\"**\n~ Close. You missed \"nh\u00e0\" \u2014 it's *Mrs Lan's house* becomes more lively, not just \"Mrs Lan's\". Small omission.\n\n**2. \"Con c\u00e1i v\u1ec1 \u0111\u00f4ng \u0111\u1ee7, ai c\u0169ng x\u1eafn tay v\u00e0o l\u00e0m\"**\n\u2713 Good. \"Getting stuck in to the work\" is exactly right for *x\u1eafn tay v\u00e0o l\u00e0m*.\n\n**3. \"B\u00e0 Lan lo b\u1ebfp n\u00fac t\u1eeb s\u00e1ng s\u1edbm\"**\n~ \"Worries over the kitchen\" is understandable but slightly off. *Lo b\u1ebfp n\u00fac* means she *tends to / takes care of* the cooking \u2014 not anxious worry. Better: \"Mrs Lan tends to the cooking from early morning.\"\n\n**4. \"N\u1ea5u b\u00e1nh ch\u01b0ng, l\u00e0m d\u01b0a h\u00e0nh, chu\u1ea9n b\u1ecb m\u00e2m c\u01a1m c\u00fang\"**\n\u2713 Good. *D\u01b0a h\u00e0nh* is specifically pickled onions (a T\u1ebft staple), but \"pickles\" is fine in context.\n\n**5. \"C\u00e1c ch\u00e1u th\u1ec9nh tho\u1ea3ng ch\u1ea1y v\u00e0o b\u1ebfp h\u1ecfi th\u0103m\"**\n~ *H\u1ecfi th\u0103m* means to check in / ask after someone \u2014 \"to see her\" captures it well enough. \u2713\n\n**6. \"C\u1ea3 nh\u00e0 qu\u00e2y qu\u1ea7n b\u00ean m\u00e2m c\u01a1m\"**\n\u2713 Good instinct on *m\u00e2m* \u2014 \"meal tray\" or \"communal tray of dishes\" both work. In English you'd usually just say \"sat together around the meal\" or \"gathered around the table.\"\n\n**7. \"K\u1ec3 chuy\u1ec7n c\u01b0\u1eddi \u0111\u00f9a v\u1edbi nhau\"**\n~ You said \"telling funny stories\" but *k\u1ec3 chuy\u1ec7n c\u01b0\u1eddi \u0111\u00f9a* is more like \"chatting and laughing together\" \u2014 the emphasis is on the warm banter, not jokes per se.\n\n**8. \"\u0110\u00fang nh\u01b0 c\u00e1i T\u1ebft m\u00e0 b\u00e0 v\u1eabn nh\u1edb t\u1eeb h\u1ed3i c\u00f2n nh\u1ecf\"**\n\u2717 Small but notable. *B\u00e0 v\u1eabn nh\u1edb* \u2014 \"b\u00e0\" refers to *Mrs Lan herself*, not me. It's \"just like the T\u1ebft *she* still remembered from her childhood.\" Easy mix-up given the context.\n\n---\n\nOverall: \u2713 strong. You got all three review words right in context. Saving now."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Let\u2019s do an Anki vocab practice\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "10 due. All four words added today have `practice_count` 0, so they get multiple choice. The older words (practice_count 2) get open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **b\u1ebfp n\u00fac** mean? *(word type: noun)*\n\nA) a kitchen utensil\nB) cooking, kitchen work\nC) a type of Vietnamese dish\nD) housework in general\n\n---\n\n**Card 2**\nWhat does **th\u1ec9nh tho\u1ea3ng** mean? *(word type: adverb)*\n\nA) immediately, right away\nB) never, not at all\nC) from time to time, occasionally\nD) as soon as possible\n\n---\n\n**Card 3**\nWhat does **\u0111\u1ea7m \u1ea5m** mean? *(word type: adjective)*\n\nA) humid and hot\nB) quiet and peaceful\nC) tidy and organised\nD) warm and cosy (of family atmosphere)\n\n---\n\n**Card 4**\nWhat does **kho\u1ea3nh kh\u1eafc** mean? *(word type: noun)*\n\nA) destination\nB) moment\nC) memory\nD) feeling\n\n---\n\n**Card 5**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
     }
   ]
 }
