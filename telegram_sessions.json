@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: You can definitely schedule a one time task to fire in the next five mins, please do that\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Scheduled for 14:25 UTC \u2014 should fire in the next few minutes. Check the dashboard shortly after."
-    },
-    {
-      "role": "user",
       "content": "Hugh: Let\u2019s do a vocab exercise\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "10 due. All four words added today have `practice_count` 0, so they get multiple choice. The older words (practice_count 2) get open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **b\u1ebfp n\u00fac** mean? *(word type: noun)*\n\nA) a kitchen utensil\nB) cooking, kitchen work\nC) a type of Vietnamese dish\nD) housework in general\n\n---\n\n**Card 2**\nWhat does **th\u1ec9nh tho\u1ea3ng** mean? *(word type: adverb)*\n\nA) immediately, right away\nB) never, not at all\nC) from time to time, occasionally\nD) as soon as possible\n\n---\n\n**Card 3**\nWhat does **\u0111\u1ea7m \u1ea5m** mean? *(word type: adjective)*\n\nA) humid and hot\nB) quiet and peaceful\nC) tidy and organised\nD) warm and cosy (of family atmosphere)\n\n---\n\n**Card 4**\nWhat does **kho\u1ea3nh kh\u1eafc** mean? *(word type: noun)*\n\nA) destination\nB) moment\nC) memory\nD) feeling\n\n---\n\n**Card 5**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B)\nC)\nD)\nB)\n5. C\u1ea5u k\u1ec9nh\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "1. \u2713\n2. \u2713\n3. \u2713\n4. \u2713\n5. \u2717 \u2014 **c\u00e1u k\u1ec9nh** (you had \"C\u1ea5u k\u1ec9nh\" \u2014 it's *c\u00e1u*, not *c\u1ea5u*). Easy typo but worth noting, the tone mark matters.\n\n4/5 \u2014 good. Next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nHow do you say **\"oneself, yourself\"** in Vietnamese?\n\n---\n\n**Card 7**\nWhat does **t\u00e2m l\u00fd** mean? *(word type: noun)*\n\n---\n\n**Card 8**\nHow do you say **\"steady, firm, stable\"** in Vietnamese?\n\n---\n\n**Card 9**\nWhat does **n\u00e1o nhi\u1ec7t** mean? *(word type: adjective)*\n\n---\n\n**Card 10**\nWhat does **qu\u00e2y qu\u1ea7n** mean? *(word type: verb)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
