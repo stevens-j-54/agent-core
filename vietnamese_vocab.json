@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-23T10:13:59Z",
+  "last_updated": "2026-04-25T17:58:36Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -10,8 +10,8 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-21",
-      "practice_count": 2,
+      "last_practiced": "2026-04-25",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Anh ấy rất cáu kỉnh khi không ngủ đủ giấc.",
@@ -35,8 +35,8 @@
       "word_type": "noun",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-23",
-      "practice_count": 2,
+      "last_practiced": "2026-04-25",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Người cai thuốc lá nên giữ tâm lý vững vàng.",
@@ -60,8 +60,8 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-23",
-      "practice_count": 2,
+      "last_practiced": "2026-04-25",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Cô ấy bước đi vững vàng trên con đường mới.",
@@ -85,8 +85,8 @@
       "word_type": "pronoun",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-23",
-      "practice_count": 2,
+      "last_practiced": "2026-04-25",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Anh nên tin tưởng vào bản thân mình.",
@@ -774,8 +774,8 @@
       ],
       "id": "5e04474c-cfad-4048-bc28-2bc0357a8b4c",
       "date_added": "2026-04-23",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-25",
+      "practice_count": 1
     },
     {
       "vietnamese": "thỉnh thoảng",
@@ -799,8 +799,8 @@
       ],
       "id": "bfdaf9d5-fd5a-4782-bf5b-b6bca5bd7815",
       "date_added": "2026-04-23",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-25",
+      "practice_count": 1
     },
     {
       "vietnamese": "đầm ấm",
@@ -824,8 +824,8 @@
       ],
       "id": "bb4ece71-b049-4486-b49c-2a1d9815ddfa",
       "date_added": "2026-04-23",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-25",
+      "practice_count": 1
     },
     {
       "vietnamese": "khoảnh khắc",
@@ -849,8 +849,8 @@
       ],
       "id": "0a35bd70-2da5-432e-96e3-4a15b9a3bd06",
       "date_added": "2026-04-23",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-04-25",
+      "practice_count": 1
     }
   ]
 }
