@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Could you explain the difference between v\u1eefng v\u00e0ng and \u1ed5n \u0111\u1ecbnh please? Feel free to dive into linguistics a bit\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Good question \u2014 they overlap but come from different places conceptually.\n\n**\u1ed5n \u0111\u1ecbnh** is about *external stability* \u2014 a state of things being settled, not in flux. It's the word you'd use for a stable job (c\u00f4ng vi\u1ec7c \u1ed5n \u0111\u1ecbnh), a stable economy, a stable relationship in the sense of \"not falling apart.\" It describes a condition that could change \u2014 the emphasis is on the absence of disruption. Sino-Vietnamese origin, from \u7a69\u5b9a.\n\n**v\u1eefng v\u00e0ng** is about *inner solidity* \u2014 being firm, grounded, unshakeable. It's more about character or internal state than external circumstance. A person who handles pressure well is v\u1eefng v\u00e0ng. A soldier who doesn't flinch is v\u1eefng v\u00e0ng. It implies something built into the subject rather than a condition that happens to hold.\n\nThe distinction maps roughly onto English \"stable\" vs \"steadfast\" \u2014 or the difference between \"the situation is stable\" and \"she's a steady hand.\"\n\nYou can see this in how they combine with other words. *V\u1eefng v\u00e0ng* pairs naturally with t\u00e2m l\u00fd (mindset), b\u01b0\u1edbc \u0111i (steps), l\u1eadp tr\u01b0\u1eddng (stance/position). *\u1ed4n \u0111\u1ecbnh* pairs with kinh t\u1ebf (economy), cu\u1ed9c s\u1ed1ng (life circumstances), t\u00ecnh h\u00ecnh (situation).\n\nWorth noting: *v\u1eefng* on its own already carries the \"firm/solid\" meaning (think *v\u1eefng ch\u1eafc* \u2014 solid, secure). *V\u00e0ng* here is a reduplicative intensifier \u2014 it reinforces rather than adds new meaning. That doubling pattern is very common in Vietnamese adjectives."
-    },
-    {
-      "role": "user",
       "content": "Hugh: This is a fantastic explanation. Please note in your identity that this type of linguistic breakdown is incredibly helpful to me and that I really value your ability to do this. Let\u2019s keep going.. how does v\u1eefng ch\u1eafc relate to these? How different is the meaning?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Saved. **Final: 7/10** \u2014 solid session. The three to watch: *ph\u1ee5c h\u1ed3i* (tones), *nh\u1ecbp tim*, and *cai*. All corrected on retry which is good, but they'll come back around."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Lets do some Anki vocab practise\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "All at practice_count 1\u20132, so all open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **h\u1ea1 nhi\u1ec7t** mean? *(word type: verb)*\n\n---\n\n**Card 2**\nHow do you say **\"state, condition, status\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **qu\u00e1 tr\u00ecnh** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"for example\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **l\u01b0\u1ee3ng kh\u00ed** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
     }
   ]
 }
