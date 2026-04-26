@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: This is a fantastic explanation. Please note in your identity that this type of linguistic breakdown is incredibly helpful to me and that I really value your ability to do this. Let\u2019s keep going.. how does v\u1eefng ch\u1eafc relate to these? How different is the meaning?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Done. Now \u2014 **v\u1eefng ch\u1eafc**.\n\nIt sits very close to *v\u1eefng v\u00e0ng* but the distinction is worth knowing.\n\n*Ch\u1eafc* on its own means firm, solid, certain \u2014 with a physical quality to it. The sense of something that won't give way when you press it. You'd use *ch\u1eafc* for a well-built table, a reliable fact, a confident prediction. It's grounded in the tangible.\n\nSo *v\u1eefng ch\u1eafc* compounds two near-synonyms \u2014 *v\u1eefng* (stable, not wavering) + *ch\u1eafc* (solid, won't give) \u2014 and the effect is intensification through doubling. It means something like **solidly secure**, with an emphasis on structural integrity. Where *v\u1eefng v\u00e0ng* feels more like an admirable personal quality \u2014 composure, steadfastness \u2014 *v\u1eefng ch\u1eafc* leans toward **reliable, well-founded, structurally sound**.\n\nIn practice:\n- *n\u1ec1n t\u1ea3ng v\u1eefng ch\u1eafc* \u2014 a solid foundation (literal or metaphorical)\n- *b\u1eb1ng ch\u1ee9ng v\u1eefng ch\u1eafc* \u2014 solid evidence\n- *l\u1eadp tr\u01b0\u1eddng v\u1eefng v\u00e0ng* \u2014 a firm, unwavering stance (personal conviction)\n\nYou wouldn't swap them easily. *B\u1eb1ng ch\u1ee9ng v\u1eefng v\u00e0ng* sounds slightly odd \u2014 evidence doesn't have composure, it has weight. And *n\u1ec1n t\u1ea3ng v\u1eefng v\u00e0ng* is possible but softer, more poetic. *V\u1eefng ch\u1eafc* is the more structural, objective word; *v\u1eefng v\u00e0ng* is more personal and behavioural.\n\nThe triangle is roughly: *\u1ed5n \u0111\u1ecbnh* = stable (external condition) \u2192 *v\u1eefng ch\u1eafc* = solid (structural integrity) \u2192 *v\u1eefng v\u00e0ng* = steadfast (inner quality)."
-    },
-    {
-      "role": "user",
       "content": "Hugh: This is great, maybe you should think of somewhere in your GitHub to store these kinds of linguistic breakdowns so we can come back to them again in the future. Love this\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "All at practice_count 1\u20132, so all open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **h\u1ea1 nhi\u1ec7t** mean? *(word type: verb)*\n\n---\n\n**Card 2**\nHow do you say **\"state, condition, status\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **qu\u00e1 tr\u00ecnh** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"for example\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **l\u01b0\u1ee3ng kh\u00ed** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: 1. ?\n2. ?\n3. State, condition\n4. V\u00ed d\u1ee5\n5. Volume (like of a gas)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "1. \u2717 \u2014 **h\u1ea1 nhi\u1ec7t** means to cool down, reduce heat. *H\u1ea1* = to lower/reduce, *nhi\u1ec7t* = heat. Used literally (cool a fever) or figuratively (cool tensions).\n\n2. \u2717 \u2014 **t\u00ecnh tr\u1ea1ng**. A common and useful word \u2014 worth locking in.\n\n3. ~ \u2014 close but not quite. **qu\u00e1 tr\u00ecnh** means *process* or *course of events*. The sense of something unfolding over time, not a static state.\n\n4. \u2713 \u2014 perfect.\n\n5. \u2713 \u2014 yes, volume/amount of gas. Good.\n\n2/5 \u2014 next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **c\u01a1 th\u1ec3** mean? *(word type: noun)*\n\n---\n\n**Card 7**\nHow do you say **\"to affect, to impact\"** in Vietnamese?\n\n---\n\n**Card 8**\nWhat does **th\u00e8m** mean? *(word type: verb)*\n\n---\n\n**Card 9**\nHow do you say **\"to persist, to endure\"** in Vietnamese?\n\n---\n\n**Card 10**\nWhat does **n\u00e3o** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
     }
   ]
 }
