@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-04-25T18:25:56Z",
+  "last_updated": "2026-04-26T16:44:34Z",
   "entries": [
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
@@ -135,8 +135,8 @@
       "word_type": "adjective",
       "source": "Những thắc mắc khi cai thuốc lá — VnExpress",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-22",
-      "practice_count": 5,
+      "last_practiced": "2026-04-26",
+      "practice_count": 6,
       "sample_sentences": [
         {
           "vi": "Bỏ thuốc lá đòi hỏi sự kiên trì.",
@@ -410,8 +410,8 @@
       "word_type": "verb",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-21",
-      "practice_count": 2,
+      "last_practiced": "2026-04-26",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Ăn dưa hấu giúp hạ nhiệt cơ thể hiệu quả.",
@@ -485,8 +485,8 @@
       "word_type": "noun",
       "source": "7 thực phẩm giúp giải nhiệt cơ thể mùa nắng nóng — Tuổi Trẻ",
       "date_added": "2026-04-09",
-      "last_practiced": "2026-04-21",
-      "practice_count": 2,
+      "last_practiced": "2026-04-26",
+      "practice_count": 3,
       "sample_sentences": [
         {
           "vi": "Quá trình tiêu hóa mất vài giờ.",
@@ -649,8 +649,8 @@
       ],
       "id": "4f913b36-5a81-42b2-9334-181f308ef9ff",
       "date_added": "2026-04-20",
-      "last_practiced": "2026-04-21",
-      "practice_count": 1
+      "last_practiced": "2026-04-26",
+      "practice_count": 2
     },
     {
       "vietnamese": "kỷ luật",
@@ -699,8 +699,8 @@
       ],
       "id": "7f44b097-6a43-4845-801d-82186bdbdf10",
       "date_added": "2026-04-22",
-      "last_practiced": "2026-04-22",
-      "practice_count": 1
+      "last_practiced": "2026-04-26",
+      "practice_count": 2
     },
     {
       "vietnamese": "hoàng hôn",
