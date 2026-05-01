@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Nice, thanks! \nYou explained how ch\u1eafc adds extra meaning to v\u1eefng.. when v\u00e0ng is used, is the meaning it\u2019s adding related to the word for gold, or is that another meaning or root word?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Looks like that came through twice \u2014 I already answered this one. Did you mean to send something else?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Are there any other examples where ch\u1eafc is used to modify in a similar way?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Saved. Now let's go \u2014 7 words due. All low practice counts so all open-ended.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **tr\u1ea1ng th\u00e1i** mean? *(word type: noun)*\n\n---\n\n**Card 2**\nHow do you say **\"sunset, dusk\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **th\u00f3i quen** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"process, course of something\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **ch\u1eb3ng h\u1ea1n** mean? *(word type: adverb)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Lets do an Anki exercise\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "We're mid-quiz! Still have cards to get through. Pick up where we left off:\n\n**Card 1**\nWhat does **tr\u1ea1ng th\u00e1i** mean? *(word type: noun)*\n\n**Card 2**\nHow do you say **\"sunset, dusk\"** in Vietnamese?\n\n**Card 3**\nWhat does **th\u00f3i quen** mean? *(word type: noun)*\n\n**Card 4**\nHow do you say **\"process, course of something\"** in Vietnamese?\n\n**Card 5**\nWhat does **ch\u1eb3ng h\u1ea1n** mean? *(word type: adverb)*\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
     }
   ]
 }
