@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Nice thanks!! Let\u2019s do another Anki vocab practice.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "All 10 have practice_count 1\u20132, so all open-ended. Let's go.\n\n---\n\n**Cards 1\u20135**\n\n**Card 1**\nWhat does **\u0111\u00f2i h\u1ecfi** mean? *(word type: verb)*\n\n---\n\n**Card 2**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n\n---\n\n**Card 3**\nWhat does **ch\u1ea5t ph\u1ee5 gia** mean? *(word type: noun)*\n\n---\n\n**Card 4**\nHow do you say **\"heart rate, pulse\"** in Vietnamese?\n\n---\n\n**Card 5**\nWhat does **m\u1ee9c c\u00e2n b\u1eb1ng** mean? *(word type: noun)*\n\n---\n\nReply with your answers: 1. \u2026 2. \u2026 3. \u2026 4. \u2026 5. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: 1. Request, require\n2. Ph\u00fac h\u1ed9i\n3. Additives?\n4. No idea\n5. Equal, of an equal level\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "1. \u2713 \u2014 state, condition. Good.\n\n2. \u2717 \u2014 **ho\u00e0ng h\u00f4n**. You had *ho\u00e0ng h\u1eadu* which means queen! Easy mix-up \u2014 same first syllable, very different second. *H\u00f4n* = dusk/twilight, *h\u1eadu* = queen/behind.\n\n3. ~ \u2014 close. **th\u00f3i quen** is a *habit* \u2014 a routine you've settled into. Not just familiarity, but a repeated behaviour pattern.\n\n4. \u2717 \u2014 **qu\u00e1 tr\u00ecnh**. Same word from the last quiz. Still shaky on this one.\n\n5. \u2713 \u2014 yes, for example. Slightly more colloquial than *v\u00ed d\u1ee5*.\n\n3/5 \u2014 last 2 cards:\n\n---\n\n**Card 6**\nWhat does **leo n\u00fai** mean? *(word type: verb)*\n\n---\n\n**Card 7**\nHow do you say **\"waterfall\"** in Vietnamese?\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Climb a mountain\n7) th\u00e1ch n\u01b0\u1edbc\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "6. \u2713 \u2014 yes, to climb a mountain/go hiking.\n\n7. \u2717 \u2014 **th\u00e1c n\u01b0\u1edbc**. You had *th\u00e1ch* (which means challenge/dare) \u2014 just a tone error. *Th\u00e1c* with the falling tone, not *th\u00e1ch* with the sharp one.\n\nNow the misses \u2014 retry:\n\n---\n\n**Missed cards \u2014 retry**\n\n**Card 2 (retry)**\nHow do you say **\"sunset, dusk\"** in Vietnamese?\n\n**Card 4 (retry)**\nHow do you say **\"process, course of something\"** in Vietnamese?\n\n**Card 7 (retry)**\nHow do you say **\"waterfall\"** in Vietnamese?\n\nReply with your answers: 2. \u2026 4. \u2026 7. \u2026"
     }
   ]
 }
