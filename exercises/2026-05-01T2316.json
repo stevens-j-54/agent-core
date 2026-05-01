@@ -1,0 +1,34 @@
+{
+  "date": "2026-04-22",
+  "mode": "quiz",
+  "topic": "vocab quiz",
+  "cards_presented": [
+    "yêu cầu",
+    "phục hồi",
+    "phụ gia",
+    "nhịp tim",
+    "mức cân bằng",
+    "cai",
+    "cáu kỉnh",
+    "bản thân",
+    "náo nhiệt",
+    "vững vàng"
+  ],
+  "correct_count": 7,
+  "incorrect_count": 3,
+  "vocab_reviewed": [
+    "yêu cầu",
+    "phục hồi",
+    "phụ gia",
+    "nhịp tim",
+    "mức cân bằng",
+    "cai",
+    "cáu kỉnh",
+    "bản thân",
+    "náo nhiệt",
+    "vững vàng"
+  ],
+  "correction_notes": "phục hồi — wrong tones/spelling on first attempt (wrote 'Phúc hội'); nhịp tim — no idea on first attempt; cai — no idea on first attempt. All three corrected on retry.",
+  "vocab_added_to_list": [],
+  "id": "11dda9ed-29a5-4a75-b612-a198d1cb1d3b"
+}
