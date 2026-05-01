@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: 1. Request, require\n2. Ph\u00fac h\u1ed9i\n3. Additives?\n4. No idea\n5. Equal, of an equal level\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "1. \u2713 \u2014 to demand, require, call for. Good.\n\n2. \u2717 \u2014 **ph\u1ee5c h\u1ed3i** (you had \"Ph\u00fac h\u1ed9i\" \u2014 wrong tones and wrong letters. *Ph\u1ee5c* with a dot-under, *h\u1ed3i* with a falling tone)\n\n3. \u2713 \u2014 yes, additives. Food additives specifically in the context we used it.\n\n4. \u2717 \u2014 **nh\u1ecbp tim** (*nh\u1ecbp* = rhythm/beat, *tim* = heart)\n\n5. ~ \u2014 close. **m\u1ee9c c\u00e2n b\u1eb1ng** means \"equilibrium level\" or \"balance point\" \u2014 more specific than just \"equal.\" The *m\u1ee9c* (level/threshold) is doing important work there.\n\n2.5/5 \u2014 next batch:\n\n---\n\n**Cards 6\u201310**\n\n**Card 6**\nWhat does **cai** mean? *(word type: verb)*\n\n---\n\n**Card 7**\nHow do you say **\"irritable, grumpy\"** in Vietnamese?\n\n---\n\n**Card 8**\nWhat does **b\u1ea3n th\u00e2n** mean? *(word type: noun)*\n\n---\n\n**Card 9**\nHow do you say **\"bustling, lively\"** in Vietnamese?\n\n---\n\n**Card 10**\nWhat does **v\u1eefng v\u00e0ng** mean? *(word type: adjective)*\n\n---\n\nReply with your answers: 6. \u2026 7. \u2026 8. \u2026 9. \u2026 10. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: 6. No idea\n7. C\u00e1u k\u1ec9nh \n8. One self\n9. N\u00e1o nhi\u1ec7t\n10. Solid, stable (in terms of personal quality or internal state)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "6. \u2713 \u2014 yes, to climb a mountain/go hiking.\n\n7. \u2717 \u2014 **th\u00e1c n\u01b0\u1edbc**. You had *th\u00e1ch* (which means challenge/dare) \u2014 just a tone error. *Th\u00e1c* with the falling tone, not *th\u00e1ch* with the sharp one.\n\nNow the misses \u2014 retry:\n\n---\n\n**Missed cards \u2014 retry**\n\n**Card 2 (retry)**\nHow do you say **\"sunset, dusk\"** in Vietnamese?\n\n**Card 4 (retry)**\nHow do you say **\"process, course of something\"** in Vietnamese?\n\n**Card 7 (retry)**\nHow do you say **\"waterfall\"** in Vietnamese?\n\nReply with your answers: 2. \u2026 4. \u2026 7. \u2026"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Ho\u00e0ng h\u00f4n \nQu\u00e1 tr\u00ecnh \nTh\u00e1c n\u01b0\u1edbc\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "All saved. Three sessions logged.\n\n**Words to watch:** *qu\u00e1 tr\u00ecnh* came up in two separate quizzes and you blanked on it both times first attempt \u2014 process/course of events. *Ho\u00e0ng h\u00f4n* vs *ho\u00e0ng h\u1eadu* is a classic tone trap. And *cai* \u2014 just needs repetition.\n\nGood work today."
     }
   ]
 }
