@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: 6. No idea\n7. C\u00e1u k\u1ec9nh \n8. One self\n9. N\u00e1o nhi\u1ec7t\n10. Solid, stable (in terms of personal quality or internal state)\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "6. \u2717 \u2014 **cai** means to quit or wean off something. *Cai thu\u1ed1c l\u00e1* \u2014 quit smoking. *Cai nghi\u1ec7n* \u2014 quit an addiction. It came up in your first ever session.\n\n7. \u2713 \u2014 perfect.\n\n8. \u2713 \u2014 oneself, yourself. Good.\n\n9. \u2713 \u2014 yes.\n\n10. \u2713 \u2014 and a good definition. You clearly absorbed the breakdown earlier.\n\n4/5 that round. Now let's revisit the misses:\n\n---\n\n**Missed cards \u2014 retry**\n\n**Card 2 (retry)**\nHow do you say **\"to recover, to restore\"** in Vietnamese?\n\n---\n\n**Card 4 (retry)**\nHow do you say **\"heart rate, pulse\"** in Vietnamese?\n\n---\n\n**Card 6 (retry)**\nWhat does **cai** mean? *(word type: verb)*\n\n---\n\nReply with your answers: 2. \u2026 4. \u2026 6. \u2026"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Ph\u1ee5c h\u1ed3i\nNh\u1ecbp tim\nTo give up something\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "All saved. Three sessions logged.\n\n**Words to watch:** *qu\u00e1 tr\u00ecnh* came up in two separate quizzes and you blanked on it both times first attempt \u2014 process/course of events. *Ho\u00e0ng h\u00f4n* vs *ho\u00e0ng h\u1eadu* is a classic tone trap. And *cai* \u2014 just needs repetition.\n\nGood work today."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: B\u1ea1n c\u00f3 th\u1ec3 gi\u00fap t\u00f4i h\u1ecdc ti\u1ebfng Vi\u1ec7t kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u0110\u01b0\u1ee3c ch\u1ee9! B\u1ea1n mu\u1ed1n l\u00e0m g\u00ec \u2014 luy\u1ec7n d\u1ecbch, luy\u1ec7n h\u1ed9i tho\u1ea1i, hay \u00f4n t\u1eeb v\u1ef1ng?"
     }
   ]
 }
