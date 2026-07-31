@@ -39,6 +39,14 @@
     {
       "role": "assistant",
       "content": "No \u2014 different word entirely. Vietnamese has a lot of homophones (same sound, completely different meaning), and **s\u00e1t** is a good example.\n\nThe **s\u00e1t** in *s\u00e1t sao* means \"close, near, tight\" \u2014 as in proximity or precision. It's the same **s\u00e1t** you see in *s\u00e1t nhau* (right next to each other) or *s\u00e1t h\u1ea1ch* (a strict examination \u2014 literally \"closely tested\").\n\nThe word for iron (the metal) is **s\u1eaft** \u2014 note the different tone mark (the hook under the \u00e2). S\u00e1t vs. s\u1eaft \u2014 looks similar written down but sounds distinct when spoken.\n\nSo *s\u00e1t sao* has nothing to do with metal \u2014 it's all about closeness and precision."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C\u1ea3m \u01a1n Minh! B\u1ea1n gi\u1ea3i t\u00edch r\u1ea5t d\u1ec5 hi\u1ec3u\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "C\u1ea3m \u01a1n! M\u1ed9t \u0111i\u1ec1u nh\u1ecf th\u00f4i \u2014 \"gi\u1ea3i th\u00edch\", kh\u00f4ng ph\u1ea3i \"gi\u1ea3i t\u00edch\". *Gi\u1ea3i t\u00edch* l\u00e0 m\u1ed9t thu\u1eadt ng\u1eef to\u00e1n h\u1ecdc (calculus). \ud83d\ude04"
     }
   ]
 }
