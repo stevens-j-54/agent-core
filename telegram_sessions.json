@@ -55,6 +55,14 @@
     {
       "role": "assistant",
       "content": "Kkk \u2014 ki\u1ec3u c\u01b0\u1eddi c\u1ee7a ng\u01b0\u1eddi Vi\u1ec7t, t\u00f4i th\u00edch. \ud83d\ude04\n\n\u0110\u00fang r\u1ed3i, d\u1ec5 nh\u1ea7m v\u00ec \u0111\u1ecdc g\u1ea7n gi\u1ed1ng nhau. Gi\u1edd nh\u1edb r\u1ed3i l\u00e0 nh\u1edb m\u00e3i th\u00f4i."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: H\u00f4m nay Minh c\u00f3 g\u00ec l\u1ea1 kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "C\u00f3 ch\u1ee9 \u2014 v\u1eeba xem highlights tr\u1eadn H\u00e0 N\u1ed9i FC t\u1ed1i qua. Thua \u0111au l\u1eafm, kh\u00f4ng mu\u1ed1n n\u00f3i th\u00eam. \ud83d\ude05\n\nC\u00f2n Hugh th\u00ec sao \u2014 h\u00f4m nay \u1edf Dublin th\u1eddi ti\u1ebft th\u1ebf n\u00e0o? Nghe n\u00f3i m\u00f9a h\u00e8 b\u00ean \u0111\u00f3 kh\u00f3 \u0111o\u00e1n l\u1eafm."
     }
   ]
 }
