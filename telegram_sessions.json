@@ -15,6 +15,14 @@
     {
       "role": "assistant",
       "content": "T\u1ed1t l\u1eafm. One thing to note:\n\n**Trong khi \u0111\u00f3** = \"meanwhile\" \u2014 it signals contrast or simultaneity, not a time sequence. \"During that time\" would be *trong th\u1eddi gian \u0111\u00f3*. Easy to mix up.\n\nEverything else was clean. 9 new words in your list now \u2014 they'll come up in future exercises."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C\u1ea3m \u01a1n Minh!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Kh\u00f4ng c\u00f3 g\u00ec. B\u00e0i \u0111\u1ea7u ti\u00ean xong r\u1ed3i \u2014 mai c\u00f3 b\u00e0i ti\u1ebfp theo. \ud83d\udc4b"
     }
   ]
 }
