@@ -71,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Bu\u1ed3n th\u1eadt \u2014 thua H\u1ea3i Ph\u00f2ng FC 2-1, hi\u1ec7p hai ch\u01a1i t\u1ec7 l\u1eafm. Th\u00f4i, c\u00f2n c\u1ea3 m\u00f9a gi\u1ea3i m\u00e0.\n\n20 \u0111\u1ed9 nghe tho\u1ea3i m\u00e1i th\u1eadt! \u1ede S\u00e0i G\u00f2n gi\u1edd n\u00e0y n\u00f3ng kho\u1ea3ng 33-34 \u0111\u1ed9, ra \u0111\u01b0\u1eddng l\u00e0 \u0111\u1ed5 m\u1ed3 h\u00f4i li\u1ec1n. \ud83d\ude05\n\n\"M\u1ed9t ng\u00e0y c\u00f3 b\u1ed1n m\u00f9a\" \u2014 c\u00e2u n\u00e0y hay l\u1eafm, ng\u01b0\u1eddi Vi\u1ec7t hay n\u00f3i v\u1ec1 \u0110\u00e0 L\u1ea1t nh\u01b0 v\u1eady. Bu\u1ed5i s\u00e1ng l\u1ea1nh, tr\u01b0a n\u1eafng, chi\u1ec1u m\u01b0a, t\u1ed1i l\u1ea1nh l\u1ea1i. Hugh \u0111\u00e3 \u0111\u1ebfn Vi\u1ec7t Nam ch\u01b0a?"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Th\u1eadt t\u1ec7 v\u1eady. \n\nV\u1edbi t\u00f4i 33 \u0111\u1ed9 n\u00f3ng qu\u00e1! T\u00f4i \u1edf \u0111\u00f3 th\u00ec t\u00f4i s\u1ebd \u0111\u1ed5 m\u1ed3 h\u00f4i nh\u01b0 th\u00e1ch n\u01b0\u1edbc kkk\n\nHugh \u0111\u00e3 t\u1eebng s\u1ed1ng \u1edf Vi\u1ec7t Nam!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Haha \"\u0111\u1ed5 m\u1ed3 h\u00f4i nh\u01b0 th\u00e1c n\u01b0\u1edbc\" \u2014 g\u1ea7n \u0111\u00fang r\u1ed3i! *Th\u00e1c* n\u01b0\u1edbc, kh\u00f4ng ph\u1ea3i *th\u00e1ch* n\u01b0\u1edbc. Th\u00e1c = waterfall. C\u00e2u \u0111\u00f3 hay l\u1eafm, ng\u01b0\u1eddi Vi\u1ec7t hay n\u00f3i v\u1eady.\n\n\u1ee6a, Hugh \u0111\u00e3 t\u1eebng s\u1ed1ng \u1edf Vi\u1ec7t Nam \u00e0?! S\u1ed1ng \u1edf \u0111\u00e2u \u2014 S\u00e0i G\u00f2n kh\u00f4ng? Bao l\u00e2u v\u1eady?"
     }
   ]
 }
