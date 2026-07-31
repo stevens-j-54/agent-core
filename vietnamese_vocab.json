@@ -1,1 +1,231 @@
-{"version": 2, "entries": []}
+{
+  "version": 2,
+  "entries": [
+    {
+      "vietnamese": "tình hình",
+      "meaning_index": 1,
+      "english": "situation, conditions",
+      "word_type": "noun",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Tình hình Trung Đông đang trở nên căng thẳng hơn.",
+          "en": "The situation in the Middle East is becoming more tense."
+        },
+        {
+          "vi": "Chính phủ đang theo dõi tình hình kinh tế.",
+          "en": "The government is monitoring the economic situation."
+        },
+        {
+          "vi": "Tình hình ở đây vẫn chưa ổn định.",
+          "en": "The situation here is still not stable."
+        }
+      ],
+      "id": "0ce121e8-2cf8-40af-a409-228a9d3a3dfa",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "căng thẳng",
+      "meaning_index": 1,
+      "english": "tense, strained",
+      "word_type": "adjective",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Quan hệ giữa hai nước đang rất căng thẳng.",
+          "en": "Relations between the two countries are very tense."
+        },
+        {
+          "vi": "Cuộc họp hôm nay diễn ra trong không khí căng thẳng.",
+          "en": "Today's meeting took place in a tense atmosphere."
+        },
+        {
+          "vi": "Tình hình biên giới trở nên căng thẳng sau vụ tấn công.",
+          "en": "The border situation became tense after the attack."
+        }
+      ],
+      "id": "4daf8604-6d05-4b88-8805-8e331b87bed5",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "binh sĩ",
+      "meaning_index": 1,
+      "english": "soldier, troops",
+      "word_type": "noun",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Hàng nghìn binh sĩ đã được triển khai đến khu vực này.",
+          "en": "Thousands of soldiers have been deployed to this region."
+        },
+        {
+          "vi": "Các binh sĩ đang ở trong tình trạng sẵn sàng chiến đấu.",
+          "en": "The soldiers are in a combat-ready state."
+        },
+        {
+          "vi": "Binh sĩ Mỹ bắt đầu rút khỏi khu vực.",
+          "en": "American troops began withdrawing from the area."
+        }
+      ],
+      "id": "b6746710-469e-4b0e-83c6-6cbac5609a4f",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "sẵn sàng",
+      "meaning_index": 1,
+      "english": "ready, prepared",
+      "word_type": "adjective",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Chúng tôi đã sẵn sàng cho cuộc họp.",
+          "en": "We are ready for the meeting."
+        },
+        {
+          "vi": "Quân đội đang ở trong tình trạng sẵn sàng chiến đấu.",
+          "en": "The military is in a combat-ready state."
+        },
+        {
+          "vi": "Bạn có sẵn sàng bắt đầu chưa?",
+          "en": "Are you ready to begin?"
+        }
+      ],
+      "id": "c0a9a412-bce8-4a1c-b1e4-0a86d7e7ce7f",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "nối lại",
+      "meaning_index": 1,
+      "english": "to resume, to restart",
+      "word_type": "verb",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Hai nước muốn nối lại quan hệ ngoại giao.",
+          "en": "The two countries want to resume diplomatic relations."
+        },
+        {
+          "vi": "Họ quyết định nối lại đàm phán sau nhiều tháng gián đoạn.",
+          "en": "They decided to resume negotiations after months of interruption."
+        },
+        {
+          "vi": "Dịch vụ bay đã được nối lại sau khi bão qua.",
+          "en": "Flight services were resumed after the storm passed."
+        }
+      ],
+      "id": "fb9fb13d-784c-43ea-b879-ba12c725a39c",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "đàm phán",
+      "meaning_index": 1,
+      "english": "negotiations; to negotiate",
+      "word_type": "noun",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Các cuộc đàm phán giữa hai bên vẫn chưa đạt kết quả.",
+          "en": "Negotiations between the two sides have not yet reached a result."
+        },
+        {
+          "vi": "Mỹ muốn đàm phán trực tiếp với Iran.",
+          "en": "The US wants to negotiate directly with Iran."
+        },
+        {
+          "vi": "Quá trình đàm phán kéo dài nhiều năm.",
+          "en": "The negotiation process lasted many years."
+        }
+      ],
+      "id": "1764adeb-3739-4265-8103-937abeaa6cf4",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "phức tạp",
+      "meaning_index": 1,
+      "english": "complex, complicated",
+      "word_type": "adjective",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Vấn đề này rất phức tạp và khó giải quyết.",
+          "en": "This issue is very complex and difficult to resolve."
+        },
+        {
+          "vi": "Tình hình chính trị ở đây ngày càng phức tạp hơn.",
+          "en": "The political situation here is becoming increasingly complicated."
+        },
+        {
+          "vi": "Hệ thống luật pháp của họ khá phức tạp.",
+          "en": "Their legal system is quite complex."
+        }
+      ],
+      "id": "bb778841-00c4-4a80-9d0f-91f24972fd91",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "theo dõi sát sao",
+      "meaning_index": 1,
+      "english": "to monitor closely, to follow closely",
+      "word_type": "verb",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Các nước đang theo dõi sát sao diễn biến tình hình.",
+          "en": "Countries are closely monitoring the development of the situation."
+        },
+        {
+          "vi": "Giới truyền thông quốc tế theo dõi sát sao cuộc bầu cử.",
+          "en": "International media is closely following the election."
+        },
+        {
+          "vi": "Chúng tôi sẽ theo dõi sát sao tiến trình này.",
+          "en": "We will monitor this process closely."
+        }
+      ],
+      "id": "5799b3d6-6f04-4ae8-b38c-f4b4f3496b37",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "trong khi đó",
+      "meaning_index": 1,
+      "english": "meanwhile, at the same time",
+      "word_type": "conjunction",
+      "source": "Middle East tensions / US-Iran",
+      "sample_sentences": [
+        {
+          "vi": "Mỹ tăng cường quân sự; trong khi đó, Iran vẫn từ chối đàm phán.",
+          "en": "The US is increasing its military presence; meanwhile, Iran continues to refuse negotiations."
+        },
+        {
+          "vi": "Giá dầu tăng cao; trong khi đó, kinh tế toàn cầu đang suy yếu.",
+          "en": "Oil prices are rising; meanwhile, the global economy is weakening."
+        },
+        {
+          "vi": "Cô ấy nấu ăn; trong khi đó, anh ấy dọn bàn.",
+          "en": "She was cooking; meanwhile, he was setting the table."
+        }
+      ],
+      "id": "a142e70f-cc9c-45f4-bd2f-9eacf4762346",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
+    }
+  ],
+  "last_updated": "2026-07-31T06:46:45Z"
+}
