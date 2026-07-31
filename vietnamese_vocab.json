@@ -300,7 +300,32 @@
       "date_added": "2026-07-31",
       "last_practiced": null,
       "practice_count": 0
+    },
+    {
+      "vietnamese": "nét",
+      "meaning_index": 1,
+      "english": "quality, character, distinctive feature",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Quy Nhơn giữ được nét tự nhiên hơn các thành phố du lịch khác.",
+          "en": "Quy Nhơn retains a more natural character than other tourist cities."
+        },
+        {
+          "vi": "Đây là một nét đẹp của văn hóa Việt Nam.",
+          "en": "This is a beautiful quality of Vietnamese culture."
+        },
+        {
+          "vi": "Mỗi vùng miền có nét đặc trưng riêng.",
+          "en": "Each region has its own distinctive character."
+        }
+      ],
+      "id": "8e8c2287-5797-4572-a2c4-2c4d03b7be8e",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ],
-  "last_updated": "2026-07-31T20:56:03Z"
+  "last_updated": "2026-07-31T20:57:10Z"
 }
