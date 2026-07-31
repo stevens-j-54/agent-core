@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: In recent days, the situation in the middle east has become more tense. The American military attacked many sites in Iran after the American forces were attacked with rockets. America has stated that over 50.000 soldiers are ready for battle near this area. During that time, Iran does not yet want to resume negotiations with America. The experts state that Iran is waiting because they believe they can withstand more pressure. The situation is still very complicated and many countries around the world are monitoring it closely.\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "T\u1ed1t l\u1eafm. One thing to note:\n\n**Trong khi \u0111\u00f3** = \"meanwhile\" \u2014 it signals contrast or simultaneity, not a time sequence. \"During that time\" would be *trong th\u1eddi gian \u0111\u00f3*. Easy to mix up.\n\nEverything else was clean. 9 new words in your list now \u2014 they'll come up in future exercises."
-    },
-    {
-      "role": "user",
       "content": "Hugh: C\u1ea3m \u01a1n Minh!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Quy Nh\u01a1n \u2014 \u0111\u1eb9p l\u1eafm! Bi\u1ec3n xanh, \u0111\u1ed3 \u0103n ngon, ng\u01b0\u1eddi d\u00e2n th\u00e2n thi\u1ec7n. \u00cdt kh\u00e1ch du l\u1ecbch h\u01a1n \u0110\u00e0 N\u1eb5ng hay H\u1ed9i An n\u00ean gi\u1eef \u0111\u01b0\u1ee3c n\u00e9t t\u1ef1 nhi\u00ean h\u01a1n.\n\nB\u1ed1n n\u0103m l\u00e0 l\u00e2u th\u1eadt \u2014 v\u1eady ti\u1ebfng Vi\u1ec7t c\u1ee7a Hugh h\u1ecdc t\u1eeb h\u1ed3i \u0111\u00f3 \u00e0? V\u00e0 m\u1ed9t \u0111i\u1ec1u nh\u1ecf: \"s\u1ed1ng\", kh\u00f4ng ph\u1ea3i \"s\u00f4ng\" \u2014 *s\u00f4ng* l\u00e0 river! \ud83d\ude04"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: \u0110\u00fang r\u1ed3i, Hugh b\u1eaft \u0111\u1ea7u h\u1ecdc \u1edf \u0111\u00f3. \u00c0.. Hugh s\u1ed1ng \u1edf \u0111\u00f3 \u0111\u01b0\u1ee3c b\u1ed1n n\u0103m.\n\nT\u1eeb \u201cn\u00e9t\u201d ngh\u0129a g\u00ec?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Added to your vocab list."
     }
   ]
 }
