@@ -47,6 +47,14 @@
     {
       "role": "assistant",
       "content": "C\u1ea3m \u01a1n! M\u1ed9t \u0111i\u1ec1u nh\u1ecf th\u00f4i \u2014 \"gi\u1ea3i th\u00edch\", kh\u00f4ng ph\u1ea3i \"gi\u1ea3i t\u00edch\". *Gi\u1ea3i t\u00edch* l\u00e0 m\u1ed9t thu\u1eadt ng\u1eef to\u00e1n h\u1ecdc (calculus). \ud83d\ude04"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: \u1ee6a kkk t\u00f4i m\u1edbi bi\u1ebft\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Kkk \u2014 ki\u1ec3u c\u01b0\u1eddi c\u1ee7a ng\u01b0\u1eddi Vi\u1ec7t, t\u00f4i th\u00edch. \ud83d\ude04\n\n\u0110\u00fang r\u1ed3i, d\u1ec5 nh\u1ea7m v\u00ec \u0111\u1ecdc g\u1ea7n gi\u1ed1ng nhau. Gi\u1edd nh\u1edb r\u1ed3i l\u00e0 nh\u1edb m\u00e3i th\u00f4i."
     }
   ]
 }
