@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-31",
+  "mode": "exercise",
+  "topic": "Middle East tensions / US-Iran",
+  "paragraph_vi": "Trong những ngày gần đây, tình hình Trung Đông trở nên căng thẳng hơn. Quân đội Mỹ đã tấn công nhiều mục tiêu ở Iran sau khi lực lượng Mỹ bị tấn công bằng tên lửa. Mỹ cho biết hơn 50.000 binh sĩ đang ở trong tình trạng sẵn sàng chiến đấu gần khu vực này. Trong khi đó, Iran chưa muốn nối lại đàm phán với Mỹ. Các chuyên gia cho rằng Iran đang chờ đợi vì họ tin rằng họ có thể chịu áp lực tốt hơn. Tình hình vẫn còn rất phức tạp và nhiều nước trên thế giới đang theo dõi sát sao.",
+  "vocab_reviewed": [],
+  "vocab_new_introduced": [
+    "tình hình",
+    "căng thẳng",
+    "binh sĩ",
+    "sẵn sàng",
+    "nối lại",
+    "đàm phán",
+    "chịu áp lực",
+    "phức tạp",
+    "theo dõi sát sao"
+  ],
+  "user_translation": "In recent days, the situation in the middle east has become more tense. The American military attacked many sites in Iran after the American forces were attacked with rockets. America has stated that over 50.000 soldiers are ready for battle near this area. During that time, Iran does not yet want to resume negotiations with America. The experts state that Iran is waiting because they believe they can withstand more pressure. The situation is still very complicated and many countries around the world are monitoring it closely.",
+  "correction_notes": "One error: 'Trong khi đó' translated as 'During that time' — should be 'Meanwhile'. Trong khi đó signals contrast/simultaneity, not time sequence. Trong thời gian đó would be the correct form for 'during that time'. All other sentences were accurate.",
+  "vocab_added_to_list": [
+    "tình hình",
+    "căng thẳng",
+    "binh sĩ",
+    "sẵn sàng",
+    "nối lại",
+    "đàm phán",
+    "chịu áp lực",
+    "phức tạp",
+    "theo dõi sát sao"
+  ],
+  "inspiration_source": "Current affairs — Middle East / US-Iran tensions",
+  "id": "1d0a1638-8e46-45f0-ae10-05e57490999d"
+}
