@@ -275,7 +275,32 @@
       "date_added": "2026-07-31",
       "last_practiced": null,
       "practice_count": 0
+    },
+    {
+      "vietnamese": "nét",
+      "meaning_index": 1,
+      "english": "quality, characteristic, trait",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Quy Nhơn giữ được nét tự nhiên hơn các thành phố du lịch khác.",
+          "en": "Quy Nhon has maintained more of its natural character than other tourist cities."
+        },
+        {
+          "vi": "Đó là một nét văn hóa đặc trưng của người miền Trung.",
+          "en": "That is a distinctive cultural trait of the people of Central Vietnam."
+        },
+        {
+          "vi": "Cô ấy có nét đẹp dịu dàng, rất đặc biệt.",
+          "en": "She has a gentle, very distinctive beauty."
+        }
+      ],
+      "id": "ad1fd601-8d8e-4265-b6ed-fa55a30f71ee",
+      "date_added": "2026-07-31",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ],
-  "last_updated": "2026-07-31T20:54:25Z"
+  "last_updated": "2026-07-31T20:56:03Z"
 }
