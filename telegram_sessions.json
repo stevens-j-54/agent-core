@@ -23,6 +23,14 @@
     {
       "role": "assistant",
       "content": "Kh\u00f4ng c\u00f3 g\u00ec. B\u00e0i \u0111\u1ea7u ti\u00ean xong r\u1ed3i \u2014 mai c\u00f3 b\u00e0i ti\u1ebfp theo. \ud83d\udc4b"
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Minh gi\u1ea3i t\u00edch \u0111\u01b0\u1ee3c \u201ctheo d\u00f5i s\u00e1t sao\u201d kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u0110\u01b0\u1ee3c ch\u1ee9.\n\n**Theo d\u00f5i** = to follow, to monitor, to track \u2014 the core verb. You see it used for news coverage, surveillance, following a situation or a person.\n\n**S\u00e1t sao** = closely, carefully \u2014 an intensifier. Literally implies being \"close\" and \"precise\", so it adds the sense of watching with real attention, not just a casual glance.\n\nTogether: **theo d\u00f5i s\u00e1t sao** = to monitor closely / to follow carefully. Common in journalistic Vietnamese when describing how countries, analysts, or the public are watching a situation unfold.\n\nYou could drop *s\u00e1t sao* and just say *theo d\u00f5i* \u2014 but it'd be weaker, more casual."
     }
   ]
 }
