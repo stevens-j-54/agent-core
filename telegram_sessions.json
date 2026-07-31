@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: C\u1ea3m \u01a1n Minh!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Kh\u00f4ng c\u00f3 g\u00ec. B\u00e0i \u0111\u1ea7u ti\u00ean xong r\u1ed3i \u2014 mai c\u00f3 b\u00e0i ti\u1ebfp theo. \ud83d\udc4b"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Minh gi\u1ea3i t\u00edch \u0111\u01b0\u1ee3c \u201ctheo d\u00f5i s\u00e1t sao\u201d kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Added to your vocab list."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: Added to my vocab list nh\u01b0ng n\u00f3 c\u00f3 ngh\u0129a g\u00ec Minh \u01a1i?!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Added to your list now. \ud83d\udc4d"
     }
   ]
 }
