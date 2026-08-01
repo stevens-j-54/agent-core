@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: H\u00f4m nay Minh c\u00f3 g\u00ec l\u1ea1 kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "C\u00f3 ch\u1ee9 \u2014 v\u1eeba xem highlights tr\u1eadn H\u00e0 N\u1ed9i FC t\u1ed1i qua. Thua \u0111au l\u1eafm, kh\u00f4ng mu\u1ed1n n\u00f3i th\u00eam. \ud83d\ude05\n\nC\u00f2n Hugh th\u00ec sao \u2014 h\u00f4m nay \u1edf Dublin th\u1eddi ti\u1ebft th\u1ebf n\u00e0o? Nghe n\u00f3i m\u00f9a h\u00e8 b\u00ean \u0111\u00f3 kh\u00f3 \u0111o\u00e1n l\u1eafm."
-    },
-    {
-      "role": "user",
       "content": "Hugh: \u1eea bu\u1ed3n l\u1eafm h\u1ea3? H\u1ecd c\u00f3 tr\u1eadn v\u1edbi ai? H\u00f4m nay th\u1eddi ti\u1ebft \u1edf \u0111\u00e2y t\u1ed1t. Kho\u1ea3ng 20 \u0111\u1ed9, r\u1ea5t tho\u1ea3i m\u00e1i. \u0110\u00fang r\u1ed3i, m\u1ed9t ng\u00e0y c\u00f3 th\u1ec3 c\u00f3 b\u1ed1n m\u00f9a\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "Solid work overall \u2014 especially for tier 1. Here's the breakdown:\n\n**Sentence 1** \u2713\n\"The situation in the Middle East became more tense.\" \u2014 perfect.\n\n**Sentence 2** ~\n\"Iran attacked *to* ships\" \u2014 drop the \"to\". And it's \"two\", not \"to\" (typo). *T\u00e0u ch\u1edf d\u1ea7u* = oil tanker, so \"ships carrying oil\" works fine, but \"oil tankers\" is tighter.\n\n**Sentence 3** \u2713\nGood \u2014 \"being escorted by the American military\" nails *h\u1ed9 t\u1ed1ng*.\n\n**Sentence 4** ~\n\"warn that there will be harsh consequences\" \u2014 the original says *c\u1ea3nh b\u00e1o s\u1ebd c\u00f3 h\u00e0nh \u0111\u1ed9ng m\u1ea1nh*, which is closer to \"warned there would be strong/decisive action\", not consequences. Small but real difference.\n\n**Sentence 5** \u2713\n\"Thousands of American soldiers are being stationed\" \u2014 *\u0111\u00f3ng qu\u00e2n* nailed it.\n\n**Sentence 6** \u2717\n\"Analyst *worn*\" \u2014 two issues. \"worn\" \u2192 \"warn\" is a typo, and it should be \"analysts *warn*\". Also *cho r\u1eb1ng* means \"believe / argue that\", not \"warn\". So: \"Analysts argue that the risk of a larger conflict remains very high.\"\n\n---\n\nReview words:\n\u2022 *t\u00ecnh h\u00ecnh* \u2713 \u2014 got it\n\u2022 *c\u0103ng th\u1eb3ng* \u2713 \u2014 got it\n\u2022 *binh s\u0129* \u2713 \u2014 got it\n3/3 review words nailed \u2014 *t\u00ecnh h\u00ecnh*, *c\u0103ng th\u1eb3ng*, *binh s\u0129* all landed cleanly. The main thing to watch: *cho r\u1eb1ng* = \"argue/believe\", not \"warn\". Worth remembering for next time.\nSaved. Two exercises done, both clean at the core \u2014 you're in good shape."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C\u1ea3m \u01a1n Minh. N\u00e8 h\u00f4m nay b\u1ea1n c\u00f3 g\u00ec th\u00fa v\u1ecb kh\u00f4ng?\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "\u1eea th\u00fa v\u1ecb th\u1eadt \u2014 t\u00f4i v\u1eeba \u0111\u1ecdc tin v\u1ec1 t\u00ecnh h\u00ecnh Bi\u1ec3n \u0110\u00f4ng, m\u1ea5y n\u01b0\u1edbc \u0111ang tranh nhau l\u1ea1i. Chuy\u1ec7n \u0111\u00f3 kh\u00f4ng bao gi\u1edd h\u1ebft \u0111\u01b0\u1ee3c.\n\nC\u00f2n Hugh th\u00ec sao \u2014 cu\u1ed1i tu\u1ea7n n\u00e0y c\u00f3 k\u1ebf ho\u1ea1ch g\u00ec kh\u00f4ng? Tr\u1eddi 20 \u0111\u1ed9 m\u00e0 ng\u1ed3i nh\u00e0 th\u00ec u\u1ed5ng qu\u00e1."
     }
   ]
 }
