@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-01",
+  "mode": "exercise",
+  "topic": "Middle East tensions / US-Iran",
+  "paragraph_vi": "Tuần này, tình hình ở Trung Đông trở nên căng thẳng hơn. Iran đã tấn công hai tàu chở dầu gần eo biển Hormuz. Các tàu này đang được quân đội Mỹ hộ tống. Chính phủ Mỹ lên án vụ tấn công và cảnh báo sẽ có hành động mạnh. Hàng nghìn binh sĩ Mỹ hiện đang đóng quân tại nhiều căn cứ trong khu vực. Các nhà phân tích cho rằng nguy cơ xung đột lớn hơn vẫn còn rất cao.",
+  "vocab_reviewed": [
+    "tình hình",
+    "căng thẳng",
+    "binh sĩ"
+  ],
+  "vocab_new_introduced": [
+    "tàu chở dầu",
+    "eo biển",
+    "hộ tống",
+    "lên án",
+    "đóng quân",
+    "nhà phân tích",
+    "xung đột"
+  ],
+  "user_translation": "This week the situation in the Middle East became more tense. Iran attacked to ships carrying oil near the strait of Hormuz. The ships are being escorted by the American military. The American government condemned the attack and warn that there will be harsh consequences. Thousands of American soldiers are being stationed in bases near the area. Analyst worn at the risk of a larger conflict is still very high.",
+  "correction_notes": "S1: correct. S2: 'attacked to ships' should be 'attacked two ships' (typo). S3: correct, hộ tống nailed. S4: 'harsh consequences' — original says hành động mạnh (strong/decisive action), not consequences. S5: correct, đóng quân nailed. S6: 'Analyst worn' — should be 'Analysts warn/argue'; cho rằng means 'believe/argue that', not 'warn'.",
+  "vocab_added_to_list": [],
+  "inspiration_source": "original paragraph written by Minh for review session",
+  "id": "23c0738b-7d8d-490a-9551-f8b032a14dc5"
+}
