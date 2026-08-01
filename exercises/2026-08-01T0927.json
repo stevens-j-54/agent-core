@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-01",
+  "mode": "exercise",
+  "topic": "Middle East / US-Iran tensions",
+  "paragraph_vi": "Tuần này, tình hình ở Trung Đông trở nên căng thẳng hơn. Iran đã tấn công hai tàu chở dầu gần eo biển Hormuz. Các tàu này đang được quân đội Mỹ hộ tống. Chính phủ Mỹ lên án vụ tấn công và cảnh báo sẽ có hành động mạnh. Hàng nghìn binh sĩ Mỹ hiện đang đóng quân tại nhiều căn cứ trong khu vực. Các nhà phân tích cho rằng nguy cơ xung đột lớn hơn vẫn còn rất cao.",
+  "vocab_reviewed": [
+    "tình hình",
+    "căng thẳng",
+    "binh sĩ"
+  ],
+  "vocab_new_introduced": [
+    "tàu chở dầu",
+    "eo biển",
+    "hộ tống",
+    "lên án",
+    "đóng quân",
+    "nhà phân tích",
+    "xung đột"
+  ],
+  "user_translation": "This week the situation in the Middle East became more tense. Iran attacked to ships carrying oil near the strait of Hormuz. The ships are being escorted by the American military. The American government condemned the attack and warn that there will be harsh consequences. Thousands of American soldiers are being stationed in bases near the area. Analyst worn at the risk of a larger conflict is still very high.",
+  "correction_notes": "S1 ✓. S2 ~ typo 'to' instead of 'two'; 'ships carrying oil' acceptable but 'oil tankers' tighter. S3 ✓ hộ tống nailed. S4 ~ 'harsh consequences' vs correct 'strong/decisive action' (hành động mạnh). S5 ✓ đóng quân nailed. S6 ✗ 'worn'→'warn' typo; cho rằng = believe/argue not warn — same recurring error as session 2.",
+  "vocab_added_to_list": [
+    "tàu chở dầu",
+    "eo biển",
+    "hộ tống",
+    "lên án",
+    "đóng quân",
+    "nhà phân tích",
+    "xung đột"
+  ],
+  "inspiration_source": "VNExpress / current affairs — Middle East tensions",
+  "id": "0b5f2dad-abd6-44b0-806f-a95188e5acb8"
+}
