@@ -23,8 +23,8 @@
       ],
       "id": "0ce121e8-2cf8-40af-a409-228a9d3a3dfa",
       "date_added": "2026-07-31",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-08-01",
+      "practice_count": 1
     },
     {
       "vietnamese": "căng thẳng",
@@ -48,8 +48,8 @@
       ],
       "id": "4daf8604-6d05-4b88-8805-8e331b87bed5",
       "date_added": "2026-07-31",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-08-01",
+      "practice_count": 1
     },
     {
       "vietnamese": "binh sĩ",
@@ -73,8 +73,8 @@
       ],
       "id": "b6746710-469e-4b0e-83c6-6cbac5609a4f",
       "date_added": "2026-07-31",
-      "last_practiced": null,
-      "practice_count": 0
+      "last_practiced": "2026-08-01",
+      "practice_count": 1
     },
     {
       "vietnamese": "sẵn sàng",
@@ -327,5 +327,5 @@
       "practice_count": 0
     }
   ],
-  "last_updated": "2026-07-31T20:57:10Z"
+  "last_updated": "2026-08-01T09:23:48Z"
 }
