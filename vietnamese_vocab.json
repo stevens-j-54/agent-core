@@ -24,7 +24,7 @@
       "id": "0ce121e8-2cf8-40af-a409-228a9d3a3dfa",
       "date_added": "2026-07-31",
       "last_practiced": "2026-08-01",
-      "practice_count": 1
+      "practice_count": 2
     },
     {
       "vietnamese": "căng thẳng",
@@ -49,7 +49,7 @@
       "id": "4daf8604-6d05-4b88-8805-8e331b87bed5",
       "date_added": "2026-07-31",
       "last_practiced": "2026-08-01",
-      "practice_count": 1
+      "practice_count": 2
     },
     {
       "vietnamese": "binh sĩ",
@@ -74,7 +74,7 @@
       "id": "b6746710-469e-4b0e-83c6-6cbac5609a4f",
       "date_added": "2026-07-31",
       "last_practiced": "2026-08-01",
-      "practice_count": 1
+      "practice_count": 2
     },
     {
       "vietnamese": "sẵn sàng",
@@ -325,7 +325,182 @@
       "date_added": "2026-07-31",
       "last_practiced": null,
       "practice_count": 0
+    },
+    {
+      "vietnamese": "tàu chở dầu",
+      "meaning_index": 1,
+      "english": "oil tanker",
+      "word_type": "noun",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Iran đã tấn công hai tàu chở dầu gần eo biển Hormuz.",
+          "en": "Iran attacked two oil tankers near the Strait of Hormuz."
+        },
+        {
+          "vi": "Tàu chở dầu bị hư hại nặng sau vụ tấn công.",
+          "en": "The oil tanker was badly damaged after the attack."
+        },
+        {
+          "vi": "Nhiều tàu chở dầu đi qua eo biển này mỗi ngày.",
+          "en": "Many oil tankers pass through this strait every day."
+        }
+      ],
+      "id": "52c6e313-1bc2-4eee-b7c5-52555576a80d",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "eo biển",
+      "meaning_index": 1,
+      "english": "strait (narrow sea passage)",
+      "word_type": "noun",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Eo biển Hormuz là một trong những tuyến đường biển quan trọng nhất thế giới.",
+          "en": "The Strait of Hormuz is one of the most important sea lanes in the world."
+        },
+        {
+          "vi": "Hàng triệu thùng dầu đi qua eo biển này mỗi ngày.",
+          "en": "Millions of barrels of oil pass through this strait every day."
+        },
+        {
+          "vi": "Căng thẳng ở eo biển đã làm giá dầu tăng cao.",
+          "en": "Tensions at the strait have caused oil prices to rise."
+        }
+      ],
+      "id": "1342805a-5c8f-4187-a5b5-5e099fc832f5",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "hộ tống",
+      "meaning_index": 1,
+      "english": "to escort, to accompany for protection",
+      "word_type": "verb",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Các tàu chiến Mỹ hộ tống tàu chở dầu qua eo biển.",
+          "en": "American warships escorted oil tankers through the strait."
+        },
+        {
+          "vi": "Đoàn xe được hộ tống bởi cảnh sát.",
+          "en": "The convoy was escorted by police."
+        },
+        {
+          "vi": "Nhiệm vụ hộ tống rất nguy hiểm trong vùng chiến sự.",
+          "en": "Escort missions are very dangerous in conflict zones."
+        }
+      ],
+      "id": "26cc6776-7094-4939-81e8-a5616f8c343f",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "lên án",
+      "meaning_index": 1,
+      "english": "to condemn, to denounce",
+      "word_type": "verb",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Chính phủ Mỹ lên án vụ tấn công của Iran.",
+          "en": "The US government condemned Iran's attack."
+        },
+        {
+          "vi": "Liên Hợp Quốc lên án hành động bạo lực này.",
+          "en": "The United Nations condemned this act of violence."
+        },
+        {
+          "vi": "Nhiều nước đã lên án vụ vi phạm nhân quyền.",
+          "en": "Many countries condemned the human rights violation."
+        }
+      ],
+      "id": "8869615c-297b-4bc2-bce3-e37eb8240900",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "đóng quân",
+      "meaning_index": 1,
+      "english": "to be stationed (of troops)",
+      "word_type": "verb",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Hàng nghìn binh sĩ Mỹ đang đóng quân tại khu vực này.",
+          "en": "Thousands of American soldiers are stationed in this region."
+        },
+        {
+          "vi": "Quân đội đóng quân gần biên giới từ nhiều tháng nay.",
+          "en": "The military has been stationed near the border for many months."
+        },
+        {
+          "vi": "Căn cứ nơi họ đóng quân bị tấn công vào ban đêm.",
+          "en": "The base where they were stationed was attacked at night."
+        }
+      ],
+      "id": "054ccbee-e709-426d-8835-c8919cc57546",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "nhà phân tích",
+      "meaning_index": 1,
+      "english": "analyst",
+      "word_type": "noun",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Các nhà phân tích cho rằng tình hình sẽ còn phức tạp hơn.",
+          "en": "Analysts argue that the situation will become even more complex."
+        },
+        {
+          "vi": "Nhà phân tích chính trị dự đoán kết quả bầu cử.",
+          "en": "The political analyst predicted the election result."
+        },
+        {
+          "vi": "Nhiều nhà phân tích lo ngại về nguy cơ xung đột.",
+          "en": "Many analysts are concerned about the risk of conflict."
+        }
+      ],
+      "id": "7c78c1b0-2f8b-4fca-b3fe-d0836e847cdd",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "xung đột",
+      "meaning_index": 1,
+      "english": "conflict",
+      "word_type": "noun",
+      "source": "Middle East / US-Iran tensions",
+      "sample_sentences": [
+        {
+          "vi": "Nguy cơ xung đột lớn hơn vẫn còn rất cao.",
+          "en": "The risk of a larger conflict remains very high."
+        },
+        {
+          "vi": "Xung đột ở Trung Đông đã kéo dài nhiều thập kỷ.",
+          "en": "The conflict in the Middle East has lasted for many decades."
+        },
+        {
+          "vi": "Các bên đang cố gắng tránh xung đột vũ trang.",
+          "en": "Both sides are trying to avoid armed conflict."
+        }
+      ],
+      "id": "f684a75c-ae2c-4ffe-9b44-c8aff5cdc957",
+      "date_added": "2026-08-01",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ],
-  "last_updated": "2026-08-01T09:23:48Z"
+  "last_updated": "2026-08-01T09:27:12Z"
 }
