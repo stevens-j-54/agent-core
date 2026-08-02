@@ -500,7 +500,82 @@
       "date_added": "2026-08-01",
       "last_practiced": null,
       "practice_count": 0
+    },
+    {
+      "vietnamese": "uổng",
+      "meaning_index": 1,
+      "english": "a waste, a pity (to waste something good)",
+      "word_type": "adjective",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Trời đẹp thế này mà ở nhà thì uổng lắm.",
+          "en": "Weather this nice and you're staying home — what a waste."
+        },
+        {
+          "vi": "Uổng quá, anh ấy không đến dự buổi tiệc.",
+          "en": "What a shame, he didn't come to the party."
+        },
+        {
+          "vi": "Bỏ cơ hội đó thì uổng thật.",
+          "en": "Letting that opportunity go would really be a waste."
+        }
+      ],
+      "id": "488d7bfd-0b8d-472d-a2aa-16c67f933e2d",
+      "date_added": "2026-08-02",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "tranh nhau",
+      "meaning_index": 1,
+      "english": "to compete over, to争 fight over (something)",
+      "word_type": "verb",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Mấy nước đang tranh nhau chủ quyền ở Biển Đông.",
+          "en": "Several countries are competing over sovereignty in the South China Sea."
+        },
+        {
+          "vi": "Hai đội đang tranh nhau chiếc cúp vô địch.",
+          "en": "The two teams are fighting over the championship trophy."
+        },
+        {
+          "vi": "Họ tranh nhau từng tấc đất.",
+          "en": "They fought over every inch of land."
+        }
+      ],
+      "id": "ab111b02-7402-4894-92fd-6a1a870432f1",
+      "date_added": "2026-08-02",
+      "last_practiced": null,
+      "practice_count": 0
+    },
+    {
+      "vietnamese": "nét",
+      "meaning_index": 1,
+      "english": "feature, quality, characteristic (often of beauty or nature)",
+      "word_type": "noun",
+      "source": "direct lookup",
+      "sample_sentences": [
+        {
+          "vi": "Quy Nhơn giữ được nét tự nhiên của vùng biển miền Trung.",
+          "en": "Quy Nhơn retains the natural character of the central coast."
+        },
+        {
+          "vi": "Cô ấy có những nét đẹp rất riêng.",
+          "en": "She has very distinctive features."
+        },
+        {
+          "vi": "Kiến trúc cũ của thành phố vẫn còn giữ được nhiều nét cổ kính.",
+          "en": "The old architecture of the city still retains many classical features."
+        }
+      ],
+      "id": "4d75cbed-7c36-410d-8f4f-825df1ea8fd8",
+      "date_added": "2026-08-02",
+      "last_practiced": null,
+      "practice_count": 0
     }
   ],
-  "last_updated": "2026-08-01T09:27:12Z"
+  "last_updated": "2026-08-02T16:37:08Z"
 }
