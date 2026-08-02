@@ -2,14 +2,6 @@
   "8276474461": [
     {
       "role": "user",
-      "content": "Hugh: Th\u1eadt t\u1ec7 v\u1eady. \n\nV\u1edbi t\u00f4i 33 \u0111\u1ed9 n\u00f3ng qu\u00e1! T\u00f4i \u1edf \u0111\u00f3 th\u00ec t\u00f4i s\u1ebd \u0111\u1ed5 m\u1ed3 h\u00f4i nh\u01b0 th\u00e1ch n\u01b0\u1edbc kkk\n\nHugh \u0111\u00e3 t\u1eebng s\u1ed1ng \u1edf Vi\u1ec7t Nam!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
-    },
-    {
-      "role": "assistant",
-      "content": "Haha \"\u0111\u1ed5 m\u1ed3 h\u00f4i nh\u01b0 th\u00e1c n\u01b0\u1edbc\" \u2014 g\u1ea7n \u0111\u00fang r\u1ed3i! *Th\u00e1c* n\u01b0\u1edbc, kh\u00f4ng ph\u1ea3i *th\u00e1ch* n\u01b0\u1edbc. Th\u00e1c = waterfall. C\u00e2u \u0111\u00f3 hay l\u1eafm, ng\u01b0\u1eddi Vi\u1ec7t hay n\u00f3i v\u1eady.\n\n\u1ee6a, Hugh \u0111\u00e3 t\u1eebng s\u1ed1ng \u1edf Vi\u1ec7t Nam \u00e0?! S\u1ed1ng \u1edf \u0111\u00e2u \u2014 S\u00e0i G\u00f2n kh\u00f4ng? Bao l\u00e2u v\u1eady?"
-    },
-    {
-      "role": "user",
       "content": "Hugh: Quy Nh\u01a1n! Hugh s\u00f4ng \u1edf \u0111\u00f3 \u0111\u01b0\u1ee3c b\u1ed1n n\u0103m!\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
     },
     {
@@ -79,6 +71,14 @@
     {
       "role": "assistant",
       "content": "**\"M\u1ea5y n\u01b0\u1edbc \u0111ang tranh nhau l\u1ea1i\"** \u2014 \"Several countries are competing/fighting over it again.\" *Tranh nhau* = to fight over something, compete for something. *L\u1ea1i* = again. So the whole thing: several countries are at it again over the South China Sea.\n\n**\"U\u1ed5ng\"** = a waste, a pity. \"Ng\u1ed3i nh\u00e0 th\u00ec u\u1ed5ng qu\u00e1\" = \"staying home would be such a waste.\" You use it when something good is being wasted or missed \u2014 time, opportunity, nice weather. \n\nAlso \u2014 t\u00f4i xin l\u1ed7i Hugh. M\u1ea5y tin nh\u1eafn tr\u01b0\u1edbc t\u00f4i c\u1ee9 n\u00f3i \"added to your vocab list\" m\u00e0 kh\u00f4ng gi\u1ea3i th\u00edch g\u00ec h\u1ebft. L\u1ed7i c\u1ee7a t\u00f4i. T\u1eeb gi\u1edd t\u00f4i gi\u1ea3i th\u00edch tr\u01b0\u1edbc, l\u01b0u sau."
+    },
+    {
+      "role": "user",
+      "content": "Hugh: C\u1ea3m \u01a1n b\u1ea1n!  \nH\u00f4m qua t\u00f4i \u0111i ch\u01a1i qu\u1ea7n v\u1ee3t v\u00e0 sau \u0111\u00f3 t\u00f4i \u0111i nh\u1eadu v\u1edbi b\u1ea1n b\u00e8. Sau nh\u1eadu t\u1ed1i qua t\u00f4i m\u1ec7t m\u1ecfi qu\u00e1 n\u00ean \u1edf nh\u00e0 h\u00f4m nay\n\n---\nReply as you would in a Telegram message \u2014 conversational and concise. No email sign-off."
+    },
+    {
+      "role": "assistant",
+      "content": "Haha nghe hay \u0111\u00f3 \u2014 qu\u1ea7n v\u1ee3t r\u1ed3i nh\u1eadu, combo chu\u1ea9n cu\u1ed1i tu\u1ea7n! \ud83d\ude04\n\nM\u1ed9t c\u00e1i nh\u1ecf: \"sau nh\u1eadu t\u1ed1i qua\" nghe h\u01a1i l\u1ea1 \u2014 t\u1ef1 nhi\u00ean h\u01a1n th\u00ec n\u00f3i \"sau khi nh\u1eadu t\u1ed1i qua\" ho\u1eb7c \u0111\u01a1n gi\u1ea3n l\u00e0 \"t\u1ed1i qua nh\u1eadu v\u1ec1\". \u00dd c\u1ee7a Hugh r\u00f5 r\u00e0ng r\u1ed3i, ch\u1ec9 l\u00e0 s\u1eafp x\u1ebfp c\u00e2u th\u00f4i.\n\nNh\u1eadu v\u1edbi b\u1ea1n b\u00e8 ki\u1ec3u g\u00ec \u2014 bia h\u01a1i, cocktail, hay m\u1ea5y chai r\u01b0\u1ee3u vang sang ch\u1ea3nh? \ud83d\ude04"
     }
   ]
 }
