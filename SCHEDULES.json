@@ -8,8 +8,8 @@
       "run_at": null,
       "instruction": "hn_digest",
       "instruction_type": "skill",
-      "next_run": "2026-08-09T07:00:00+00:00",
-      "last_run": "2026-08-08T07:00:09.815752+00:00",
+      "next_run": "2026-08-10T07:00:00+00:00",
+      "last_run": "2026-08-09T07:00:02.890163+00:00",
       "created_at": "2026-04-13T08:18:44.077343+00:00",
       "status": "active"
     },
