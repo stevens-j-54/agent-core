@@ -34,8 +34,8 @@
       "run_at": null,
       "instruction": "update_vietnamese_dashboard",
       "instruction_type": "skill",
-      "next_run": "2026-08-28T23:00:00+00:00",
-      "last_run": "2026-08-27T23:00:05.768794+00:00",
+      "next_run": "2026-08-29T23:00:00+00:00",
+      "last_run": "2026-08-28T23:00:10.796193+00:00",
       "created_at": "2026-04-21T16:21:48.966179+00:00",
       "status": "active"
     },
